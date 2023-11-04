@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Обрій: локалізаційний пакунок</name>
+  <author>oleksandr</author>
+  <packageId>oleksandr.ObriyLocalizationPackage</packageId>
+  <modVersion>1.0</modVersion>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <loadAfter>
+    <li></li>
+  </loadAfter>
+  <description></description>
+</ModMetaData>	
