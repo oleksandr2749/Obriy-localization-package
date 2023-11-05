@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Neutroaleaf Refining-->
+  <NeutroaleafRefining.label>Синтез нейтроаміну</NeutroaleafRefining.label>
+  <!--Learn how to refine Neutroaleaf into Neutroamine, A helpful resource in medical supplies.-->
+  <NeutroaleafRefining.description>Синтезуйте нейтроамін з нейтролист.</NeutroaleafRefining.description>
+  <!--Neutroaleaf Planting-->
+  <NeutroaleafPlanting.label>Вирощування нейтролису</NeutroaleafPlanting.label>
+  <!--Learn how to plant the neutroaleaf crop.-->
+  <NeutroaleafPlanting.description>Вирощуйте нейтролист як будь-яку іншу звичайну рослину.</NeutroaleafPlanting.description>
+</LanguageData>
