@@ -14,5 +14,7 @@
 	<li IfModActive="legodude17.qualcolor">quality collors</li>
 	<li IfModActive="hatti.qualitybuilder">quality builder</li>
 	<li IfModActive="brrainz.rangefinder">range finder</li>
+	<li IfModActive="Owlchemist.CherryPicker">cherry picker</li>
+	<li IfModActive="cjgunnar.HiddenEnemyBio">hidden enemy bio</li>
 	</v1.4>
 </loadFolders>
