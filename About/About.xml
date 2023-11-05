@@ -7,9 +7,5 @@
   <supportedVersions>
     <li>1.4</li>
   </supportedVersions>
-  <loadAfter>
-    <li>SaucyPigeon.PawnBadge</li>
-	<li>nanonator102.FarmableNeutroamine</li>
-  </loadAfter>
   <description></description>
 </ModMetaData>	

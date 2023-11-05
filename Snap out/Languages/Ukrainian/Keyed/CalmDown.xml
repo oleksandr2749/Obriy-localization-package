@@ -4,7 +4,7 @@
   <FailCalm>{0} не {0_gender ? зміг: змогла} заспокоїти {1}.</FailCalm>
   <SuccessCalm>{1} був {0_gender ? заспокоєний: заспокоєна} {0}.</SuccessCalm>
   <AggroFailCalm>{0} {0_gender ? вирішив: вирішила} застосувати сили після невдалої спроби заспокоїти {1}</AggroFailCalm>
-  <SettingsCategoryLabel>Отямся!</SettingsCategoryLabel>
+  <SettingsCategoryLabel>Snap Out!</SettingsCategoryLabel>
   <MessagesEnabledLabel>Повідомлення персонажів</MessagesEnabledLabel>
   <AggroCalmEnabledLabel>Заспокоювати агресивних персонажів</AggroCalmEnabledLabel>
   <OpinionOnlyEnabledLabel>Лише відносили мають значення</OpinionOnlyEnabledLabel>

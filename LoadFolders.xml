@@ -2,17 +2,15 @@
 <loadFolders>
 	<v1.4>
 	<li>/</li>
-    <li IfModActive="nanonator102.FarmableNeutroamine">farmable neutroamine</li>
-    <li IfModActive="SaucyPigeon.PawnBadge">pawn badge fan fork adopted</li>
+	<li IfModActive="nanonator102.FarmableNeutroamine">farmable neutroamine</li>
+	<li IfModActive="SaucyPigeon.PawnBadge">pawn badge fan fork adopted</li>
 	<li IfModActive="tammybee.whereismyweapon">where is my weapons</li>
 	<li IfModActive="Sl4vP0weR.WeAreUnited">we are united</li>
 	<li IfModActive="VanillaExpanded.VTEXE">vanilla textures expanded</li>
 	<li IfModActive="TimmyLiang.TradeHelper">trade helper</li>
 	<li IfModActive="Mlie.SmarterVisitors">smarter visitors</li>
 	<li IfModActive="weilbyte.snapout">snap out</li>
-	<li IfModActive="sarg.smartspeed">smart speed</li>
 	<li IfModActive="Mlie.ShowMeYourHands">show me your hands</li>
-	<li IfModActive="Uuugggg.ShareTheLoad">share the load</li>
 	<li IfModActive="legodude17.qualcolor">quality collors</li>
 	<li IfModActive="hatti.qualitybuilder">quality builder</li>
 	<li IfModActive="brrainz.rangefinder">range finder</li>

@@ -10,7 +10,7 @@
 	<UseColorCodingTitle>Використовувати кольорове кодування</UseColorCodingTitle>
 	<UseColorCodingExplained>Якщо увімкнено, кожне коло дальності матиме свій колір і позначатиме персонажа тим самим кольором.</UseColorCodingExplained>
 
-	<MaxRangeTitle>Максимальна відстань відображення дальності</MaxRangeTitle>
+	<MaxRangeTitle>Максимальна відстань відображення</MaxRangeTitle>
 	<MaxRangeExplained>Гра має особисту максимальну кількість клітин для відображення дальності. Занадто велике значення цього параметра призводить до помилок.</MaxRangeExplained>
 
 	<ModifierKeyOptionNone>Вимкнено</ModifierKeyOptionNone>
