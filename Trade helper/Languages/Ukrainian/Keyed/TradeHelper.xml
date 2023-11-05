@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<TradeHelperTitleGift>Gift</TradeHelperTitleGift>
-	<TradeHelperTitleBuying>Buying</TradeHelperTitleBuying>
-	<TradeHelperTitleSelling>Selling</TradeHelperTitleSelling>
-	<TradeHelperTitleWishlist>Wishlist</TradeHelperTitleWishlist>
-	<TradeHelperSettingDescription>Wish List: You can add items into your wish list, separated by comma (,) and  when an item in your wish list also appears in Trader’s inventory, it will be highlighted. Below is an example which highlights 2 items:
+	<TradeHelperTitleGift>Подарунок</TradeHelperTitleGift>
+	<TradeHelperTitleBuying>Купити</TradeHelperTitleBuying>
+	<TradeHelperTitleSelling>Продати</TradeHelperTitleSelling>
+	<TradeHelperTitleWishlist>Список бажаного</TradeHelperTitleWishlist>
+	<TradeHelperSettingDescription>Список бажань: Ви можете додавати позиції до списку бажань, розділяючи їх комою (,), і коли позиція з вашого списку бажань також з'являється в інвентарі трейдера, вона буде виділена. Нижче наведено приклад, який виділяє 2 позиції:
 
-Hyperweave, Plasteel
+Гіпертканина, Пласталь
 
-Advanced tip: the wish list also supports wildcard (? and *) matching, which means you can do following to match any items that contain the word ‘steel’ or ‘human leather’:
+Порада: список бажань також підтримує пошук за допомогою підстановочних знаків (? і *), що означає, що ви можете шукати будь-які предмети, які містять слово "сталь" або "людська шкіра":
 
-*steel*, *human leather*
+*сталь*, *людська шкіра*
 
 </TradeHelperSettingDescription>
 </LanguageData>

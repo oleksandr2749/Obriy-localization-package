@@ -47,7 +47,7 @@
   <SMYH.resetsingle.confirm>Це призведе до видалення всіх збережених ручних налаштувань для зброї та встановлення налаштувань за замовчуванням</SMYH.resetsingle.confirm>
   <SMYH.resetall.confirm>Це призведе до видалення ВСІХ збережених ручних налаштувань для ВСІЄЇ зброї та встановлення налаштувань за замовчуванням</SMYH.resetall.confirm>
   <SMYH.resetselected.confirm>Це призведе до видалення всіх збережених ручних налаштувань для мода {0}</SMYH.resetselected.confirm>
-  <SMYH.showhidden>Show {0} hidden weapons</SMYH.showhidden>
+  <SMYH.showhidden>Показавати {0} приховану зброю</SMYH.showhidden>
   <SMYH.weaponrow.red>Має налаштування за замовчуванням</SMYH.weaponrow.red>
   <SMYH.weaponrow.cyan>Має налаштування встановлені модом</SMYH.weaponrow.cyan>
   <SMYH.weaponrow.green>Має налаштування гравця</SMYH.weaponrow.green>

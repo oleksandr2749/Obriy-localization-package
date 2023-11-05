@@ -2,21 +2,21 @@
 <LanguageData>
 	
 	<QualityBuilder>QualityBuilder</QualityBuilder>
-	<QualityBuilderCommand.Label>Quality Builder</QualityBuilderCommand.Label>
+	<QualityBuilderCommand.Label>Якість будівлі</QualityBuilderCommand.Label>
 
-	<QualityBuilderOn.Label>Set Quality Builderer</QualityBuilderOn.Label>
-	<QualityBuilderOn.Desc>Current quality: {0}. Set buildings for skillful workers</QualityBuilderOn.Desc>
-	<QualityBuilder.Already></QualityBuilder.Already>
+	<QualityBuilderOn.Label>ПОМИЛКА</QualityBuilderOn.Label>
+	<QualityBuilderOn.Desc>ЛКМ - встановити вимогу якості. ПКМ - обрати якість.</QualityBuilderOn.Desc>
+	<QualityBuilder.Already>ПОМИЛКА</QualityBuilder.Already>
 
-	<QualityBuilderOff.Label>Unset Quality Builder</QualityBuilderOff.Label>
-	<QualityBuilderOff.Desc>Current quality: {0}. Unset buildings for skillful workers</QualityBuilderOff.Desc>
-	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+	<QualityBuilderOff.Label>ПОМИЛКА</QualityBuilderOff.Label>
+	<QualityBuilderOff.Desc>Обрана якість: {0}. ЛКМ - вняти вимогу якості. ПКМ - обрати якість.</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing>ПОМИЛКА</QualityBuilder.Nothing>
 
-	<QualityBuilder.SelectedSettings>Selected settings</QualityBuilder.SelectedSettings>
-	<QualityBuilder.CurrentMap>Current map</QualityBuilder.CurrentMap>
-	<QualityBuilder.Global>Default settings</QualityBuilder.Global>
-	<QualityBuilder.EnableByDefault>Enable QualityBuilder by default</QualityBuilder.EnableByDefault>
-	<QualityBuilder.IgnoreAtSkill>Ignore QualityBuilder at skill {0}</QualityBuilder.IgnoreAtSkill>
-	<QualityBuilder.MinQuality>Default minimum quality</QualityBuilder.MinQuality>
+	<QualityBuilder.SelectedSettings>Налаштування</QualityBuilder.SelectedSettings>
+	<QualityBuilder.CurrentMap>Поточна мапа</QualityBuilder.CurrentMap>
+	<QualityBuilder.Global>Налаштування за замовчуванням</QualityBuilder.Global>
+	<QualityBuilder.EnableByDefault>Увімкнути QualityBuilder за замовчуванням</QualityBuilder.EnableByDefault>
+	<QualityBuilder.IgnoreAtSkill>Ігнорувати QualityBuilder на рівні будівництва {0}</QualityBuilder.IgnoreAtSkill>
+	<QualityBuilder.MinQuality>Мінімальна якість за замовчуванням</QualityBuilder.MinQuality>
 	<QualityBuilder.OverrideBestBuilder>Override best builder with</QualityBuilder.OverrideBestBuilder>
 </LanguageData>

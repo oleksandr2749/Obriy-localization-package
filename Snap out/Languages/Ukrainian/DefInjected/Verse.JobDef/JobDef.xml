@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!--calming TargetA down.-->
-  <SnapOut_CalmDownJob.reportString>calming TargetA down.</SnapOut_CalmDownJob.reportString>
+  <SnapOut_CalmDownJob.reportString>заспокоює TargetA.</SnapOut_CalmDownJob.reportString>
   <!--spending time alone.-->
-  <SnapOut_SnappingOutJob.reportString>spending time alone.</SnapOut_SnappingOutJob.reportString>
+  <SnapOut_SnappingOutJob.reportString>проводить час на самоті</SnapOut_SnappingOutJob.reportString>
   <!--trying to relax.-->
-  <SnapOut_GoToSafetyJob.reportString>trying to relax.</SnapOut_GoToSafetyJob.reportString>
+  <SnapOut_GoToSafetyJob.reportString>намагається розслабитися.</SnapOut_GoToSafetyJob.reportString>
   <!--spending time alone.-->
-  <SnapOut_ActuallyRecoverJob.reportString>spending time alone.</SnapOut_ActuallyRecoverJob.reportString>
+  <SnapOut_ActuallyRecoverJob.reportString>проводить час на самоті.</SnapOut_ActuallyRecoverJob.reportString>
 </LanguageData>

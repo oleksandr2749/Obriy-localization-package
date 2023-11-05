@@ -3,9 +3,9 @@
 
     <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
 
-    <VanillaTexturesExpanded.MainButtonRenderMode>Режим відображення кнопки меню</VanillaTexturesExpanded.MainButtonRenderMode>
-    <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Іконки і текст (new)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
-    <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Icons where possible (vanilla)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
-    <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Text only (classic)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
+    <VanillaTexturesExpanded.MainButtonRenderMode>Режим відображення кнопок меню</VanillaTexturesExpanded.MainButtonRenderMode>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Піктограми і текст (нове)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Піктограми, де це можливо (звичайний)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Лише текст (класика)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
 
 </LanguageData>

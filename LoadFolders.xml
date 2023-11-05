@@ -4,8 +4,7 @@
 	<li>/</li>
     <li IfModActive="nanonator102.FarmableNeutroamine">farmable neutroamine</li>
     <li IfModActive="SaucyPigeon.PawnBadge">pawn badge fan fork adopted</li>
-	<li IfModActive="co.uk.epicguru.whatsthatmod">whats that mod</li>
-	<li IfModActive="tammybee.whereismyweapon">where my weapons</li>
+	<li IfModActive="tammybee.whereismyweapon">where is my weapons</li>
 	<li IfModActive="Sl4vP0weR.WeAreUnited">we are united</li>
 	<li IfModActive="VanillaExpanded.VTEXE">vanilla textures expanded</li>
 	<li IfModActive="TimmyLiang.TradeHelper">trade helper</li>
@@ -15,7 +14,6 @@
 	<li IfModActive="Mlie.ShowMeYourHands">show me your hands</li>
 	<li IfModActive="Uuugggg.ShareTheLoad">share the load</li>
 	<li IfModActive="legodude17.qualcolor">quality collors</li>
-	<li IfModActive="Mlie.RelevantStatsInDescription">relevant stats in description</li>
 	<li IfModActive="hatti.qualitybuilder">quality builder</li>
 	<li IfModActive="brrainz.rangefinder">range finder</li>
 	</v1.4>

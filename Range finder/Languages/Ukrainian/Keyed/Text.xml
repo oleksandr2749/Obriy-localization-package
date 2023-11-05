@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ShowWeaponRangeKeyTitle>Show Weapon Range Hotkey</ShowWeaponRangeKeyTitle>
-	<ShowWeaponRangeKeyExplained>To show the weapon range, select the pawn, then press this hotkey. If you double-press the key the range will be shown until you press the key again.</ShowWeaponRangeKeyExplained>
+	<ShowWeaponRangeKeyTitle>Гаряча клавіша відображення дальності зброї</ShowWeaponRangeKeyTitle>
+	<ShowWeaponRangeKeyExplained>Щоб показати дальність зброї, виберіть персонажа, а потім натисніть цю клавішу. Якщо ви натиснете клавішу двічі, дальність буде показана доти, доки ви не натиснете знову.</ShowWeaponRangeKeyExplained>
 
-	<ShowRangeAtMouseKeyTitle>Use Mouse Position Hotkey</ShowRangeAtMouseKeyTitle>
-	<ShowRangeAtMouseKeyExplained>Hold down this key to show the range from the current mouse position instead of the pawns position.</ShowRangeAtMouseKeyExplained>
+	<ShowRangeAtMouseKeyTitle>Гаряча клавіша дальність від позиції вказівника</ShowRangeAtMouseKeyTitle>
+	<ShowRangeAtMouseKeyExplained>Утримуючи цю клавішу, ви побачите дальність від поточної позиції миші, а не від позиції персонажа.</ShowRangeAtMouseKeyExplained>
 
-	<UseColorCodingTitle>Use Color Coding</UseColorCodingTitle>
-	<UseColorCodingExplained>When turned on this gives each range circle a distinct color and marks the pawn with the same color.</UseColorCodingExplained>
+	<UseColorCodingTitle>Використовувати кольорове кодування</UseColorCodingTitle>
+	<UseColorCodingExplained>Якщо увімкнено, кожне коло дальності матиме свій колір і позначатиме персонажа тим самим кольором.</UseColorCodingExplained>
 
-	<MaxRangeTitle>Maximum Range To Show</MaxRangeTitle>
-	<MaxRangeExplained>RimWorld has its own maximum cell count for rendering outline. Setting this value too high results in errors.</MaxRangeExplained>
+	<MaxRangeTitle>Максимальна відстань відображення дальності</MaxRangeTitle>
+	<MaxRangeExplained>Гра має особисту максимальну кількість клітин для відображення дальності. Занадто велике значення цього параметра призводить до помилок.</MaxRangeExplained>
 
-	<ModifierKeyOptionNone>Disabled</ModifierKeyOptionNone>
+	<ModifierKeyOptionNone>Вимкнено</ModifierKeyOptionNone>
 	<ModifierKeyOptionAlt>Alt</ModifierKeyOptionAlt>
 	<ModifierKeyOptionCtrl>Ctrl</ModifierKeyOptionCtrl>
 	<ModifierKeyOptionShift>Shift</ModifierKeyOptionShift>
 	<ModifierKeyOptionMeta>Win/Cmd</ModifierKeyOptionMeta>
 
-	<BooleanKeyOptionNo>No</BooleanKeyOptionNo>
-	<BooleanKeyOptionYes>Yes</BooleanKeyOptionYes>
+	<BooleanKeyOptionNo>Ні</BooleanKeyOptionNo>
+	<BooleanKeyOptionYes>Так</BooleanKeyOptionYes>
 
-	<CustomColors>Custom Colors</CustomColors>
-	<AddColor>Add Color</AddColor>
-	<AddingCustomColors>When you add custom colors they will replace all existing colors and are assigned in the order listed here.</AddingCustomColors>
+	<CustomColors>Свій колір</CustomColors>
+	<AddColor>Додати колір</AddColor>
+	<AddingCustomColors>Коли ви додаєте свої кольори, вони замінять всі існуючі кольори і будуть призначені в порядку, вказаному тут.</AddingCustomColors>
 
 </LanguageData>
