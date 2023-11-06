@@ -17,5 +17,6 @@
 	<li IfModActive="Owlchemist.CherryPicker">cherry picker</li>
 	<li IfModActive="cjgunnar.HiddenEnemyBio">hidden enemy bio</li>
 	<li IfModActive="zylle.Clocks">clocks</li>
+	<li IfModActive="Keshash.LayeredWallDestruction">layered wall destruction</li>
 	</v1.4>
 </loadFolders>
