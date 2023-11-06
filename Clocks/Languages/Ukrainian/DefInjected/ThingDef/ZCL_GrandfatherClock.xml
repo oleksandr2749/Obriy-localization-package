@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZCL_GrandfatherClock.label>дідівський годинник</ZCL_GrandfatherClock.label>
+  <ZCL_GrandfatherClock.description>Високий антикварний годинник. Дзвонить опівдні та опівночі.</ZCL_GrandfatherClock.description>
+  <ZCL_GrandfatherClock_Blueprint.label>дідівський годинник (креслення)</ZCL_GrandfatherClock_Blueprint.label>
+  <ZCL_GrandfatherClock_Blueprint_Install.label>дідівський годинник (креслення)</ZCL_GrandfatherClock_Blueprint_Install.label>
+  <ZCL_GrandfatherClock_Frame.label>дідівський годинник (будується)</ZCL_GrandfatherClock_Frame.label>
+  <ZCL_GrandfatherClock_Frame.description>Високий антикварний годинник. Дзвонить опівдні та опівночі.</ZCL_GrandfatherClock_Frame.description>
+
+
+</LanguageData>

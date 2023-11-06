@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZCL_ModernGrandfatherClock.label>сучасний дідівський годинник</ZCL_ModernGrandfatherClock.label>
+  <ZCL_ModernGrandfatherClock.description>Високий годинник з сучасним електромеханізмом. Дзвонить опівдні та опівночі.</ZCL_ModernGrandfatherClock.description>
+  <ZCL_ModernGrandfatherClock_Blueprint.label>сучасний дідівський годинник (креслення)</ZCL_ModernGrandfatherClock_Blueprint.label>
+  <ZCL_ModernGrandfatherClock_Blueprint_Install.label>сучасний дідівський годинник (креслення)</ZCL_ModernGrandfatherClock_Blueprint_Install.label>
+  <ZCL_ModernGrandfatherClock_Frame.label>сучасний дідівський годинник (будується)</ZCL_ModernGrandfatherClock_Frame.label>
+  <ZCL_ModernGrandfatherClock_Frame.description>Високий годинник з сучасним електромеханізмом. Дзвонить опівдні та опівночі.</ZCL_ModernGrandfatherClock_Frame.description>
+
+
+</LanguageData>

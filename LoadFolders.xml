@@ -16,5 +16,6 @@
 	<li IfModActive="brrainz.rangefinder">range finder</li>
 	<li IfModActive="Owlchemist.CherryPicker">cherry picker</li>
 	<li IfModActive="cjgunnar.HiddenEnemyBio">hidden enemy bio</li>
+	<li IfModActive="zylle.Clocks">clocks</li>
 	</v1.4>
 </loadFolders>
