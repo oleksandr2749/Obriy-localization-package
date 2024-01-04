@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--pawn-->
+  <VFEP_TravelingPawn.label>персонаж</VFEP_TravelingPawn.label>
+  <!--pawn in flight.-->
+  <VFEP_TravelingPawn.description>персонаж в польоту.</VFEP_TravelingPawn.description>
+</LanguageData>

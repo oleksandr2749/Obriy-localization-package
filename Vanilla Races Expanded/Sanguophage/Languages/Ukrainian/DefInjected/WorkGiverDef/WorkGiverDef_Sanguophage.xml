@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--refueling draincaskets-->
+  <VRE_RefuelDraincaskets.label>заправка draincaskets</VRE_RefuelDraincaskets.label>
+  <!--refueling-->
+  <VRE_RefuelDraincaskets.gerund>заправка</VRE_RefuelDraincaskets.gerund>
+  <!--refuel-->
+  <VRE_RefuelDraincaskets.verb>заправити</VRE_RefuelDraincaskets.verb>
+</LanguageData>

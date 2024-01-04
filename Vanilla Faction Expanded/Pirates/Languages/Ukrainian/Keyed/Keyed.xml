@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Entombing a colonist in warcasket is permanent operation that cannot be reversed without painful consequences.-->
+  <VFEPirates.EntombingWarning>Розміщення персонажа в бойову оболонку - це безповоротна операція, яку неможливо скасувати без болючих наслідків.</VFEPirates.EntombingWarning>
+  <!--Missing materials: {0}-->
+  <VFEM.MissingMaterials>Відсутні матеріали: {0}</VFEM.MissingMaterials>
+  <!--Occupied-->
+  <VFEP.Occupied>Зайнято</VFEP.Occupied>
+  <!--Warcasket cannot be removed-->
+  <VFEP.WarcasketCannotBeRemoved>бронеоболонку не можна зняти</VFEP.WarcasketCannotBeRemoved>
+  <!--Producing rum from bodily fluids in-->
+  <VFEP_NextSpawnedRumIn>Виробництво рому з біологічних рідин в</VFEP_NextSpawnedRumIn>
+  <!--{PAWN_nameDef} have arrived.-->
+  <VFEP.MessagePawnArrived>{PAWN_nameDef} прибув.</VFEP.MessagePawnArrived>
+  <!--Requires warcasket-->
+  <VFEP.RequiresWarcasket>Потрібна бронеоболонка</VFEP.RequiresWarcasket>
+  <!--Will explode in-->
+  <VFEP.ExplodeIn>Вибухне в</VFEP.ExplodeIn>
+  <!--Select Your Curses-->
+  <VFEP.ChooseCurses>Оберіть собі прокляття</VFEP.ChooseCurses>
+  <!--The more curses you select, the more pawns your storyteller will allow you to have, and the rarer big threat events will be.-->
+  <VFEP.ChooseCurses.Desc>Чим більше проклять ви виберете, тим більше перссонажів ваш оповідач дозволить вам мати, і тим рідше будуть відбуватися великі загрози.</VFEP.ChooseCurses.Desc>
+  <!--Desired population max: {0}-->
+  <VFEP.DesiredPopMax>Максимальна бажана чисельність населення: {0}</VFEP.DesiredPopMax>
+  <!--Days between Big Threats: {0}-->
+  <VFEP.DaysBigThreats>Дні між великими загрозами: {0}</VFEP.DaysBigThreats>
+  <!--Warcasket Customization-->
+  <VFEP.WarcasketCustom>Кастомізація бронеоболонки</VFEP.WarcasketCustom>
+  <!--When you press Accept, a crafter you’ve chosen will bring the resources onto the frame and begin assembling a warcasket. The speed of the assembly depends on the crafting skill of your crafter. Once the process is completed, a warcasket will leave the platform. Be careful, as the pawn on the platform can still die of hunger when on the platform - you should prioritize the warcasket assembly over other tasks.-->
+  <VFEP.WarcasketText>Коли ви натиснете кнопку "Прийняти", обраний вами майстер принесе ресурси на раму і почне збирати бронеоболонку. Швидкість роботи залежить від майстерності вашого майстра. Як тільки процес буде завершено, оператор бронеоболонки покине платформу. Будьте обережні, оскільки персонаж на платформі все ще може померти від голоду, перебуваючи на платформі - вам слід надавати пріоритет збірці бронеоболонки над іншими завданнями.</VFEP.WarcasketText>
+  <!--Work Amount:-->
+  <VFEP.WorkAmount>Обсяг робіт:</VFEP.WorkAmount>
+  <!--Crafter:-->
+  <VFEP.Crafter>Майстер:</VFEP.Crafter>
+  <!--Helmet:-->
+  <VFEP.Helmet>Шолом:</VFEP.Helmet>
+  <!--Shoulderpads:-->
+  <VFEP.Shoulderpads>Наплічники:</VFEP.Shoulderpads>
+  <!--Armor frame:-->
+  <VFEP.ArmorFrame>Бронекорпус:</VFEP.ArmorFrame>
+  <!--Total Cost:-->
+  <VFEP.TotalCost>Загальна вартість:</VFEP.TotalCost>
+  <!--Resource Cost:-->
+  <VFEP.ResourceCost>Вартість ресурсів:</VFEP.ResourceCost>
+  <!--Research more warcasket technology to unlock more armor pieces.-->
+  <VFEP.ResearchText>Дослідіть більше технологій бронеоболонок, щоб відкрити більше моделей.</VFEP.ResearchText>
+  <!--Research warcaskets to learn how to use the foundry.-->
+  <VFEP.NoWarcaskets>Дослідіть бронеоболонки, щоб дізнатися, як користуватися ливарнею.</VFEP.NoWarcaskets>
+  <!--Not enough chemfuel for power jump.-->
+  <VFEP.NotEnoughFuel>Не вистачає хімпалива для силового стрибка.</VFEP.NotEnoughFuel>
+  <!--Siege mode off-->
+  <VFEP.SiegeModeOff>Режим облоги вимкнено</VFEP.SiegeModeOff>
+  <!--Siege mode on-->
+  <VFEP.SiegeModeOn>Режим облоги ввімкнено</VFEP.SiegeModeOn>
+  <!--Cannot entomb in warcasket: {0}-->
+  <VFEPirates.CannotEntomb>Не можна помістити в бронеоболонку: {0}</VFEPirates.CannotEntomb>
+  <!--Entomb in warcasket-->
+  <VFEPirates.EntombInWarcasket>Помістити в бронеоболонку</VFEPirates.EntombInWarcasket>
+  <!-- (Warning: {PAWN_nameDef} is not capable of violence, it will make {PAWN_objective} useless.)-->
+  <VFEP.EntombInIncapableOfViolenceWarning> (Попередження: {PAWN_nameDef} не здатна до насильства, вона зробить {PAWN_objective} безкорисним.)</VFEP.EntombInIncapableOfViolenceWarning>
+  <!--Activate shield field-->
+  <VFEP.ActivateShield>Активувати захисне поле</VFEP.ActivateShield>
+  <!--Click to activate the shield field. It has 10 seconds of active mode and then 90 seconds cooldown.-->
+  <VFEP.ActivateShieldDesc>Натисніть, щоб активувати захисне поле. Воно має 10 секунд активного режиму, а потім 90 секунд відновлення.</VFEP.ActivateShieldDesc>
+  <!--Deploy small, combat-ready drones from the docking port in the back. These drones can be controlled to provide firing support, but will self-detonate after 60 seconds.-->
+  <VFEP.DeployWarDrone>Розгорніть невеликі боєздатні дрони зі стикувального порту в задній частині корабля. Цими дронами можна керувати для забезпечення вогневої підтримки, але вони самопідриваються через 60 секунд із за малого об'єму батареї.</VFEP.DeployWarDrone>
+  <!--Fire a long range spidermine that will automatically run towards the nearest enemy, detonating as soon as it reaches them.-->
+  <VFEP.DeploySpidermineDesc>Запустіть міну-павука дальнього радіусу дії, який автоматично побіжить до найближчого супротивника і підірветься, щойно досягне його.</VFEP.DeploySpidermineDesc>
+  <!--Cancel-->
+  <VFEP.Cancel>Відмінити</VFEP.Cancel>
+  <!--Children cannot use this.-->
+  <VFEP.ChildrenCannotUseThis>Діти не можуть використовувати це.</VFEP.ChildrenCannotUseThis>
+</LanguageData>

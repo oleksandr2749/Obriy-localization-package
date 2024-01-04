@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--remove warcasket-->
+  <VFEP_RemoveWarcasket.label>зняти бойову оболонку</VFEP_RemoveWarcasket.label>
+  <!--Remove a warcasket from the body.-->
+  <VFEP_RemoveWarcasket.description>Зняти бойову оболонку з оператора.</VFEP_RemoveWarcasket.description>
+  <!--Removing warcasket.-->
+  <VFEP_RemoveWarcasket.jobString>Знімає бойову оболонку.</VFEP_RemoveWarcasket.jobString>
+</LanguageData>

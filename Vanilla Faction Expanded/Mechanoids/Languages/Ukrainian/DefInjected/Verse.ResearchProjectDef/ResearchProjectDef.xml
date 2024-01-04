@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--hardware upgrade-->
+  <VFE_HardwareUpgrade.label>hardware upgrade</VFE_HardwareUpgrade.label>
+  <!--Researching the mechanoid hardware upgrade will allow you to build all the advanced mechanoids added in Vanilla Factions Expanded - Mechanoid.-->
+  <VFE_HardwareUpgrade.description>Researching the mechanoid hardware upgrade will allow you to build all the advanced mechanoids added in Vanilla Factions Expanded - Mechanoid.</VFE_HardwareUpgrade.description>
+  <!--factory basics-->
+  <VFE_FactoryBasics.label>factory basics</VFE_FactoryBasics.label>
+  <!--Gain a basic fundamental understanding of factory utilization and unlock factory hoppers and terrain capable of supporting heavy machinery.-->
+  <VFE_FactoryBasics.description>Gain a basic fundamental understanding of factory utilization and unlock factory hoppers and terrain capable of supporting heavy machinery.</VFE_FactoryBasics.description>
+  <!--electronics fabrication factory-->
+  <VFE_ElectronicsFabricationFactory.label>electronics fabrication factory</VFE_ElectronicsFabricationFactory.label>
+  <!--Research a series of machines that grant the ability to automatically harness small amounts of steel from loose rock chunks and forge them into both simple mechanical components and higher tech electronic components.-->
+  <VFE_ElectronicsFabricationFactory.description>Research a series of machines that grant the ability to automatically harness small amounts of steel from loose rock chunks and forge them into both simple mechanical components and higher tech electronic components.</VFE_ElectronicsFabricationFactory.description>
+  <!--masonry and metallics factory-->
+  <VFE_MasonryandMetallicsFactory.label>masonry and metallics factory</VFE_MasonryandMetallicsFactory.label>
+  <!--Research a series of machines that grant the ability to automatically mine surface-level rock chunks as well as process them into bricks and further refine them into an advanced material indistinguishable from plasteel.-->
+  <VFE_MasonryandMetallicsFactory.description>Research a series of machines that grant the ability to automatically mine surface-level rock chunks as well as process them into bricks and further refine them into an advanced material indistinguishable from plasteel.</VFE_MasonryandMetallicsFactory.description>
+  <!--munitions and armaments factory-->
+  <VFE_MunitionsandArmamentsFactory.label>munitions and armaments factory</VFE_MunitionsandArmamentsFactory.label>
+  <!--Research a series of machines that grant the ability to automatically refine and clarify chemfuel from organic matter as well as process it further into weaponry and large-scale mortar shells.-->
+  <VFE_MunitionsandArmamentsFactory.description>Research a series of machines that grant the ability to automatically refine and clarify chemfuel from organic matter as well as process it further into weaponry and large-scale mortar shells.</VFE_MunitionsandArmamentsFactory.description>
+  <!--wearables and textiles factory-->
+  <VFE_WearablesandTextilesFactory.label>wearables and textiles factory</VFE_WearablesandTextilesFactory.label>
+  <!--Research a series of machines that grant the ability to automatically recycle old apparel into salvaged scrap as well as assemble new apparel from the aforementioned scraps. Additionally unlocks a machine capable of molecularly reconfiguring apparel to mimic the properties of synthread.-->
+  <VFE_WearablesandTextilesFactory.description>Research a series of machines that grant the ability to automatically recycle old apparel into salvaged scrap as well as assemble new apparel from the aforementioned scraps. Additionally unlocks a machine capable of molecularly reconfiguring apparel to mimic the properties of synthread.</VFE_WearablesandTextilesFactory.description>
+  <!--provisions packaging factory-->
+  <VFE_ProvisionsPackagingFactory.label>provisions packaging factory</VFE_ProvisionsPackagingFactory.label>
+  <!--Research a series of machines that grant the ability to automatically and efficiently harvest animal meat trimmings, cook, and package them into a variety of survival meals, kibble, and canned goods.-->
+  <VFE_ProvisionsPackagingFactory.description>Research a series of machines that grant the ability to automatically and efficiently harvest animal meat trimmings, cook, and package them into a variety of survival meals, kibble, and canned goods.</VFE_ProvisionsPackagingFactory.description>
+  <!--medicinal compounding factory-->
+  <VFE_MedicinalCompoundingFactory.label>medicinal compounding factory</VFE_MedicinalCompoundingFactory.label>
+  <!--Research a series of machines that grant the ability to automatically refine a thick glycerol extremely similar to that of neutroamine, also allows the further refining into a variety of medicines or illicit drugs.-->
+  <VFE_MedicinalCompoundingFactory.description>Research a series of machines that grant the ability to automatically refine a thick glycerol extremely similar to that of neutroamine, also allows the further refining into a variety of medicines or illicit drugs.</VFE_MedicinalCompoundingFactory.description>
+  <!--basic drone assembly-->
+  <VFE_BasicDroneAssembly.label>basic drone assembly</VFE_BasicDroneAssembly.label>
+  <!--Research a machine that allows the assembly of rudimentary automated rechargeable drones capable of hauling, mining, and cleaning.-->
+  <VFE_BasicDroneAssembly.description>Research a machine that allows the assembly of rudimentary automated rechargeable drones capable of hauling, mining, and cleaning.</VFE_BasicDroneAssembly.description>
+  <!--automated defensive measures-->
+  <VFE_AutomatedDefensiveMeasures.label>automated defensive measures</VFE_AutomatedDefensiveMeasures.label>
+  <!--Research the ability to weaponize automated drones for a variety of purposes including mobile turret platforms, mortars, riot control and other defensive countermeasures.-->
+  <VFE_AutomatedDefensiveMeasures.description>Research the ability to weaponize automated drones for a variety of purposes including mobile turret platforms, mortars, riot control and other defensive countermeasures.</VFE_AutomatedDefensiveMeasures.description>
+  <!--mechanoid structures-->
+  <VFE_MechanoidStructures.label>mechanoid structures</VFE_MechanoidStructures.label>
+  <!--Research the ability to utilize mechanoid tech for different kind of structures, at a high cost.-->
+  <VFE_MechanoidStructures.description>Research the ability to utilize mechanoid tech for different kind of structures, at a high cost.</VFE_MechanoidStructures.description>
+  <!--advanced drone assembly-->
+  <VFE_AdvancedDroneAssembly.label>advanced drone assembly</VFE_AdvancedDroneAssembly.label>
+  <!--Research more advanced drones, capable of analyzing and processing complex information.-->
+  <VFE_AdvancedDroneAssembly.description>Research more advanced drones, capable of analyzing and processing complex information.</VFE_AdvancedDroneAssembly.description>
+</LanguageData>

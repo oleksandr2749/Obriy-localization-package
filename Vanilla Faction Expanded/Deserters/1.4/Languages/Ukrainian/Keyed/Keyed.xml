@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--The Shattered Empire, once a symbol of tyranny and oppression, has crumbled. All over the planet, brave deserters rose in a chorus of rebellion, breaking the chains of servitude that held them bound. Every child who now wakes to the dawn of freedom will remember and revere these names, the names of the heroes who dared to challenge the impossible:
+{0}
+\nHowever, this is not the end, but merely a transition. With the old empire now but ruins and their flagship a burning wreckage fallen from the skies, a time for healing and rebuilding is upon us. The nobles, once loyal to the empire, now surrender to outlander communities or lose themselves in a life of crime. There's no denying the truth - the world has forever changed.
+\nAs you stand at the threshold of a new era, you remember this chapter of defiance and courage. The echoes of the Shattered Empire will serve as a reminder of your resilience, a testament to your unfaltering quest for freedom. You look ahead, knowing that you are stepping into a future built on hope, unity, and liberation.-->
+  <VFED.EndgameText>The Shattered Empire, once a symbol of tyranny and oppression, has crumbled. All over the planet, brave deserters rose in a chorus of rebellion, breaking the chains of servitude that held them bound. Every child who now wakes to the dawn of freedom will remember and revere these names, the names of the heroes who dared to challenge the impossible:
+{0}
+\nHowever, this is not the end, but merely a transition. With the old empire now but ruins and their flagship a burning wreckage fallen from the skies, a time for healing and rebuilding is upon us. The nobles, once loyal to the empire, now surrender to outlander communities or lose themselves in a life of crime. There's no denying the truth - the world has forever changed.
+\nAs you stand at the threshold of a new era, you remember this chapter of defiance and courage. The echoes of the Shattered Empire will serve as a reminder of your resilience, a testament to your unfaltering quest for freedom. You look ahead, knowing that you are stepping into a future built on hope, unity, and liberation.</VFED.EndgameText>
+  <!--You are about to initiate a final mission in Vanilla Factions Expanded: Deserters. After the mission is complete, the Empire and the Deserters will be no more. Are you sure you want to initiate the final mission?-->
+  <VFED.EndgameWarningText>You are about to initiate a final mission in Vanilla Factions Expanded: Deserters. After the mission is complete, the Empire and the Deserters will be no more. Are you sure you want to initiate the final mission?</VFED.EndgameWarningText>
+  <!--Detonate-->
+  <VFED.Detonate>Detonate</VFED.Detonate>
+  <!--Intel will go out of date in: {0}-->
+  <VFED.IntelOutOfDate>Intel will go out of date in: {0}</VFED.IntelOutOfDate>
+  <!--{0} has gone out of date. Consider using up the intel you gather before it goes out of date.-->
+  <VFED.IntelOutOfDateNow>{0} has gone out of date. Consider using up the intel you gather before it goes out of date.</VFED.IntelOutOfDateNow>
+  <!--Click to switch to {0}-->
+  <VFED.SwitchTo>Click to switch to {0}</VFED.SwitchTo>
+  <!--You have activated an imperial surveillance pillar. Visibility of your faction has increased by {1}. It is now {0}.-->
+  <VFED.SurveillancePillarActivated>You have activated an imperial surveillance pillar. Visibility of your faction has increased by {1}. It is now {0}.</VFED.SurveillancePillarActivated>
+  <!--{0} has been stripped from their title of {1}. They have provided you with {2} Intel.-->
+  <VFED.IntelFromTitle>{0} has been stripped from their title of {1}. They have provided you with {2} Intel.</VFED.IntelFromTitle>
+  <!--Imperial response-->
+  <VFED.ResponseComing>Imperial response</VFED.ResponseComing>
+  <!--An imperial {0} is on its way to this location. It will arrive in {1}s.-->
+  <VFED.ResponseComingDesc>An imperial {0} is on its way to this location. It will arrive in {1}s.</VFED.ResponseComingDesc>
+  <!--Due to triggering an imperial response, your visibility has increased by {0}. It is now {1}. In the future, you can avoid increasing the visibility by completing the mission before the response arrives.-->
+  <VFED.ResponseMessage>Due to triggering an imperial response, your visibility has increased by {0}. It is now {1}. In the future, you can avoid increasing the visibility by completing the mission before the response arrives.</VFED.ResponseMessage>
+  <!--Detonate bomb pack-->
+  <VFED.Detonate.BombPack>Detonate bomb pack</VFED.Detonate.BombPack>
+  <!--Detonate this bomb pack remotely to generate a big explosion. WARNING: Pressing this button will immediately set off the bomb.-->
+  <VFED.Detonate.BombPack.Desc>Detonate this bomb pack remotely to generate a big explosion. WARNING: Pressing this button will immediately set off the bomb.</VFED.Detonate.BombPack.Desc>
+  <!--Deploy-->
+  <VFED.Deploy>Deploy</VFED.Deploy>
+  <!--Deploy this {0} to create a {1} at this location.-->
+  <VFED.Deploy.Desc>Deploy this {0} to create a {1} at this location.</VFED.Deploy.Desc>
+  <!--Enable Invisibility-->
+  <VFED.EnableInvisibility>Enable Invisibility</VFED.EnableInvisibility>
+  <!--Turn this colonist invisible for 1 hour. If the colonist attacks anyone, the invisibility will end.-->
+  <VFED.EnableInvisibility.Desc>Turn this colonist invisible for 1 hour. If the colonist attacks anyone, the invisibility will end.</VFED.EnableInvisibility.Desc>
+  <!--On cooldown-->
+  <VFED.OnCooldown>On cooldown</VFED.OnCooldown>
+  <!--Already invisible-->
+  <VFED.AlreadyInvisibile>Already invisible</VFED.AlreadyInvisibile>
+  <!--Must have psylink-->
+  <VFED.MustHavePsylink>Must have psylink</VFED.MustHavePsylink>
+  <!--Extract intel-->
+  <VFED.ExtractIntel>Extract intel</VFED.ExtractIntel>
+  <!--Extract intel from the brain of a nobleperson. They may be alive, dead, or downed, but the brain must be present. Will destroy the brain.-->
+  <VFED.ExtractIntel.Desc>Extract intel from the brain of a nobleperson. They may be alive, dead, or downed, but the brain must be present. Will destroy the brain.</VFED.ExtractIntel.Desc>
+  <!--{0} patrol-->
+  <VFED.ImperialPatrol>{0} patrol</VFED.ImperialPatrol>
+  <!--{0} has encountered an imperial patrol from {1}. They have been spotted! {0} can try and escape, but this will inevitably increase the visibility of {2}. Fighting the patrol might be tough, but it will keep {2} safe. The patrol consists of:\n\n{3}-->
+  <VFED.ImperialPatrol.Desc>{0} has encountered an imperial patrol from {1}. They have been spotted! {0} can try and escape, but this will inevitably increase the visibility of {2}. Fighting the patrol might be tough, but it will keep {2} safe. The patrol consists of:\n\n{3}</VFED.ImperialPatrol.Desc>
+  <!--Escape the patrol.-->
+  <VFED.ImperialPatrol.Escape>Escape the patrol.</VFED.ImperialPatrol.Escape>
+  <!--Attack the patrol.-->
+  <VFED.ImperialPatrol.Attack>Attack the patrol.</VFED.ImperialPatrol.Attack>
+  <!--Give up {0}.-->
+  <VFED.ImperialPatrol.GiveUp>Give up {0}.</VFED.ImperialPatrol.GiveUp>
+  <!--{0} has given up {1} to the Empire. It’s unlikely you will ever see them again. Empire doesn’t take kindly to saboteurs.-->
+  <VFED.ImperialPatrol.GaveUp>{0} has given up {1} to the Empire. It’s unlikely you will ever see them again. Empire doesn’t take kindly to saboteurs.</VFED.ImperialPatrol.GaveUp>
+  <!--Aerodrone bombardment-->
+  <VFED.AerodroneBombardment>Aerodrone bombardment</VFED.AerodroneBombardment>
+  <!--The {0} has dispatched a number of aerodrones to your location. They suspect you are harboring deserters with ill intention towards the Great Hierarchy.
+An aerodrone is an unmanned atmospheric drone designed for military purposes. Controlled by highly skilled warprogrammers from imperial installations, the aerodrone is a highly effective tool for eliminating enemies of the Empire. Equipped with advanced sensors and targeting systems, the aerodrone can detect and track targets from great distances. Once a target has been identified, the aerodrone will unleash a devastating salvo of precision rockets, each one designed to cause maximum damage and destruction.
+The Empire has pinpointed the location of your critical infrastructure and the aerodrones will shortly initiate their bombardment. Evacuation is advised.-->
+  <VFED.AerodroneBombardment.Desc>The {0} has dispatched a number of aerodrones to your location. They suspect you are harboring deserters with ill intention towards the Great Hierarchy.
+An aerodrone is an unmanned atmospheric drone designed for military purposes. Controlled by highly skilled warprogrammers from imperial installations, the aerodrone is a highly effective tool for eliminating enemies of the Empire. Equipped with advanced sensors and targeting systems, the aerodrone can detect and track targets from great distances. Once a target has been identified, the aerodrone will unleash a devastating salvo of precision rockets, each one designed to cause maximum damage and destruction.
+The Empire has pinpointed the location of your critical infrastructure and the aerodrones will shortly initiate their bombardment. Evacuation is advised.</VFED.AerodroneBombardment.Desc>
+  <!--Glassing date-->
+  <VFED.GlassingDate>Glassing date</VFED.GlassingDate>
+  <!--Divine Inferno initiated-->
+  <VFED.DivineInferno.Init>Divine Inferno initiated</VFED.DivineInferno.Init>
+  <!--The Orbital Slicer Beam satellites have finished arranging into a beautiful flower pattern above your colony. What comes next can only be described as total destruction. The slicer beams fire down from the sky, creating a web of energy that systematically levels everything in its path. The terrain itself seems to buckle and heave as the beams slice through the earth, leaving behind deep crevices and rubble-filled craters. People, vehicles, and even buildings are reduced to nothing more than dust and ash in a matter of seconds. The air itself is superheated by the intense energy of the beams, creating a blast wave that can travel for miles.
+There is no escape from the Divine Inferno. Those caught in its path are instantly vaporized, leaving behind nothing but charred remnants of what was once there. Even underground shelters are no match for the destructive power of the slicer beams, as they cut through the earth like a hot knife through butter.
+The aftermath of Divine Inferno is a wasteland of destruction. The landscape is unrecognizable, with little more than rubble and ash as far as the eye can see. The air is still thick with the acrid smell of burnt flesh and melting metal. The once-thriving colony is now nothing more than a scorched and lifeless husk.-->
+  <VFED.DivineInferno.Desc>The Orbital Slicer Beam satellites have finished arranging into a beautiful flower pattern above your colony. What comes next can only be described as total destruction. The slicer beams fire down from the sky, creating a web of energy that systematically levels everything in its path. The terrain itself seems to buckle and heave as the beams slice through the earth, leaving behind deep crevices and rubble-filled craters. People, vehicles, and even buildings are reduced to nothing more than dust and ash in a matter of seconds. The air itself is superheated by the intense energy of the beams, creating a blast wave that can travel for miles.
+There is no escape from the Divine Inferno. Those caught in its path are instantly vaporized, leaving behind nothing but charred remnants of what was once there. Even underground shelters are no match for the destructive power of the slicer beams, as they cut through the earth like a hot knife through butter.
+The aftermath of Divine Inferno is a wasteland of destruction. The landscape is unrecognizable, with little more than rubble and ash as far as the eye can see. The air is still thick with the acrid smell of burnt flesh and melting metal. The once-thriving colony is now nothing more than a scorched and lifeless husk.</VFED.DivineInferno.Desc>
+  <!--Due to imperial disinformation, your relations with {0} have dropped by 10.-->
+  <VFED.GoodwillDropVisibility>Due to imperial disinformation, your relations with {0} have dropped by 10.</VFED.GoodwillDropVisibility>
+  <!--{0} beams fired, {1} beams left-->
+  <VFED.ShotsFiredLeft>{0} beams fired, {1} beams left</VFED.ShotsFiredLeft>
+  <!--Visibility increases by {0}-->
+  <VFED.VisibilityIncreases>Visibility increases by {0}</VFED.VisibilityIncreases>
+  <!--Visibility decreases by {0}-->
+  <VFED.VisibilityDecreases>Visibility decreases by {0}</VFED.VisibilityDecreases>
+  <!--Visibility will increase by {0}. This may lead to more and stronger imperial responses.-->
+  <VFED.VisibilityIncreases.Desc>Visibility will increase by {0}. This may lead to more and stronger imperial responses.</VFED.VisibilityIncreases.Desc>
+  <!--Visibility will decrease by {0}. This may reduce imperial responses.-->
+  <VFED.VisibilityDecreases.Desc>Visibility will decrease by {0}. This may reduce imperial responses.</VFED.VisibilityDecreases.Desc>
+  <!--Biosecured crates can only be opened by characters with a noble backstory.-->
+  <VFED.BiosecuredCrateWarning>Biosecured crates can only be opened by characters with a noble backstory.</VFED.BiosecuredCrateWarning>
+  <!--requires noble backstory-->
+  <VFED.CantOpenBiosecured>requires noble backstory</VFED.CantOpenBiosecured>
+  <!--Goodwill with {0} increased by 5 due to positive rumors from imperial deserters.-->
+  <VFED.ServiceIncreasedGoodwill>Goodwill with {0} increased by 5 due to positive rumors from imperial deserters.</VFED.ServiceIncreasedGoodwill>
+  <!--You have been detected by security. The garrision is deploying against you.-->
+  <VFED.DetectedWarning>You have been detected by security. The garrision is deploying against you.</VFED.DetectedWarning>
+  <!--The defenders are moving to high alert.-->
+  <VFED.HighAlertWarning>The defenders are moving to high alert.</VFED.HighAlertWarning>
+  <!--{0} is attempting to escape!-->
+  <VFED.FleeWarning>{0} is attempting to escape!</VFED.FleeWarning>
+  <!--{0} from {1} are attempting to avenge {2}.-->
+  <VFED.NobleKilledRevenge>{0} from {1} are attempting to avenge {2}.</VFED.NobleKilledRevenge>
+  <!--Your contraband has arrived.-->
+  <VFED.ContrabandArrived>Your contraband has arrived.</VFED.ContrabandArrived>
+  <!--Visibility Changed: {0}-->
+  <VFED.VisibilityChange>Visibility Changed: {0}</VFED.VisibilityChange>
+  <!--Your visibility level has changed. It is now {0}.-->
+  <VFED.VisibilityChange.Desc>Your visibility level has changed. It is now {0}.</VFED.VisibilityChange.Desc>
+  <!--The following effects have activated:-->
+  <VFED.VisibilityEffectsActive>The following effects have activated:</VFED.VisibilityEffectsActive>
+  <!--The following effects have deactivated:-->
+  <VFED.VisibilityEffectsInactive>The following effects have deactivated:</VFED.VisibilityEffectsInactive>
+  <!--Time until next pulse: {0}-->
+  <VFED.TimeToNextPulse>Time until next pulse: {0}</VFED.TimeToNextPulse>
+  <!--Pulses before burn out: {0}-->
+  <VFED.PulsesBeforeOut>Pulses before burn out: {0}</VFED.PulsesBeforeOut>
+  <!--Building a burnout intel scraper will be considered a declaration of war with the Empire.-->
+  <VFED.BurnoutWarning>Building a burnout intel scraper will be considered a declaration of war with the Empire.</VFED.BurnoutWarning>
+  <!--Activate scraper-->
+  <VFED.ActivateScraper>Activate scraper</VFED.ActivateScraper>
+  <!--Enable intel scraper countdown, which will release a pulse every 60 seconds, giving you a chance of obtaining valuable intel at a chance of triggering imperial investigation.-->
+  <VFED.ActivateScraper.Desc>Enable intel scraper countdown, which will release a pulse every 60 seconds, giving you a chance of obtaining valuable intel at a chance of triggering imperial investigation.</VFED.ActivateScraper.Desc>
+  <!--Deactivate scraper-->
+  <VFED.DeactivateScraper>Deactivate scraper</VFED.DeactivateScraper>
+  <!--Disable intel scraper, stopping the countdown until the next pulse.-->
+  <VFED.DeactivateScraper.Desc>Disable intel scraper, stopping the countdown until the next pulse.</VFED.DeactivateScraper.Desc>
+  <!--Exhausted-->
+  <VFED.Exhausted>Exhausted</VFED.Exhausted>
+  <!--Burnout intel scraper intercepted imperial communication and generated {0} intel.-->
+  <VFED.BurnoutIntelGained>Burnout intel scraper intercepted imperial communication and generated {0} intel.</VFED.BurnoutIntelGained>
+  <!--Burnout intel scraper intercepted high value imperial communication and generated {0} critical intel.-->
+  <VFED.BurnoutCriticalIntelGained>Burnout intel scraper intercepted high value imperial communication and generated {0} critical intel.</VFED.BurnoutCriticalIntelGained>
+  <!--Burnout intel scraper attracted imperial attention and has increased your visibility by {0}. (Current visibility is {1}.)-->
+  <VFED.BurnoutVisibilityIncreased>Burnout intel scraper attracted imperial attention and has increased your visibility by {0}. (Current visibility is {1}.)</VFED.BurnoutVisibilityIncreased>
+  <!--Burnout intel scraper was intercepted by an imperial patrol nearby. They are moving in to engage.-->
+  <VFED.BurnoutRaid>Burnout intel scraper was intercepted by an imperial patrol nearby. They are moving in to engage.</VFED.BurnoutRaid>
+  <!--VFE - Deserters-->
+  <VFEDeserters>VFE - Deserters</VFEDeserters>
+  <!--Visibility change per day: {0}-->
+  <VFED.VisibilityChangePerDay>Visibility change per day: {0}</VFED.VisibilityChangePerDay>
+  <!--Intel from extracting intel: {0}-->
+  <VFED.IntelFromExtractingIntel>Intel from extracting intel: {0}</VFED.IntelFromExtractingIntel>
+  <!--Visibility gain from surveillance pillar: {0}-->
+  <VFED.VisibilityFromPillar>Visibility gain from surveillance pillar: {0}</VFED.VisibilityFromPillar>
+  <!--Response time multiplier: {0}-->
+  <VFED.ResponseTimeMultiplier>Response time multiplier: {0}</VFED.ResponseTimeMultiplier>
+  <!--Contact Deserters-->
+  <VFED.ContactDeserters>Contact Deserters</VFED.ContactDeserters>
+  <!--Visibility: {0}-->
+  <VFED.Visibility>Visibility: {0}</VFED.Visibility>
+  <!--Current visibility: -->
+  <VFED.CurrentVisibility>Current visibility: </VFED.CurrentVisibility>
+  <!--Effects:-->
+  <VFED.Effects>Effects:</VFED.Effects>
+  <!--Intel cost: -->
+  <VFED.IntelCostModifier>Intel cost: </VFED.IntelCostModifier>
+  <!--Time to receive contraband: -->
+  <VFED.ContrabandRecieveTimeModifier>Time to receive contraband: </VFED.ContrabandRecieveTimeModifier>
+  <!--Availability of the dead drops: -->
+  <VFED.ContrabandSiteTimeModifier>Availability of the dead drops: </VFED.ContrabandSiteTimeModifier>
+  <!--Time for Imperial response: -->
+  <VFED.ImperialResponseTime>Time for Imperial response: </VFED.ImperialResponseTime>
+  <!--Type of Imperial response: -->
+  <VFED.ImperialResponseType>Type of Imperial response: </VFED.ImperialResponseType>
+  <!--Special effects: -->
+  <VFED.SpecialEffects>Special effects: </VFED.SpecialEffects>
+  <!--No response-->
+  <VFED.NoResponse>No response</VFED.NoResponse>
+  <!--None-->
+  <VFED.None>None</VFED.None>
+  <!--Name of the item-->
+  <VFED.ItemName>Name of the item</VFED.ItemName>
+  <!--Cost-->
+  <VFED.Cost>Cost</VFED.Cost>
+  <!--Basket-->
+  <VFED.Basket>Basket</VFED.Basket>
+  <!--Items purchased via the contraband system do not arrive in your colony with cargopods. Instead, a dead drop pick up quest will become available after some amount of time, and the quest will only be available for a brief moment. This is where you pick up purchased contraband.-->
+  <VFED.ContrabandRecieveDesc>Items purchased via the contraband system do not arrive in your colony with cargopods. Instead, a dead drop pick up quest will become available after some amount of time, and the quest will only be available for a brief moment. This is where you pick up purchased contraband.</VFED.ContrabandRecieveDesc>
+  <!--Purchase-->
+  <VFED.Purchase>Purchase</VFED.Purchase>
+  <!--Rush delivery-->
+  <VFED.RushDelivery>Rush delivery</VFED.RushDelivery>
+  <!--Total basket cost-->
+  <VFED.TotalCost>Total basket cost</VFED.TotalCost>
+  <!--You can rush delivery to receive the items instantly via drop pods, however it doubles the Intel cost of this order.-->
+  <VFED.RushDeliveryDesc>You can rush delivery to receive the items instantly via drop pods, however it doubles the Intel cost of this order.</VFED.RushDeliveryDesc>
+  <!--Estimated time to receive: (*DateTime){0}-{1} days(/DateTime)-->
+  <VFED.TimeToReceive>Estimated time to receive: (*DateTime){0}-{1} days(/DateTime)</VFED.TimeToReceive>
+  <!--Time to pick up: (*DateTime){0} days(/DateTime)-->
+  <VFED.TimeToPickup>Time to pick up: (*DateTime){0} days(/DateTime)</VFED.TimeToPickup>
+  <!--Time to receive and time to pick up depends on the amount of items you’re purchasing, as well as your current visibility level. After time to receive has elapsed, a dead drop quest will become available. It will only be active for the duration in ‘Time to pick up’. If you fail to collect it in time, the items will be gone.-->
+  <VFED.TimeLimitDesc>Time to receive and time to pick up depends on the amount of items you’re purchasing, as well as your current visibility level. After time to receive has elapsed, a dead drop quest will become available. It will only be active for the duration in ‘Time to pick up’. If you fail to collect it in time, the items will be gone.</VFED.TimeLimitDesc>
+  <!--Not enough {0}. Need {1}, have {2}-->
+  <VFED.NotEnough>Not enough {0}. Need {1}, have {2}</VFED.NotEnough>
+  <!--This is a deserter quest. It may provide intel on the Shattered Empire, but it may also increase your faction’s visibility.-->
+  <VFED.DeserterQuestDesc>This is a deserter quest. It may provide intel on the Shattered Empire, but it may also increase your faction’s visibility.</VFED.DeserterQuestDesc>
+  <!--Available quests-->
+  <VFED.AvailableQuests>Available quests</VFED.AvailableQuests>
+  <!--Critical quests-->
+  <VFED.CriticalQuests>Critical quests</VFED.CriticalQuests>
+  <!--Quest description-->
+  <VFED.QuestDescription>Quest description</VFED.QuestDescription>
+  <!--You can pay intel to obtain quests from the Deserter network, however you will not know the rewards that can be obtained from the quest until you purchase it.-->
+  <VFED.QuestPurchaseDesc>You can pay intel to obtain quests from the Deserter network, however you will not know the rewards that can be obtained from the quest until you purchase it.</VFED.QuestPurchaseDesc>
+  <!--Total quest cost-->
+  <VFED.TotalQuestCost>Total quest cost</VFED.TotalQuestCost>
+  <!--Activate-->
+  <VFED.Activate>Activate</VFED.Activate>
+  <!--Other services-->
+  <VFED.OtherServices>Other services</VFED.OtherServices>
+  <!--Rewards-->
+  <VFED.Rewards>Rewards</VFED.Rewards>
+  <!--Plot description-->
+  <VFED.PlotDesc>Plot description</VFED.PlotDesc>
+  <!--Target: {0}-->
+  <VFED.PlotTarget>Target: {0}</VFED.PlotTarget>
+  <!--Completed on {0}-->
+  <VFED.CompletedOn>Completed on {0}</VFED.CompletedOn>
+  <!--Combat: High-->
+  <VFED.CombatHigh>Combat: High</VFED.CombatHigh>
+  <!--Combat: Medium-->
+  <VFED.CombatMedium>Combat: Medium</VFED.CombatMedium>
+  <!--Combat: Minimal-->
+  <VFED.CombatLow>Combat: Minimal</VFED.CombatLow>
+  <!--Expect intense combat-->
+  <VFED.CombatHighDesc>Expect intense combat</VFED.CombatHighDesc>
+  <!--Expect some combat-->
+  <VFED.CombatMediumDesc>Expect some combat</VFED.CombatMediumDesc>
+  <!--Expect minimal combat-->
+  <VFED.CombatLowDesc>Expect minimal combat</VFED.CombatLowDesc>
+  <!--Show active quest-->
+  <VFED.ShowActiveQuest>Show active quest</VFED.ShowActiveQuest>
+  <!--Select-->
+  <VFED.Select>Select</VFED.Select>
+  <!--Hull integrity-->
+  <VFED.HullIntegrity>Hull integrity</VFED.HullIntegrity>
+  <!--Flagship-->
+  <VFED.Flagship>Flagship</VFED.Flagship>
+  <!--Start Mission-->
+  <VFED.StartMission>Start Mission</VFED.StartMission>
+  <!--Amount of {0} in range of powered trading beacons.-->
+  <VFED.IntelAmount>Amount of {0} in range of powered trading beacons.</VFED.IntelAmount>
+</LanguageData>

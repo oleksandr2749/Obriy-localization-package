@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--rebuilding machine.-->
+  <VFE_Mechanoids_RepairMachine.reportString>rebuilding machine.</VFE_Mechanoids_RepairMachine.reportString>
+  <!--attaching turret.-->
+  <VFE_Mechanoids_AttachTurret.reportString>attaching turret.</VFE_Mechanoids_AttachTurret.reportString>
+  <!--dissembling TargetA.-->
+  <VFEM_Disassemble.reportString>dissembling TargetA.</VFEM_Disassemble.reportString>
+  <!--refueling TargetA.-->
+  <VFEM_RefuelSilo.reportString>refueling TargetA.</VFEM_RefuelSilo.reportString>
+  <!--entering indoctrination pod.-->
+  <VFEM_EnterIndoctrinationPod.reportString>entering indoctrination pod.</VFEM_EnterIndoctrinationPod.reportString>
+</LanguageData>

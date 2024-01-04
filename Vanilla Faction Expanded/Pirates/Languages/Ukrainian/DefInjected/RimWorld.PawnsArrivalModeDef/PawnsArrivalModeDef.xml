@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--A group of {0} from {1} have arrived in gauntlet ships and are crashing on top of your colony. Gauntlet ships provide covering fire and need to be destroyed immediately.-->
+  <VFEP_GauntletDrop.textEnemy>Група {0} з {1} прибула на кораблях гаунглетах і падає на вашу колонію. Кораблі мають вмонтоване турелі.</VFEP_GauntletDrop.textEnemy>
+  <!--A group of friendly {0} from {1} have arrived in gauntlet ships and are crashing on top of your colony. Gauntlet ships will provide covering fire.-->
+  <VFEP_GauntletDrop.textFriendly>Група {0} з {1} прибула на кораблях гаунглетах і розбилась поблизу вас. Кораблі мають вмонтоване турелі.</VFEP_GauntletDrop.textFriendly>
+  <!--({0_pawnsPluralDef} will arrive in gauntlet ships right on top of you.)-->
+  <VFEP_GauntletDrop.textWillArrive>({0_pawnsPluralDef} прибудуть на кораблях гаунглетах прямо до вас.)</VFEP_GauntletDrop.textWillArrive>
+</LanguageData>

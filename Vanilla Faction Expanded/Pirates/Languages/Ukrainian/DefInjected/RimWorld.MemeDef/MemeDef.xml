@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--pirate-->
+  <VFEP_PirateMeme.label>піратство</VFEP_PirateMeme.label>
+  <!--Strong should take from the weak, for that is our right, but camaraderie and code should be elevated above all.-->
+  <VFEP_PirateMeme.description>Сильні повинні брати від слабких, бо це наше право, але товариськість і кодекс повинні бути понад усе.</VFEP_PirateMeme.description>
+  <!--creation(tag=meme_Pirate)        ->[deity0_name] showed us that the [memberNamePlural] must stand together as a crew to impose [deity0_possessive] will upon those who are weaker.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Pirate)        -&gt;[deity0_name] показав нам, що [memberNamePlural] повинні триматися разом, як команда, щоб нав'язати [deity0_possessive] волю на тих, хто слабший.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.0>
+  <!--episode(uses=1,tag=meme_Pirate)  ->[deity0_name] shouted to all the [memberNamePlural], "In an honest service there is thin commons, low wages, and hard labor; in piracy, plenty and satiety, pleasure and ease, liberty and power. Seize it."-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Pirate)  -&gt;[deity0_name] вигукнув до всіх [memberNamePlural], "На чесній службі - мізер, низька платня і важка праця; на піратстві - достаток і ситість, насолода і легкість, свобода і влада. Хапайте це."</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.1>
+  <!--intro(tag=meme_Pirate)           ->On the [place_summary] [place_name], the [memberNamePlural] had created a safe haven, where their plunder could be counted for the glory of [deity0_name].-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Pirate)           -&gt;На [place_summary] [place_name], [memberNamePlural] створив безпечний притулок, де можна було зарахувати награбоване на славу [deity0_name].</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.2>
+  <!--conflict(tag=meme_Pirate)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] desired all the riches for [foeLeader_objective]self.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Pirate)           -&gt;Боягуз [foeLeader] дивилися на це з презирством, бо [foeLeader_pronoun] забажав всіх багатств собі.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.3>
+  <!--founderJoin(tag=meme_Pirate)        ->[deity0_name]'s truest follower, captain [founderName], captured the [foeLeader] in a daring raid.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Pirate)        -&gt;[deity0_name]'s truest follower, captain [founderName], captured the [foeLeader] in a daring raid.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.4>
+  <!--victory(tag=meme_Pirate)            ->[founderName]'s crewmates incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Pirate)            -&gt;[founderName]'s crewmates incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.5>
+  <!--setup(tag=meme_Pirate)           ->[founderName] was the greatest captain, a true leader. Thousands of pirates united under [founder_possessive] terrifying banner.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Pirate)           -&gt;[founderName] was the greatest captain, a true leader. Thousands of pirates united under [founder_possessive] terrifying banner.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.6>
+  <!--story(uses=1,tag=meme_Pirate)    ->[founderName] made us understand that hardships, suffering and sacrifices must be faced together, as a crew. We learned to value the comradeship and camaraderie, and respect each other.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Pirate)    -&gt;[founderName] made us understand that hardships, suffering and sacrifices must be faced together, as a crew. We learned to value the comradeship and camaraderie, and respect each other.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.7>
+  <!--lessonIntro(tag=meme_Pirate)         ->I talked to the greatest pirate to ever live, a legend amongst men. He showed me that-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Pirate)         -&gt;I talked to the greatest pirate to ever live, a legend amongst men. He showed me that</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.8>
+  <!--lesson(tag=meme_Pirate)              ->hardships, suffering and sacrifices must be faced together, as a crew-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Pirate)              -&gt;hardships, suffering and sacrifices must be faced together, as a crew</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.9>
+  <!--lessonReinforcement(tag=meme_Pirate) ->He taught me to value the comradeship and camaraderie, and the merits of respecting each other.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Pirate) -&gt;He taught me to value the comradeship and camaraderie, and the merits of respecting each other.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.10>
+  <!--archistBasis(tag=meme_Pirate)    ->Archotechs do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Pirate)    -&gt;Archotechs do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.11>
+  <!--archistFact(tag=meme_Pirate)     ->We will prove to the archotechs that comradeship and camaraderie are the values that keep us strong.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Pirate)     -&gt;We will prove to the archotechs that comradeship and camaraderie are the values that keep us strong.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.12>
+  <!--archistProphecy(tag=meme_Pirate) ->Only by standing proud together can we become worthy of transcendence.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Pirate) -&gt;Only by standing proud together can we become worthy of transcendence.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.13>
+  <!--animistBasis(tag=meme_Pirate)    ->The spirits do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Pirate)    -&gt;The spirits do not respect those who can't defend themselves: we will face those weaker than ourselves as a crew.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.14>
+  <!--animistFact(tag=meme_Pirate)     ->We will prove to the spirits that comradeship and camaraderie are the values that keep us strong.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Pirate)     -&gt;We will prove to the spirits that comradeship and camaraderie are the values that keep us strong.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.15>
+  <!--animistProphecy(tag=meme_Pirate) ->[itIsSaid] only by standing proud together can we make the spirits truly listen to us.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Pirate) -&gt;[itIsSaid] only by standing proud together can we make the spirits truly listen to us.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.16>
+  <!--serketistProphecy(tag=meme_Pirate)->[itIsSaid] we will prove that comradeship and camaraderie are the values that keep us strong.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Pirate)-&gt;[itIsSaid] we will prove that comradeship and camaraderie are the values that keep us strong.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.17>
+  <!--chthonianProphecy(tag=meme_Pirate)->These eldritch entities would seek to destroy us, but we will stand together against them. Our camaraderie can't be shaken by anything, not even them.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Pirate)-&gt;These eldritch entities would seek to destroy us, but we will stand together against them. Our camaraderie can't be shaken by anything, not even them.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.18>
+  <!--esotericismProphecy(tag=meme_Pirate)->Such occult knowledge requires an unified will. We will stand together as a crew, our camaraderie allowing us to embrace these arcane secrets with ease.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Pirate)-&gt;Such occult knowledge requires an unified will. We will stand together as a crew, our camaraderie allowing us to embrace these arcane secrets with ease.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.19>
+  <!--eschatologismFact(tag=meme_Pirate)->We will plunder and pillage those weaker than ourselves, for the world they have created must be destroyed, and only our crew deserves their achievements.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Pirate)-&gt;We will plunder and pillage those weaker than ourselves, for the world they have created must be destroyed, and only our crew deserves their achievements.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.20>
+  <!--introMemo(tag=meme_Pirate)->As a member of our Reclamation and Repossession Office, let us remind you that any resources found on this planet are the property of the Company, and as such any hostile factions trying to take possession of our assets must be terminated with EXTREME prejudice. We will not allow others to take what is rightfully ours.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Pirate)-&gt;As a member of our Reclamation and Repossession Office, let us remind you that any resources found on this planet are the property of the Company, and as such any hostile factions trying to take possession of our assets must be terminated with EXTREME prejudice. We will not allow others to take what is rightfully ours.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.21>
+  <!--alienistProphecy(tag=meme_Pirate)->These wayward creatures are ours to do as we please.-->
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Pirate)-&gt;These wayward creatures are ours to do as we please.</VFEP_PirateMeme.descriptionMaker.rules.rulesStrings.22>
+  <!--memeAdjective->buccaneering-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.0>memeAdjective-&gt;buccaneering</VFEP_PirateMeme.generalRules.rulesStrings.0>
+  <!--memeAdjective->criminal-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.1>memeAdjective-&gt;злочинець</VFEP_PirateMeme.generalRules.rulesStrings.1>
+  <!--memeAdjective->pillaging-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.2>memeAdjective-&gt;pillaging</VFEP_PirateMeme.generalRules.rulesStrings.2>
+  <!--memeAdjective->plundering-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.3>memeAdjective-&gt;plundering</VFEP_PirateMeme.generalRules.rulesStrings.3>
+  <!--memeAdjective->mutinous-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.4>memeAdjective-&gt;mutinous</VFEP_PirateMeme.generalRules.rulesStrings.4>
+  <!--memeAdjective->piratical-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.5>memeAdjective-&gt;piratical</VFEP_PirateMeme.generalRules.rulesStrings.5>
+  <!--memeLeaderNoun->skipper-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.6>memeLeaderNoun-&gt;skipper</VFEP_PirateMeme.generalRules.rulesStrings.6>
+  <!--memeLeaderNoun->commander-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.7>memeLeaderNoun-&gt;commander</VFEP_PirateMeme.generalRules.rulesStrings.7>
+  <!--memeLeaderNoun->boss-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.8>memeLeaderNoun-&gt;boss</VFEP_PirateMeme.generalRules.rulesStrings.8>
+  <!--memeLeaderAdjective->gallant-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.9>memeLeaderAdjective-&gt;gallant</VFEP_PirateMeme.generalRules.rulesStrings.9>
+  <!--memeLeaderAdjective->draconian-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.10>memeLeaderAdjective-&gt;draconian</VFEP_PirateMeme.generalRules.rulesStrings.10>
+  <!--memeLeaderAdjective->callous-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.11>memeLeaderAdjective-&gt;callous</VFEP_PirateMeme.generalRules.rulesStrings.11>
+  <!--memeLeaderAdjective->brave-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;brave</VFEP_PirateMeme.generalRules.rulesStrings.12>
+  <!--memeLeaderAdjective->ruthless-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;ruthless</VFEP_PirateMeme.generalRules.rulesStrings.13>
+  <!--memeLeaderAdjective->daring-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;daring</VFEP_PirateMeme.generalRules.rulesStrings.14>
+  <!--memeMoralist->chaplain-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.15>memeMoralist-&gt;chaplain</VFEP_PirateMeme.generalRules.rulesStrings.15>
+  <!--memeMoralist->first mate-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.16>memeMoralist-&gt;first mate</VFEP_PirateMeme.generalRules.rulesStrings.16>
+  <!--memeMoralist->first officer-->
+  <VFEP_PirateMeme.generalRules.rulesStrings.17>memeMoralist-&gt;first officer</VFEP_PirateMeme.generalRules.rulesStrings.17>
+  <!--pirate-->
+  <VFEP_PirateMeme.symbolPacks.0.adjective>pirate</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <!--Piracy-->
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>Piracy</VFEP_PirateMeme.symbolPacks.0.ideoName>
+  <!--crewmember-->
+  <VFEP_PirateMeme.symbolPacks.0.member>crewmember</VFEP_PirateMeme.symbolPacks.0.member>
+  <!--piracy-->
+  <VFEP_PirateMeme.symbolPacks.0.theme>piracy</VFEP_PirateMeme.symbolPacks.0.theme>
+</LanguageData>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Curse of Mind-->
+  <VFEP_CurseOfMind.label>Прокляття розуму</VFEP_CurseOfMind.label>
+  <!--All mood effects are doubled.-->
+  <VFEP_CurseOfMind.description>Всі ефекти настрою подвоюється.</VFEP_CurseOfMind.description>
+  <!--Curse of Darkness-->
+  <VFEP_CurseOfDarkness.label>Покляття темряви</VFEP_CurseOfDarkness.label>
+  <!--Darkness intensified. Any tile with 0% light is pitch black.-->
+  <VFEP_CurseOfDarkness.description>Темрява посилилася. Відсутність світла є непроглядною темрявою.</VFEP_CurseOfDarkness.description>
+  <!--Curse of Pestilence-->
+  <VFEP_CurseOfPestilence.label>Прокляття моровиці</VFEP_CurseOfPestilence.label>
+  <!--Immunity gain speed is halved.-->
+  <VFEP_CurseOfPestilence.description>Швидкість вироботки імунітету зменшується вдвічі.</VFEP_CurseOfPestilence.description>
+  <!--Curse of Steel-->
+  <VFEP_CurseOfSteel.label>Прокляття сталі</VFEP_CurseOfSteel.label>
+  <!--All damage in the game is doubled.-->
+  <VFEP_CurseOfSteel.description>Всі пошкодження в грі подвоюються.</VFEP_CurseOfSteel.description>
+  <!--Curse of Greed-->
+  <VFEP_CurseOfGreed.label>Прокляття жадібності</VFEP_CurseOfGreed.label>
+  <!--All mineable resources yield gold instead of what they would normally yield.-->
+  <VFEP_CurseOfGreed.description>Усі видобувні ресурси дають золото.</VFEP_CurseOfGreed.description>
+  <!--Curse of the Stabbed-->
+  <VFEP_CurseOfTheStabbed.label>Прокляття зарізаного</VFEP_CurseOfTheStabbed.label>
+  <!--All Melee attack cooldowns are halved.-->
+  <VFEP_CurseOfTheStabbed.description>Усі перезарядки атаки ближнього бою зменшуються вдвічі.</VFEP_CurseOfTheStabbed.description>
+  <!--Curse of Fire-->
+  <VFEP_CurseOfFire.label>Прокляття вогню</VFEP_CurseOfFire.label>
+  <!--Rain no longer triggers when the map burns.-->
+  <VFEP_CurseOfFire.description>Більше не надійтесь на дощ при пожежі.</VFEP_CurseOfFire.description>
+  <!--Curse of Confetti-->
+  <VFEP_CurseOfConfetti.label>Прокляття конфеті</VFEP_CurseOfConfetti.label>
+  <!--Killing a pawn spawns a confetti mote and a birthday Yay! Sound.-->
+  <VFEP_CurseOfConfetti.description>Вбивство персонажа створює конфетті та звук день народження Ура!</VFEP_CurseOfConfetti.description>
+  <!--Curse of the Boomalopes-->
+  <VFEP_CurseOfTheBoomalopes.label>Прокляття бумалопи</VFEP_CurseOfTheBoomalopes.label>
+  <!--Every animal explodes upon death.-->
+  <VFEP_CurseOfTheBoomalopes.description>Кожна тварина вибухає після смерті.</VFEP_CurseOfTheBoomalopes.description>
+  <!--Curse of the Beaten-->
+  <VFEP_CurseOfTheBeaten.label>Прокляття побитого</VFEP_CurseOfTheBeaten.label>
+  <!--Can’t tend wounds without medicine.-->
+  <VFEP_CurseOfTheBeaten.description>Неможливо обробити рани без ліків.</VFEP_CurseOfTheBeaten.description>
+  <!--Curse of the Armored-->
+  <VFEP_CurseOfTheArmored.label>Прокляття броні</VFEP_CurseOfTheArmored.label>
+  <!--Weapon penetration halved.-->
+  <VFEP_CurseOfTheArmored.description>Проникнення зброї зменшується вдвічі.</VFEP_CurseOfTheArmored.description>
+  <!--Curse of Aging-->
+  <VFEP_CurseOfAging.label>Прокляття старості</VFEP_CurseOfAging.label>
+  <!--Pawns age at 10x the speed.-->
+  <VFEP_CurseOfAging.description>Персонажі старіють у 10 разів швидше.</VFEP_CurseOfAging.description>
+  <!--Curse of Bandana-->
+  <VFEP_CurseOfBandana.label>Прокляття бандани</VFEP_CurseOfBandana.label>
+  <!--All weapon cooldown reduced by 90%.-->
+  <VFEP_CurseOfBandana.description>Перезарядка всієї зброї зменшена на 90%.</VFEP_CurseOfBandana.description>
+  <!--Curse of the Eye Patch-->
+  <VFEP_CurseOfTheEyePatch.label>Прокляття пов'язки на оці</VFEP_CurseOfTheEyePatch.label>
+  <!--Ranged accuracy halved.-->
+  <VFEP_CurseOfTheEyePatch.description>Точність стрільби зменшилася вдвічі.</VFEP_CurseOfTheEyePatch.description>
+  <!--Curse of Gluttony-->
+  <VFEP_CurseOfGluttony.label>Прокляття пожирали</VFEP_CurseOfGluttony.label>
+  <!--Hunger drops at twice the speed.-->
+  <VFEP_CurseOfGluttony.description>Голод настає в вдвічі швидше.</VFEP_CurseOfGluttony.description>
+  <!--Curse of Infestation-->
+  <VFEP_CurseOfInfestation.label>Прокляття зараженого</VFEP_CurseOfInfestation.label>
+  <!--Infestations are twice as big.-->
+  <VFEP_CurseOfInfestation.description>Зараження вдвічі більше.</VFEP_CurseOfInfestation.description>
+  <!--Curse of Instakill-->
+  <VFEP_CurseOfInstakill.label>Прокляття мерця</VFEP_CurseOfInstakill.label>
+  <!--Whenever a pawn would be downed, they die.-->
+  <VFEP_CurseOfInstakill.description>Щоразу, коли пішака збивають з ніг, він помирає.</VFEP_CurseOfInstakill.description>
+  <!--Curse of Blind-->
+  <VFEP_CurseOfBlind.label>Прокляття сліпця</VFEP_CurseOfBlind.label>
+  <!--You don’t see any letters when events happen. They still show up in the History tab.-->
+  <VFEP_CurseOfBlind.description>Ви не бачите жодних повідомлень, коли відбуваються події. Вони все одно з'являються на вкладці "Історія".</VFEP_CurseOfBlind.description>
+</LanguageData>

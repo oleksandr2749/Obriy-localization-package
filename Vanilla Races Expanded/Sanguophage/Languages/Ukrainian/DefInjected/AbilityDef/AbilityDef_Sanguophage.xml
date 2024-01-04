@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--animalfeed-->
+  <VRE_AnimalFeed.label>підживитися твариною</VRE_AnimalFeed.label>
+  <!--Bite the target animal and extract hemogen directly from their blood. The animal will lose blood and will be horrified by the interaction, which can result in it lashing out. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target animals.-->
+  <VRE_AnimalFeed.description>Укусити тварину і висмоктати гемоген з її крові. Тварина втратить кров і буде налякана вами, що може призвести до її агресії. Швидкодіючий коагулянт запечатає рану, щоб запобігти кровотечі рани від укусу.</VRE_AnimalFeed.description>
+  <!--corpsefeed-->
+  <VRE_CorpseFeed.label>підживитися трупом</VRE_CorpseFeed.label>
+  <!--Bite the target corpse and extract hemogen directly from their blood. The corpse will lose any remaining blood.\n\nCan only target human corpses.-->
+  <VRE_CorpseFeed.description>Укусити труп і висмоктати гемоген з його крові. Труп втратить залишки крові.</VRE_CorpseFeed.description>
+  <!--sanguofeed-->
+  <VRE_SanguoFeed.label>підживитися сангофагом</VRE_SanguoFeed.label>
+  <!--Bite the target and extract hemogen directly from their blood. The target will lose blood and will be insulted by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target hemogenic humans.-->
+  <VRE_SanguoFeed.description>Укусити сангофага і висмоктати гемоген з його крові. Ціль втратить кров і буде ображений на те, що ви зробили, але в іншому не постраждає. Швидкодіючий коагулянт запечатає рану, щоб запобігти кровотечі рани від укусу.</VRE_SanguoFeed.description>
+  <!--ecstasy-->
+  <VRE_Ecstasy.label>екстаз</VRE_Ecstasy.label>
+  <!--Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster.-->
+  <VRE_Ecstasy.description>На короткий час викликає у цілі відчуття надзвичайного екстазу, що змушує її закохатися в заклинателя.</VRE_Ecstasy.description>
+  <!--heart crush-->
+  <VRE_HeartCrush.label>розрив серця</VRE_HeartCrush.label>
+  <!--Rip out the heart of an enemy in close proximity, instantly killing them and covering the area in blood. Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged.-->
+  <VRE_HeartCrush.description>Миттєво вбити ціль розірвавши її серце одним неймовірно потужним ударом точнісенько нього. Серце великої істоти витримає удар та це все ще велика шкода.</VRE_HeartCrush.description>
+  <!--filter infection-->
+  <VRE_FilterInfection.label>фільтрування зараження</VRE_FilterInfection.label>
+  <!--Lay hands on a target and help the target battle their infections. Works on animals or humans.-->
+  <VRE_FilterInfection.description>Покласти руки на ціль і допомогти їй боротися із зараженням тіла.</VRE_FilterInfection.description>
+  <!--hemosmosis-->
+  <VRE_Hemosmosis.label>гемовсмоктування</VRE_Hemosmosis.label>
+  <!--Suck blood filth from the area around the sanguophage and turn it into hemogen.-->
+  <VRE_Hemosmosis.description>Всмоктати і перетворити на гемоген калюжі крові з області навколо сангвофага.</VRE_Hemosmosis.description>
+  <!--resurrect-->
+  <VRE_Resurrect.label>відродження</VRE_Resurrect.label>
+  <!--Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely.-->
+  <VRE_Resurrect.description>Використати аріхітів у кровотоці, щоб вдихнути в труп нове життя, відновивши відмерлі клітинні структури і запустити життєво важливі функції. Чим довше і гірше зберігався труп, тим більша ймовірність того, що він повернеться до життя з втратою пам'яті або станом здоров'я. Здається, ця здатність якось виснажує архітів, тому вона відновлюється дуже повільно.</VRE_Resurrect.description>
+  <!--toxic cloud-->
+  <VRE_ToxicCloud.label>токсична хмара</VRE_ToxicCloud.label>
+  <!--Excrete a thick toxic smoke from special organic reservoirs in the lungs. Tox gas is deadly to almost every creature.-->
+  <VRE_ToxicCloud.description>Випустити густий токсичний дим із спеціальних органічних резервуарів у легенях. Токсичний газ смертельний майже для всіх живих істот.</VRE_ToxicCloud.description>
+  <!--viscuous goo-->
+  <VRE_ViscuousGoo.label>в'язкий слиз</VRE_ViscuousGoo.label>
+  <!--Eject a projectile that explodes on impact and creates a large amount of filth that greatly slows down people trying to move through it.-->
+  <VRE_ViscuousGoo.description>Плюнути слиз в невелику область, щоб на короткий час приголомшити ціль.</VRE_ViscuousGoo.description>
+  <!--coagulate-->
+  <VRE_Coagulate_SingleUse.label>згортання</VRE_Coagulate_SingleUse.label>
+  <!--Use special glands in the wrists to quickly tend someone's wounds.-->
+  <VRE_Coagulate_SingleUse.description>Use special glands in the wrists to quickly tend someone's wounds.</VRE_Coagulate_SingleUse.description>
+  <!--piercing spine-->
+  <VRE_PiercingSpine_SingleUse.label>хребтовий шип</VRE_PiercingSpine_SingleUse.label>
+  <!--Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.-->
+  <VRE_PiercingSpine_SingleUse.description>Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.</VRE_PiercingSpine_SingleUse.description>
+  <!--acid spray-->
+  <VRE_AcidSpray_SingleUse.label>кислотний плювок</VRE_AcidSpray_SingleUse.label>
+  <!--Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.-->
+  <VRE_AcidSpray_SingleUse.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.</VRE_AcidSpray_SingleUse.description>
+  <!--toxic cloud-->
+  <VRE_ToxicCloud_SingleUse.label>токсична хмара</VRE_ToxicCloud_SingleUse.label>
+  <!--Excrete a thick toxic smoke from special organic reservoirs in the lungs. Tox gas is deadly to almost every creature.-->
+  <VRE_ToxicCloud_SingleUse.description>Excrete a thick toxic smoke from special organic reservoirs in the lungs. Tox gas is deadly to almost every creature.</VRE_ToxicCloud_SingleUse.description>
+  <!--filter infection-->
+  <VRE_FilterInfection_SingleUse.label>filter infection</VRE_FilterInfection_SingleUse.label>
+  <!--Lay hands on a target and help the target battle their infections. Works on animals or humans.-->
+  <VRE_FilterInfection_SingleUse.description>Lay hands on a target and help the target battle their infections. Works on animals or humans.</VRE_FilterInfection_SingleUse.description>
+  <!--ecstasy-->
+  <VRE_Ecstasy_SingleUse.label>ecstasy</VRE_Ecstasy_SingleUse.label>
+  <!--Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster.-->
+  <VRE_Ecstasy_SingleUse.description>Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster.</VRE_Ecstasy_SingleUse.description>
+  <!--hemosmosis-->
+  <VRE_Hemosmosis_SingleUse.label>hemosmosis</VRE_Hemosmosis_SingleUse.label>
+  <!--Suck blood filth from the area around the sanguophage and turn it into hemogen.-->
+  <VRE_Hemosmosis_SingleUse.description>Suck blood filth from the area around the sanguophage and turn it into hemogen.</VRE_Hemosmosis_SingleUse.description>
+  <!--viscuous goo-->
+  <VRE_ViscuousGoo_SingleUse.label>viscuous goo</VRE_ViscuousGoo_SingleUse.label>
+  <!--Eject a projectile that explodes on impact and creates a large amount of filth that greatly slows down people trying to move through it.-->
+  <VRE_ViscuousGoo_SingleUse.description>Eject a projectile that explodes on impact and creates a large amount of filth that greatly slows down people trying to move through it.</VRE_ViscuousGoo_SingleUse.description>
+  <!--heart crush-->
+  <VRE_HeartCrush_SingleUse.label>heart crush</VRE_HeartCrush_SingleUse.label>
+  <!--Rip out the heart of an enemy in close proximity, instantly killing them and covering the area in blood. Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged.-->
+  <VRE_HeartCrush_SingleUse.description>Rip out the heart of an enemy in close proximity, instantly killing them and covering the area in blood. Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged.</VRE_HeartCrush_SingleUse.description>
+</LanguageData>

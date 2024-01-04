@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--mechanite under armor-->
+  <VFE_MechaniteUnderArmorThought.stages.mechanite_under_armor.label>mechanite under armor</VFE_MechaniteUnderArmorThought.stages.mechanite_under_armor.label>
+  <!--I feel strangely comfortable.-->
+  <VFE_MechaniteUnderArmorThought.stages.mechanite_under_armor.description>I feel strangely comfortable.</VFE_MechaniteUnderArmorThought.stages.mechanite_under_armor.description>
+  <!--Relaxing music-->
+  <VFE_Mechanoids_RelaxingMusic.stages.Relaxing_music.label>Relaxing music</VFE_Mechanoids_RelaxingMusic.stages.Relaxing_music.label>
+  <!--Propaganda bot is playing my favourite jam.-->
+  <VFE_Mechanoids_RelaxingMusic.stages.Relaxing_music.description>Propaganda bot is playing my favourite jam.</VFE_Mechanoids_RelaxingMusic.stages.Relaxing_music.description>
+</LanguageData>

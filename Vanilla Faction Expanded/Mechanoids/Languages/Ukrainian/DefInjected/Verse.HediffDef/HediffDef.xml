@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--faster movement bonus-->
+  <VFE_FasterMovement.label>faster movement bonus</VFE_FasterMovement.label>
+  <!--faster movement bonus-->
+  <VFE_FasterMovement.description>faster movement bonus</VFE_FasterMovement.description>
+  <!--major brainwash-->
+  <VFE_BrainWashedNotFully.label>major brainwash</VFE_BrainWashedNotFully.label>
+  <!--I got ejected abruptly in the middle of a conversion. I don't feel too great.-->
+  <VFE_BrainWashedNotFully.description>I got ejected abruptly in the middle of a conversion. I don't feel too great.</VFE_BrainWashedNotFully.description>
+  <!--minor brainwash-->
+  <VFE_BrainWashedFully.label>minor brainwash</VFE_BrainWashedFully.label>
+  <!--My new beliefs are amazing, but the sudden conversion takes some time getting used to.-->
+  <VFE_BrainWashedFully.description>My new beliefs are amazing, but the sudden conversion takes some time getting used to.</VFE_BrainWashedFully.description>
+  <!--mechanoid uplink-->
+  <VFE_MechanoidUplink.label>mechanoid uplink</VFE_MechanoidUplink.label>
+  <!--mechanoid uplink-->
+  <VFE_MechanoidUplink.description>mechanoid uplink</VFE_MechanoidUplink.description>
+  <!--Mechanite clothing optimisation-->
+  <VFE_MechaniteUnderArmorHediff.label>Mechanite clothing optimisation</VFE_MechaniteUnderArmorHediff.label>
+  <!--Embedded mechanites are optimizing this individuals digestive tract, suppressing their need to eat.-->
+  <VFE_MechaniteUnderArmorHediff.description>Embedded mechanites are optimizing this individuals digestive tract, suppressing their need to eat.</VFE_MechaniteUnderArmorHediff.description>
+  <!--a mechanite optimisation-->
+  <VFE_MechaniteUnderArmorHediff.labelNoun>a mechanite optimisation</VFE_MechaniteUnderArmorHediff.labelNoun>
+  <!--inspired-->
+  <VFE_Mechanoids_GlobalWorkSpeed.label>inspired</VFE_Mechanoids_GlobalWorkSpeed.label>
+  <!--inspired-->
+  <VFE_Mechanoids_GlobalWorkSpeed.description>inspired</VFE_Mechanoids_GlobalWorkSpeed.description>
+  <!--inspired-->
+  <VFE_Mechanoids_GlobalWorkSpeed.labelNoun>inspired</VFE_Mechanoids_GlobalWorkSpeed.labelNoun>
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--scrapper-->
+  <VFEP_Scrapper.label>забіяка</VFEP_Scrapper.label>
+  <!--footsoldier-->
+  <VFEP_Footsoldier.label>піхотинець</VFEP_Footsoldier.label>
+  <!--veteran-->
+  <VFEP_Veteran.label>ветеран</VFEP_Veteran.label>
+  <!--veteran-->
+  <VFEP_Veteran_Melee.label>ветеран</VFEP_Veteran_Melee.label>
+  <!--heavy weapons platform-->
+  <VFEP_HeavyWeaponsPlatform.label>важкоозброєна платформа</VFEP_HeavyWeaponsPlatform.label>
+  <!--hussar-->
+  <VFEP_Hussar.label>гусар</VFEP_Hussar.label>
+  <!--pyro-->
+  <VFEP_Pyro.label>піро</VFEP_Pyro.label>
+  <!--artillery-->
+  <VFEP_Artillery.label>артилерія</VFEP_Artillery.label>
+  <!--private-->
+  <VFEP_Private.label>приватний</VFEP_Private.label>
+  <!--corporal-->
+  <VFEP_Corporal.label>капрал</VFEP_Corporal.label>
+  <!--sergeant-->
+  <VFEP_Sergeant.label>сержант</VFEP_Sergeant.label>
+  <!--sergeant major-->
+  <VFEP_SergeantMajor.label>старший сержант</VFEP_SergeantMajor.label>
+  <!--lieutenant-->
+  <VFEP_Lieutenant.label>лейтенант</VFEP_Lieutenant.label>
+  <!--captain-->
+  <VFEP_Captain.label>капітан</VFEP_Captain.label>
+  <!--major-->
+  <VFEP_Major.label>старший</VFEP_Major.label>
+  <!--general-->
+  <VFEP_General.label>генерал</VFEP_General.label>
+  <!--general-->
+  <VFEP_General_Melee.label>генерал</VFEP_General_Melee.label>
+  <!--pirate-->
+  <VFEP_PirateColonist.label>пірат</VFEP_PirateColonist.label>
+  <!--wardrone-->
+  <VFEP_Mech_Wardrone.label>бойовий дрон</VFEP_Mech_Wardrone.label>
+  <!--spidermine-->
+  <VFEP_Mech_Spidermine.label>міна-павук</VFEP_Mech_Spidermine.label>
+</LanguageData>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--firing frenzy-->
+  <VFEP_FiringFrenzy.label>шаленство стрільби</VFEP_FiringFrenzy.label>
+  <!--This person is using a special ability to inspire everyone nearby. Everyone within an effect radius gains 50% decreased Shooting Aiming time and 50% increased Pain Shock Threshold.-->
+  <VFEP_FiringFrenzy.description>Ця людина використовує особливу здатність надихати всіх, хто знаходиться поруч. Всі, хто знаходиться в радіусі дії ефекту, отримують зменшений на 50% час прицілювання і збільшений на 50% поріг больового шоку.</VFEP_FiringFrenzy.description>
+  <!--firing frenzy-->
+  <VFEP_FiringFrenzyBuff.label>firing frenzy</VFEP_FiringFrenzyBuff.label>
+  <!--Someone is using the firing frenzy ability nearby, inspiring this person to shoot faster and withstand greater amounts of physical pain.-->
+  <VFEP_FiringFrenzyBuff.description>Хтось поруч використовує здатність шаленої стрільби, надихаючи цю людину стріляти швидше і витримувати більше фізичного болю.</VFEP_FiringFrenzyBuff.description>
+  <!--siege mode-->
+  <VFEP_SiegeMode.label>режим облоги</VFEP_SiegeMode.label>
+  <!--siege mode.-->
+  <VFEP_SiegeMode.description>режим облоги.</VFEP_SiegeMode.description>
+  <!--siege mode-->
+  <VFEP_SiegeMode.labelNoun>режим облоги</VFEP_SiegeMode.labelNoun>
+  <!--drank rum based cocktail-->
+  <VFEP_RumAsIngredient.label>випив коктейль на основі рому</VFEP_RumAsIngredient.label>
+  <!--This colonist drank a cocktail that had rum as one of its ingredients. Reduces hunger rate by 15%.-->
+  <VFEP_RumAsIngredient.description>Випив коктейль, одним з інгредієнтів якого був ром. Зменшує відчуття голоду на 15.</VFEP_RumAsIngredient.description>
+  <!--hypothermic slowdown-->
+  <VFEP_HypothermicSlowdown.label>гіпотермічне уповільнення</VFEP_HypothermicSlowdown.label>
+  <!--Dangerously low core body temperature. Unless re-warmed, hypothermic slowdown gets worse and ends in death. Recovery is quick once the victim is re-warmed.-->
+  <VFEP_HypothermicSlowdown.description>Небезпечно низька температура тіла. Якщо не зігрітися, це закінчиться смертю.</VFEP_HypothermicSlowdown.description>
+  <!--minor-->
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>незначне</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <!--minor-->
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>незначне</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <!--moderate-->
+  <VFEP_HypothermicSlowdown.stages.moderate.label>помірне</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <!--serious-->
+  <VFEP_HypothermicSlowdown.stages.serious.label>серйозне</VFEP_HypothermicSlowdown.stages.serious.label>
+  <!--extreme-->
+  <VFEP_HypothermicSlowdown.stages.extreme.label>екстримальне</VFEP_HypothermicSlowdown.stages.extreme.label>
+  <!--kill itself-->
+  <VFEP_KillItself.label>самогубство</VFEP_KillItself.label>
+  <!--.-->
+  <VFEP_KillItself.description>.</VFEP_KillItself.description>
+  <!--minor-->
+  <VFEP_KillItself.stages.minor.label>незначне</VFEP_KillItself.stages.minor.label>
+</LanguageData>

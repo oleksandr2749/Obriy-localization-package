@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Extract Ingredients-->
+  <VFEM_BringIngredients>Extract Ingredients</VFEM_BringIngredients>
+  <!--Extract ingredients from adjacent hoppers to start the process-->
+  <VFEM_BringIngredientsDesc>Extract ingredients from adjacent hoppers to start the process</VFEM_BringIngredientsDesc>
+  <!--Must be placed directly on a factory floor.-->
+  <VFEMech.MustPlaceOnFactoryFloor>Must be placed directly on a factory floor.</VFEMech.MustPlaceOnFactoryFloor>
+  <!--Must be placed directly on a power conduit.-->
+  <VFEMech.MustPlaceOnPowerConduit>Must be placed directly on a power conduit.</VFEMech.MustPlaceOnPowerConduit>
+  <!--Currently no target-->
+  <VFEM_SiloNoTarget>Currently no target</VFEM_SiloNoTarget>
+  <!--Currently targeting {0} of {1}-->
+  <VFEM_SiloTargeting>Currently targeting {0} of {1}</VFEM_SiloTargeting>
+  <!--All resources present-->
+  <VFEM_SiloConditionsSatisfied>All resources present</VFEM_SiloConditionsSatisfied>
+  <!--Some resources missing-->
+  <VFEM_SiloConditionsUnsatisfied>Some resources missing</VFEM_SiloConditionsUnsatisfied>
+  <!--{0}: {1}/{2}-->
+  <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
+  <!--Location does not contain object big enough to target-->
+  <VFEM_SiloAimAtQuestSite>Location does not contain object big enough to target</VFEM_SiloAimAtQuestSite>
+  <!--Small Fish-->
+  <SmallFish>Small Fish</SmallFish>
+  <!--Medium Fish-->
+  <MediumFish>Medium Fish</MediumFish>
+  <!--Large Fish-->
+  <LargeFish>Large Fish</LargeFish>
+  <!--Have the Fish Taunter catch small fish.-->
+  <GizmoDescriptionSmall>Have the Fish Taunter catch small fish.</GizmoDescriptionSmall>
+  <!--Have the Fish Taunter catch medium fish.-->
+  <GizmoDescriptionMedium>Have the Fish Taunter catch medium fish.</GizmoDescriptionMedium>
+  <!--Have the Fish Taunter catch large fish.-->
+  <GizmoDescriptionLarge>Have the Fish Taunter catch large fish.</GizmoDescriptionLarge>
+  <!--Small Fish-->
+  <VFE_FishTrapperGizmoLabelSmall>Small Fish</VFE_FishTrapperGizmoLabelSmall>
+  <!--Medium Fish-->
+  <VFE_FishTrapperGizmoLabelMedium>Medium Fish</VFE_FishTrapperGizmoLabelMedium>
+  <!--Large Fish-->
+  <VFE_FishTrapperGizmoLabelLarge>Large Fish</VFE_FishTrapperGizmoLabelLarge>
+  <!--Mode: {0}-->
+  <VFEM.PropagandaMode>Mode: {0}</VFEM.PropagandaMode>
+  <!--Relaxing music-->
+  <VFEM.RelaxingMusic>Relaxing music</VFEM.RelaxingMusic>
+  <!--Inspirational music-->
+  <VFEM.InspirationalMusic>Inspirational music</VFEM.InspirationalMusic>
+  <!--Ideology propaganda-->
+  <VFEM.IdeoPropaganda>Ideology propaganda</VFEM.IdeoPropaganda>
+  <!--Prisoner recruitment-->
+  <VFEM.Recruitment>Prisoner recruitment</VFEM.Recruitment>
+  <!--Play relaxing music, making anyone that hears it a bit happier.-->
+  <VFEM.RelaxingMusicDesc>Play relaxing music, making anyone that hears it a bit happier.</VFEM.RelaxingMusicDesc>
+  <!--Play inspirational music, motivating pawns to work harder.-->
+  <VFEM.InspirationalMusicDesc>Play inspirational music, motivating pawns to work harder.</VFEM.InspirationalMusicDesc>
+  <!--Play propaganda music, increasing the certainty of colonists.-->
+  <VFEM.IdeoPropagandaDesc>Play propaganda music, increasing the certainty of colonists.</VFEM.IdeoPropagandaDesc>
+  <!--Play music that is liked by prisoners, reducing their resistance.-->
+  <VFEM.RecruitmentDesc>Play music that is liked by prisoners, reducing their resistance.</VFEM.RecruitmentDesc>
+  <!--Select ideology-->
+  <VFEM.SelectIdeology>Select ideology</VFEM.SelectIdeology>
+  <!--Select ideology the autobroadcaster should tune its music to.-->
+  <VFEM.SelectIdeologyDesc>Select ideology the autobroadcaster should tune its music to.</VFEM.SelectIdeologyDesc>
+  <!--Current ideology: {0}-->
+  <VFEM.CurrentIdeology>Current ideology: {0}</VFEM.CurrentIdeology>
+  <!--Must believe in another ideology-->
+  <VFEM.MustHaveAnotherIdeology>Must believe in another ideology</VFEM.MustHaveAnotherIdeology>
+  <!--Cannot enter: {0}-->
+  <VFEM.CannotEnter>Cannot enter: {0}</VFEM.CannotEnter>
+  <!--{PAWN_nameDef} wishes to join.-->
+  <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef} wishes to join.</VFEMech.LetterJoinOfferTitle>
+  <!--Join offer: {PAWN_nameDef}-->
+  <VFEMech.LetterJoinOfferLabel>Join offer: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+  <!--As a sign of trust and appreciation, {PAWN_nameDef} believes that {PAWN_pronoun} can be a valuable help in your colony. {PAWN_pronoun} wishes to join you permanently.-->
+  <VFEMech.LetterJoinOfferText>As a sign of trust and appreciation, {PAWN_nameDef} believes that {PAWN_pronoun} can be a valuable help in your colony. {PAWN_pronoun} wishes to join you permanently.</VFEMech.LetterJoinOfferText>
+  <!--Raid imminent: {FACTION_name}-->
+  <VFEMech.RaidWarningTitle>Raid imminent: {FACTION_name}</VFEMech.RaidWarningTitle>
+  <!--{FACTION_name} will raid you within the upcoming 12 hours. {1}-->
+  <VFEMech.RaidWarningText>{FACTION_name} will raid you within the upcoming 12 hours. {1}</VFEMech.RaidWarningText>
+  <!--Disable Total War mechanic-->
+  <VFEMech.DisableTotalWarMechanic>Disable Total War mechanic</VFEMech.DisableTotalWarMechanic>
+  <!--Adjust the interval of ship landings:-->
+  <VFEMech.AdjustIncidentTimeInterval>Adjust the interval of ship landings:</VFEMech.AdjustIncidentTimeInterval>
+  <!--Adjust base chance for ship landing incidents:-->
+  <VFEMech.AdjustIncidentChanceLabel>Adjust base chance for ship landing incidents:</VFEMech.AdjustIncidentChanceLabel>
+  <!--Adjust mechanoid presence generated by ships:-->
+  <VFEMech.AdjustMechPresenceLabel>Adjust mechanoid presence generated by ships:</VFEMech.AdjustMechPresenceLabel>
+  <!--Adjust minimum colonist count required for ship landing incidents:-->
+  <VFEMech.AdjustMinimunColonistCountLabel>Adjust minimum colonist count required for ship landing incidents:</VFEMech.AdjustMinimunColonistCountLabel>
+  <!--Adjust minimum wealth count required for ship landing incidents:-->
+  <VFEMech.AdjustMinimunWealthCountLabel>Adjust minimum wealth count required for ship landing incidents:</VFEMech.AdjustMinimunWealthCountLabel>
+  <!--Adjust maximum distance for ship landing sites:-->
+  <VFEMech.AdjustMaximumDistanceForShipsLabel>Adjust maximum distance for ship landing sites:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+  <!--Factory speed multiplier-->
+  <VFEM_factorySpeedMultiplier>Factory speed multiplier</VFEM_factorySpeedMultiplier>
+  <!--Factory speed multiplier. Default is 1. Lower numbers accelerate factory modules' speed, while higher numbers make them work slower.-->
+  <VFEM_factorySpeedMultiplierTooltip>Factory speed multiplier. Default is 1. Lower numbers accelerate factory modules' speed, while higher numbers make them work slower.</VFEM_factorySpeedMultiplierTooltip>
+  <!--Supercomputer research point yield value. Default is 1.-->
+  <VFEM_SuperComputerResearchPointYield>Supercomputer research point yield value. Default is 1.</VFEM_SuperComputerResearchPointYield>
+  <!--{FACTION_name} destroyed {1}-->
+  <VFEMech.FactionDestroyedShip>{FACTION_name} destroyed {1}</VFEMech.FactionDestroyedShip>
+  <!--Through clever strategies, large number of casualties and incredible perseverance, {FACTION_name} managed to destroy {1}.-->
+  <VFEMech.FactionDestroyedShipDesc>Through clever strategies, large number of casualties and incredible perseverance, {FACTION_name} managed to destroy {1}.</VFEMech.FactionDestroyedShipDesc>
+  <!--Ideology conversion target: {0}-->
+  <VFEMech.IdeologyConversionTarget>Ideology conversion target: {0}</VFEMech.IdeologyConversionTarget>
+  <!--Set ideology conversion target.-->
+  <VFEMech.SetIdeologyConversionTarget>Set ideology conversion target.</VFEMech.SetIdeologyConversionTarget>
+  <!--Select the ideology that the selected colonist should be converted to.-->
+  <VFEMech.SetIdeologyConversionTargetDesc>Select the ideology that the selected colonist should be converted to.</VFEMech.SetIdeologyConversionTargetDesc>
+  <!--{PAWN_nameDef}'s certainty in {1} is {2}%-->
+  <VFEMech.CurrentCertainty>{PAWN_nameDef}'s certainty in {1} is {2}%</VFEMech.CurrentCertainty>
+  <!--Enter indoctrination pod-->
+  <VFEMech.EnterIndoctrinationPod>Enter indoctrination pod</VFEMech.EnterIndoctrinationPod>
+</LanguageData>

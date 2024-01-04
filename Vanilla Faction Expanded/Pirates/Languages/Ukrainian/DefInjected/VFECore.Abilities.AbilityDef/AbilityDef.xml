@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--grappling hook-->
+  <VFEP_GrapplingHook.label>grappling hook</VFEP_GrapplingHook.label>
+  <!--Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again.-->
+  <VFEP_GrapplingHook.description>Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again.</VFEP_GrapplingHook.description>
+  <!--Using ability: {0}-->
+  <VFEP_GrapplingHook.jobReportString>Using ability: {0}</VFEP_GrapplingHook.jobReportString>
+  <!--reload grappling hook-->
+  <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>reload grappling hook</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+  <!--grappling hook-->
+  <VFEP_GrapplingHook.verbProperties.label>grappling hook</VFEP_GrapplingHook.verbProperties.label>
+  <!--Siege Mode-->
+  <VFEP_SiegeMode.label>Siege Mode</VFEP_SiegeMode.label>
+  <!--Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically.-->
+  <VFEP_SiegeMode.description>Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically.</VFEP_SiegeMode.description>
+  <!--Using ability: {0}-->
+  <VFEP_SiegeMode.jobReportString>Using ability: {0}</VFEP_SiegeMode.jobReportString>
+  <!--Siege Mode-->
+  <VFEP_SiegeMode.verbProperties.label>Siege Mode</VFEP_SiegeMode.verbProperties.label>
+  <!--Power jump-->
+  <VFEP_PowerJump.label>Power jump</VFEP_PowerJump.label>
+  <!--Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight.-->
+  <VFEP_PowerJump.description>Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight.</VFEP_PowerJump.description>
+  <!--Using ability: {0}-->
+  <VFEP_PowerJump.jobReportString>Using ability: {0}</VFEP_PowerJump.jobReportString>
+  <!--Power jump-->
+  <VFEP_PowerJump.verbProperties.label>Power jump</VFEP_PowerJump.verbProperties.label>
+  <!--Blast off-->
+  <VFEP_BlastOff.label>Blast off</VFEP_BlastOff.label>
+  <!--Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back.-->
+  <VFEP_BlastOff.description>Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back.</VFEP_BlastOff.description>
+  <!--Using ability: {0}-->
+  <VFEP_BlastOff.jobReportString>Using ability: {0}</VFEP_BlastOff.jobReportString>
+  <!--Blast off-->
+  <VFEP_BlastOff.verbProperties.label>Blast off</VFEP_BlastOff.verbProperties.label>
+</LanguageData>

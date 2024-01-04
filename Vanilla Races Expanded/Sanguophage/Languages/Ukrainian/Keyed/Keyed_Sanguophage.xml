@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Animal-->
+  <VRE_Animal>Тварина</VRE_Animal>
+  <!--Corpse-->
+  <VRE_Corpse>Труп</VRE_Corpse>
+  <!--Sanguophage-->
+  <VRE_Sanguophage>Сангвофаг</VRE_Sanguophage>
+  <!--Extract hemogen (animal) from {0}-->
+  <VRE_ExtractHemogenAnimal>Вилучити тваринний гемоген з {0}</VRE_ExtractHemogenAnimal>
+  <!--Extract hemogen (corpse) from {0}-->
+  <VRE_ExtractHemogenCorpse>Вилучити трупний гемоген з {0}</VRE_ExtractHemogenCorpse>
+  <!--Extract hemogen (sanguophage) from {0}-->
+  <VRE_ExtractHemogenSanguophage>Вилучити гемоген сангофага з {0}</VRE_ExtractHemogenSanguophage>
+  <!--The sanguofeed ability can only be used on hemogenic people-->
+  <VRE_MessageCantUseOnNonSanguophage>The sanguofeed ability can only be used on hemogenic people</VRE_MessageCantUseOnNonSanguophage>
+  <!--The sanguofeed ability can't be used on Sanguophages completely drained of hemogen-->
+  <VRE_MessageCantUseOnDrainedSanguophage>The sanguofeed ability can't be used on Sanguophages completely drained of hemogen</VRE_MessageCantUseOnDrainedSanguophage>
+  <!--Can only be used on targets with a heart-->
+  <VRE_NoHeart>Можна застосувати лише на ціль, що має серце</VRE_NoHeart>
+  <!--Switches hemogen flow on/off.-->
+  <VRE_HemogenValve>Вмикає/вимикає потік гемогену.</VRE_HemogenValve>
+  <!--Switches hemogen flow on/off. A pawn will come open/close the valve.-->
+  <VRE_HemogenValveDesc>Вмикає/вимикає потік гемогену. Персонаж відкриває/закриває клапан.</VRE_HemogenValveDesc>
+  <!--Ability: {0}-->
+  <VRE_Ability>Здібність: {0}</VRE_Ability>
+  <!--Choose ability-->
+  <VRE_DefaultAbility>Обрати здібніть</VRE_DefaultAbility>
+  <!--Carry {0} to draincasket-->
+  <VRE_CarryToDraincasket>Положити {0} в гемогенний екстактор</VRE_CarryToDraincasket>
+  <!--Enter draincasket-->
+  <VRE_EnterDraincasket>Лягти в гемогенний екстактор</VRE_EnterDraincasket>
+  <!--Eject occupant-->
+  <VRE_CommandDraincasketEject>Дістати особу</VRE_CommandDraincasketEject>
+  <!--Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss.-->
+  <VRE_CommandDraincasketEjectDesc>Витягнути з гемогенного екстрактора приєднану до нього особу. Це перерве екстракцію та викликає запаморочення у особи.</VRE_CommandDraincasketEjectDesc>
+  <!--Can't eject occupant, since draincasket is empty-->
+  <VRE_CommandDraincasketEjectFailEmpty>Гемогенний екстрактор ніким не зайнятий</VRE_CommandDraincasketEjectFailEmpty>
+  <!--Draincasket hemogen production (per day)-->
+  <VRE_DraincasketAmount>Виробництво гемогену в гемогенних екстракторах (на добу)</VRE_DraincasketAmount>
+  <!--Sets the amount of hemogen packs the draincaskets will produce per day. By default it is 2 hemogen packs per day.-->
+  <VRE_DraincasketAmountTooltip>Задати кількість гемогену, яку гемогенний екстрактор вироблятиме на добу. За замовчуванням - 2 пакети гемогену на добу.</VRE_DraincasketAmountTooltip>
+  <!--Reset-->
+  <VRE_Reset>Скинути</VRE_Reset>
+</LanguageData>

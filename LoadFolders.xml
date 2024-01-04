@@ -18,5 +18,19 @@
 	<li IfModActive="cjgunnar.HiddenEnemyBio">hidden enemy bio</li>
 	<li IfModActive="zylle.Clocks">clocks</li>
 	<li IfModActive="Keshash.LayeredWallDestruction">layered wall destruction</li>
+	<li IfModActive="hlx.JoJosBizarreHairstyles">joJo's bizarre hairstyles</li>
+	<li IfModActive="vanillaracesexpanded.hussar">vanilla races expanded/hussar</li>
+	<li IfModActive="vanillaracesexpanded.highmate">vanilla races expanded/highmate</li>
+	<li IfModActive="vanillaracesexpanded.genie">vanilla races expanded/genie</li>
+	<li IfModActive="vanillaracesexpanded.fungoid">vanilla races expanded/fungoid</li>
+	<li IfModActive="vanillaracesexpanded.sanguophage">vanilla races expanded/sanguophage</li>
+	<li IfModActive="vanillaracesexpanded.waster">vanilla races expanded/waster</li>
+	<li IfModActive="vanillaracesexpanded.android">vanilla races expanded/android</li>
+	<li IfModActive="OskarPotocki.VFE.Pirates">vanilla races expanded/pirates</li>
+	<li IfModActive="OskarPotocki.VFE.Empire">vanilla faction expanded/empire</li>
+	<li IfModActive="vanillaExpanded.VFEA">vanilla faction expanded/ancients</li>
+	<li IfModActive="VanillaExpanded.VFECore">vanilla furniture expanded</li>
+	<li IfModActive="VanillaExpanded.VPlantsE">vanilla plants expanded</li>
+	<li IfModActive="oskarpotocki.vfe.mechanoid">vanilla faction expanded/mechanoids</li>
 	</v1.4>
 </loadFolders>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--lost a comrade-->
+  <VFEP_Camaraderie_Respected_CrewDead.stages.lost_a_comrade.label>lost a comrade</VFEP_Camaraderie_Respected_CrewDead.stages.lost_a_comrade.label>
+  <!--We’ve lost one of ours. What a sad day it is.-->
+  <VFEP_Camaraderie_Respected_CrewDead.stages.lost_a_comrade.description>We’ve lost one of ours. What a sad day it is.</VFEP_Camaraderie_Respected_CrewDead.stages.lost_a_comrade.description>
+  <!--socialized with a comrade-->
+  <VFEP_Camaraderie_Respected_Memory.stages.socialized_with_a_comrade.label>socialized with a comrade</VFEP_Camaraderie_Respected_Memory.stages.socialized_with_a_comrade.label>
+  <!--I’ve socialised with a comrade, which strengthens our bond.-->
+  <VFEP_Camaraderie_Respected_Memory.stages.socialized_with_a_comrade.description>I’ve socialised with a comrade, which strengthens our bond.</VFEP_Camaraderie_Respected_Memory.stages.socialized_with_a_comrade.description>
+  <!--lost a comrade-->
+  <VFEP_Camaraderie_Exalted_CrewDead.stages.lost_a_comrade.label>lost a comrade</VFEP_Camaraderie_Exalted_CrewDead.stages.lost_a_comrade.label>
+  <!--We’ve lost one of ours. I need to look to others for strength.-->
+  <VFEP_Camaraderie_Exalted_CrewDead.stages.lost_a_comrade.description>We’ve lost one of ours. I need to look to others for strength.</VFEP_Camaraderie_Exalted_CrewDead.stages.lost_a_comrade.description>
+  <!--socialized with a comrade-->
+  <VFEP_Camaraderie_Exalted_Memory.stages.socialized_with_a_comrade.label>socialized with a comrade</VFEP_Camaraderie_Exalted_Memory.stages.socialized_with_a_comrade.label>
+  <!--I’ve socialised with a comrade. We are unstoppable!-->
+  <VFEP_Camaraderie_Exalted_Memory.stages.socialized_with_a_comrade.description>I’ve socialised with a comrade. We are unstoppable!</VFEP_Camaraderie_Exalted_Memory.stages.socialized_with_a_comrade.description>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-0.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-0.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-1.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-1.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-2.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-2.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-3.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-3.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-4.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-4.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-5.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-5.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-6.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-6.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-7.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-7.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-8.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-8.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-9.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-9.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-10.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-10.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-11.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-11.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-12.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-12.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-13.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-13.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-14.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-14.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-15.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-15.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-16.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-16.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-17.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-17.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-18.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-18.label>
+  <!--been through some tough times together!-->
+  <VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-19.label>been through some tough times together!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.been_through_some_tough_times_together-19.label>
+  <!--boring singing shanties-->
+  <VFEP_BoringShanties.stages.boring_singing_shanties.label>boring singing shanties</VFEP_BoringShanties.stages.boring_singing_shanties.label>
+  <!--The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there.-->
+  <VFEP_BoringShanties.stages.boring_singing_shanties.description>The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there.</VFEP_BoringShanties.stages.boring_singing_shanties.description>
+  <!--lame singing shanties-->
+  <VFEP_LameShanties.stages.lame_singing_shanties.label>lame singing shanties</VFEP_LameShanties.stages.lame_singing_shanties.label>
+  <!--The cap'n treated us like children, wanting so desperately to hear something to lift their spirits.-->
+  <VFEP_LameShanties.stages.lame_singing_shanties.description>The cap'n treated us like children, wanting so desperately to hear something to lift their spirits.</VFEP_LameShanties.stages.lame_singing_shanties.description>
+  <!--rousing singing shanties-->
+  <VFEP_RousingShanties.stages.rousing_singing_shanties.label>rousing singing shanties</VFEP_RousingShanties.stages.rousing_singing_shanties.label>
+  <!--Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger.-->
+  <VFEP_RousingShanties.stages.rousing_singing_shanties.description>Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger.</VFEP_RousingShanties.stages.rousing_singing_shanties.description>
+  <!--amazing singing shanties-->
+  <VFEP_AmazingShanties.stages.amazing_singing_shanties.label>amazing singing shanties</VFEP_AmazingShanties.stages.amazing_singing_shanties.label>
+  <!--We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away.-->
+  <VFEP_AmazingShanties.stages.amazing_singing_shanties.description>We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away.</VFEP_AmazingShanties.stages.amazing_singing_shanties.description>
+  <!--Drank rum-based cocktail-->
+  <VFEP_RumAsIngredient.stages.Drank_rumbased_cocktail.label>Drank rum-based cocktail</VFEP_RumAsIngredient.stages.Drank_rumbased_cocktail.label>
+  <!--Yummy.-->
+  <VFEP_RumAsIngredient.stages.Drank_rumbased_cocktail.description>Yummy.</VFEP_RumAsIngredient.stages.Drank_rumbased_cocktail.description>
+  <!--sweaty-->
+  <VFEP_RumSuitThought.stages.sweaty.label>sweaty</VFEP_RumSuitThought.stages.sweaty.label>
+  <!--This suit is way too hot. I'm sweating.-->
+  <VFEP_RumSuitThought.stages.sweaty.description>This suit is way too hot. I'm sweating.</VFEP_RumSuitThought.stages.sweaty.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--swap gun-->
+  <VFEM_SwapWeapon.label>змінити зброю</VFEM_SwapWeapon.label>
+  <!--Swaps between a charge blaster and an inferno gun.-->
+  <VFEM_SwapWeapon.description>Перемкнутися між бластером та інферно гарматою.</VFEM_SwapWeapon.description>
+</LanguageData>

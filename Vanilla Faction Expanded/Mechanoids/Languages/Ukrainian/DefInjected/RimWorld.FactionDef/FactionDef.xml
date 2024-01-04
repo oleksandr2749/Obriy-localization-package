@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--mechanoid swarm-->
+  <VFE_Mechanoid.label>рій</VFE_Mechanoid.label>
+  <!--A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. Controlled remotely by human commanders in one of the core worlds, in the center of this mechanoid swarm lies a lair, where countless machines are constructed and deconstructed continuously to serve the greater cause.\n\nThey are not concerned with human rights and don't perceive inhabitants of this rimworld as anything but apes that need to be terminated for the terraforming project to continue.\n\nThis mechanoid swarm cannot be allied with.-->
+  <VFE_Mechanoid.description>Великий орбітальний рій космічних бойових і тераформуючих кораблів механоїдів. Знаходиться під віддаленим керування людей з однієї із розвинутих планет. В центрі рою знаходиться корабель-кубло, де безперервно будується незліченна кількість механоїдів.\n\nДля них ви як бур'ян, який потрібно знищити, щоб розпочати проект тераформування.\n\nВи ніколи не зможете припиритися з роєм.</VFE_Mechanoid.description>
+  <!--leader-->
+  <VFE_Mechanoid.leaderTitle>лідер</VFE_Mechanoid.leaderTitle>
+  <!--mechanoid-->
+  <VFE_Mechanoid.pawnSingular>механоїд</VFE_Mechanoid.pawnSingular>
+  <!--mechanoids-->
+  <VFE_Mechanoid.pawnsPlural>механоїди</VFE_Mechanoid.pawnsPlural>
+</LanguageData>
