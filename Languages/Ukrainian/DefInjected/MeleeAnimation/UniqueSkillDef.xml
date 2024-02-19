@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Mystic Weapon Summon-->
+  <AM_Skill_Gilgamesh.label>Прикликати містичну зброю</AM_Skill_Gilgamesh.label>
+  <!--Summons a myriad of weapons, of unknown origin, to impale the target.\nDoes not require line of sight, and the onslaught of weapons is sure to kill the victim.\nHowever, such a feat of psychic ability will put the summoner in a psychic coma for around 2 days.-->
+  <AM_Skill_Gilgamesh.description>Створити !!!, щоб пронизати нею ціль.\nНе потребує прямої видимості, і здібність обов'язково вб'є жертву.\nОднак, її викорситання введе користувача в психічну кому приблизно на 2 дні.</AM_Skill_Gilgamesh.description>
+  <!--Scarlet Edge-->
+  <AM_Skill_Weebstick.label>Червонолезо</AM_Skill_Weebstick.label>
+  <!--Slash through a single enemy using Scarlet Edge, killing them instantly.-->
+  <AM_Skill_Weebstick.description>Ріжучою !!! атакою миттєво прострибнути скрізь ціль вбиваючи.</AM_Skill_Weebstick.description>
+  <!--Lance Ultrakill-->
+  <AM_Skill_GaeBulg.label>Спис ультравбивства</AM_Skill_GaeBulg.label>
+  <!--Kill a single target in a complex and stylish animation that launches them into the air.\nAlways kills the target.-->
+  <AM_Skill_GaeBulg.description>Вбийте ціль за допомогою складного та стильного приому, !!!.</AM_Skill_GaeBulg.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--in animation-->
+  <AM_InAnimation.reportString>в прийомі</AM_InAnimation.reportString>
+  <!--casting animation-->
+  <AM_ChannelAnimation.reportString>виконує прийом</AM_ChannelAnimation.reportString>
+  <!--moving towards TargetA to perform execution.-->
+  <AM_WalkToExecution.reportString>рухається до TargetA виконати добивання.</AM_WalkToExecution.reportString>
+  <!--engaging in friendly duel with TargetA-->
+  <AM_DoFriendlyDuel.reportString>в поєдинку з TargetA</AM_DoFriendlyDuel.reportString>
+  <!--spectating duel: cheering for TargetC-->
+  <AM_SpectateFriendlyDuel.reportString>суперечка глядачів: вболіває за TargetC</AM_SpectateFriendlyDuel.reportString>
+</LanguageData>

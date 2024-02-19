@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--fish trap-->
+  <WFFT_FishTrap.label>риболовна пастка</WFFT_FishTrap.label>
+  <!--Passively catch small fishes. Must be placed on water.-->
+  <WFFT_FishTrap.description>Passively catch small fishes. Must be placed on water.</WFFT_FishTrap.description>
+  <!--fish net-->
+  <WFFT_FishNet.label>риболовна сіть</WFFT_FishNet.label>
+  <!--Passively catch all kinds of fish. Must be placed on water.-->
+  <WFFT_FishNet.description>Passively catch all kinds of fish. Must be placed on water.</WFFT_FishNet.description>
+</LanguageData>

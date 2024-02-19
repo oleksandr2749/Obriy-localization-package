@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--bionic bladder-->
+  <BionicBladder.label>біонічний сечовий міхур</BionicBladder.label>
+  <!--An advanced artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.-->
+  <BionicBladder.description>An advanced artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</BionicBladder.description>
+  <!--hygiene enhancer-->
+  <HygieneEnhancer.label>підсилювач гігієни</HygieneEnhancer.label>
+  <!--Releases mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.-->
+  <HygieneEnhancer.description>Спеціальні залози на тілі, що випускають механітів для очищення шкіри та волосся від бруду і відмерлих клітин.</HygieneEnhancer.description>
+  <!--plumbing-->
+  <sewagePipeStuff.label>Водопровід</sewagePipeStuff.label>
+  <!--Plumbing for connecting plumbed things.-->
+  <sewagePipeStuff.description>Водопровідні труби для поєднання сантехніки в одну мережу.</sewagePipeStuff.description>
+  <!--plumbing valve-->
+  <plumbingValve.label>клапан водопроводу</plumbingValve.label>
+  <!--Opens or closes connections between pipes.-->
+  <plumbingValve.description>Відкриває або закриває з'єднання між трубами.</plumbingValve.description>
+  <!--air-con pipe-->
+  <airPipe.label>вентиляційна труба</airPipe.label>
+  <!--Pipe for connecting air-conditioning units.-->
+  <airPipe.description>Труба для під'єднання кондиціонерів.</airPipe.description>
+  <!--stall door-->
+  <ToiletStallDoor.label>кабінкові двері</ToiletStallDoor.label>
+  <!--Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.-->
+  <ToiletStallDoor.description>Невеликі дверцята, призначені лише для перекривання огляд в громадських вбиральнях. Не створюють нових приміщень і не втримують температуру.</ToiletStallDoor.description>
+  <!--latrine-->
+  <PitLatrine.label>latrine</PitLatrine.label>
+  <!--A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use-->
+  <PitLatrine.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use</PitLatrine.description>
+  <!--primitive well-->
+  <PrimitiveWell.label>премітивний колодязь</PrimitiveWell.label>
+  <!--Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.-->
+  <PrimitiveWell.description>Отвір в землі, що тягнуться до ґрунтових вод. Перед тим, як використовувати воду для миття або пиття, її потрібно набрати у ванночку.</PrimitiveWell.description>
+  <!--water tub-->
+  <WashBucket.label>ванночка</WashBucket.label>
+  <!--Tub of water used for personal hygiene. Must be regularly refilled with fresh water, also fills with rain water. Can also be used for drinking if thirst is enabled.-->
+  <WashBucket.description>Використовується для особистої гігієни та пиття. Потрібно регулярно наповнювати свіжою водою, також може наповнюватися водую від дощу.</WashBucket.description>
+  <!--litter box-->
+  <LitterBox.label>лоток</LitterBox.label>
+  <!--An indoor faeces and urine collection box for small animals.-->
+  <LitterBox.description>Кімнатний туалет та місце для ігор дрібних тварин.</LitterBox.description>
+  <!--burn pit-->
+  <BurnPit.label>яма</BurnPit.label>
+  <!--Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.-->
+  <BurnPit.description>Використовує !!!. Також може використовуватися для утилізації трупів або іншого сміття. Колоністи можуть захворіти, якщо занадто довго перебуватимуть біля відходів, що горять.</BurnPit.description>
+  <!--basin-->
+  <BasinStuff.label>умивальник</BasinStuff.label>
+  <!--Clean and simple bathroom basin for keeping your hands clean after using the toilet.-->
+  <BasinStuff.description>Використовується у ванній кімнаті для підтримання чистоти рук після відвідування туалету.</BasinStuff.description>
+  <!--fountain-->
+  <Fountain.label>фонтанчик</Fountain.label>
+  <!--A water fountain used for drinking and washing.-->
+  <Fountain.description>використовується для пиття та вмивання.</Fountain.description>
+  <!--kitchen sink-->
+  <KitchenSink.label>кухонна мийка</KitchenSink.label>
+  <!--Everything but a kitchen sink. Increases room cleanliness.-->
+  <KitchenSink.description>Все, окрім кухонної мийки. Підвищує чистоту в приміщенні.</KitchenSink.description>
+  <!--toilet-->
+  <ToiletStuff.label>унітаз</ToiletStuff.label>
+  <!--Sanitation fixture used for the disposal of human urine and faeces.\n14L per use-->
+  <ToiletStuff.description>Санітарно-технічний пристрій для збору та злиття калу і сечовини в каналізацію.\n14л за використання</ToiletStuff.description>
+  <!--smart toilet-->
+  <ToiletAdvStuff.label>розумний туалет</ToiletAdvStuff.label>
+  <!--Comfortable, self cleaning, unblockable, super efficient smart toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use-->
+  <ToiletAdvStuff.description>Зручний, самоочисний, супер-ефективний розумний унітаз. Забезпечує оптимальний багатофункціональний досвід з автоматичним очищенням і дезодорацією.\n7л за використання</ToiletAdvStuff.description>
+  <!--Bath Mat-->
+  <BathMat.label>Bath Mat</BathMat.label>
+  <!--A small mat used next to a bathtub to absorb water.-->
+  <BathMat.description>A small mat used next to a bathtub to absorb water.</BathMat.description>
+  <!--bathtub-->
+  <BathtubStuff.label>bathtub</BathtubStuff.label>
+  <!--Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash-->
+  <BathtubStuff.description>Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash</BathtubStuff.description>
+  <!--shower-->
+  <ShowerStuff.label>shower</ShowerStuff.label>
+  <!--Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash-->
+  <ShowerStuff.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerStuff.description>
+  <!--simple shower-->
+  <ShowerSimple.label>simple shower</ShowerSimple.label>
+  <!--Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash-->
+  <ShowerSimple.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerSimple.description>
+  <!--power shower-->
+  <ShowerAdvStuff.label>power shower</ShowerAdvStuff.label>
+  <!--Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash-->
+  <ShowerAdvStuff.description>Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash</ShowerAdvStuff.description>
+  <!--swimming pool-->
+  <DBHSwimmingPool.label>swimming pool</DBHSwimmingPool.label>
+  <!--Swimming pool used for hydrotherapy, relaxation, or pleasure. Must be filled with water from water towers first.-->
+  <DBHSwimmingPool.description>Swimming pool used for hydrotherapy, relaxation, or pleasure. Must be filled with water from water towers first.</DBHSwimmingPool.description>
+  <!--hot tub-->
+  <HotTub.label>гідромасажна ванна</HotTub.label>
+  <!--Hot tub used for hydrotherapy, relaxation, or pleasure. Filled with water from water towers on first use. Self-heated and does not require a sewage outlet.-->
+  <HotTub.description>Чудове місце для відпочинку та задоволення. Необхідно один раз наповнити водою з водонапірних башт. Самостійно нагрівається і не потребує каналізації.</HotTub.description>
+  <!--washing machine-->
+  <WashingMachine.label>пральна машина</WashingMachine.label>
+  <!--Washes clothes so well that you can't even tell someone died wearing it!-->
+  <WashingMachine.description>Відмиває одяг так добре, що навіть знята з трупа сорочка буде чиста як нова!</WashingMachine.description>
+  <!--Fueled Sauna Heater-->
+  <DBHSaunaHeaterLog.label>Fueled Sauna Heater</DBHSaunaHeaterLog.label>
+  <!--A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.-->
+  <DBHSaunaHeaterLog.description>A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.</DBHSaunaHeaterLog.description>
+  <!--Electric Sauna Heater-->
+  <DBHSaunaHeaterElec.label>Electric Sauna Heater</DBHSaunaHeaterElec.label>
+  <!--A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.-->
+  <DBHSaunaHeaterElec.description>A heater designed specifically for creating a sauna room, using a sauna regularly reduces the risk of heart attacks, heats a room to 60c.</DBHSaunaHeaterElec.description>
+  <!--Sauna seating-->
+  <DBHSaunaSeating.label>Sauna seating</DBHSaunaSeating.label>
+  <!--Slatted seating for sauna rooms-->
+  <DBHSaunaSeating.description>Slatted seating for sauna rooms</DBHSaunaSeating.description>
+  <!--water well-->
+  <WaterWellInlet.label>water well</WaterWellInlet.label>
+  <!--Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.-->
+  <WaterWellInlet.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet.description>
+  <!--deep water well-->
+  <DeepWaterWellInlet.label>deep water well</DeepWaterWellInlet.label>
+  <!--Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.-->
+  <DeepWaterWellInlet.description>Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.</DeepWaterWellInlet.description>
+  <!--water butt-->
+  <WaterButt.label>water butt</WaterButt.label>
+  <!--Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.-->
+  <WaterButt.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterButt.description>
+  <!--water tower-->
+  <WaterTowerS.label>water tower</WaterTowerS.label>
+  <!--Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.-->
+  <WaterTowerS.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerS.description>
+  <!--huge water tower-->
+  <WaterTowerL.label>huge water tower</WaterTowerL.label>
+  <!--Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.-->
+  <WaterTowerL.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerL.description>
+  <!--wind pump-->
+  <WindPump.label>wind pump</WindPump.label>
+  <!--Pumps water from wells to water towers. Pumping capacity: 3000 L/day.-->
+  <WindPump.description>Pumps water from wells to water towers. Pumping capacity: 3000 L/day.</WindPump.description>
+  <!--electric pump-->
+  <ElectricPump.label>electric pump</ElectricPump.label>
+  <!--Pumps water from wells to water towers. Pumping capacity: 1500 L/day.-->
+  <ElectricPump.description>Pumps water from wells to water towers. Pumping capacity: 1500 L/day.</ElectricPump.description>
+  <!--pumping station-->
+  <PumpingStation.label>pumping station</PumpingStation.label>
+  <!--Pumps water from wells to water towers. Pumping capacity: 10000 L/day.-->
+  <PumpingStation.description>Pumps water from wells to water towers. Pumping capacity: 10000 L/day.</PumpingStation.description>
+  <!--sewage outlet-->
+  <SewageOutlet.label>sewage outlet</SewageOutlet.label>
+  <!--Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.-->
+  <SewageOutlet.description>Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.</SewageOutlet.description>
+  <!--septic tank-->
+  <SewageSepticTank.label>septic tank</SewageSepticTank.label>
+  <!--Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.-->
+  <SewageSepticTank.description>Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.</SewageSepticTank.description>
+  <!--sewage treatment-->
+  <SewageTreatment.label>sewage treatment</SewageTreatment.label>
+  <!--Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.-->
+  <SewageTreatment.description>Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.</SewageTreatment.description>
+  <!--water treatment-->
+  <WaterTreatment.label>water treatment</WaterTreatment.label>
+  <!--Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.-->
+  <WaterTreatment.description>Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.</WaterTreatment.description>
+  <!--thermostat-->
+  <Thermostat.label>thermostat</Thermostat.label>
+  <!--Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.-->
+  <Thermostat.description>Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.</Thermostat.description>
+  <!--log boiler-->
+  <LogBoiler.label>log boiler</LogBoiler.label>
+  <!--Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.-->
+  <LogBoiler.description>Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.</LogBoiler.description>
+  <!--Power Mode-->
+  <LogBoiler.comps.CompBoiler.GizmoLabel>Power Mode</LogBoiler.comps.CompBoiler.GizmoLabel>
+  <!--gas boiler-->
+  <GasBoiler.label>gas boiler</GasBoiler.label>
+  <!--Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.-->
+  <GasBoiler.description>Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.</GasBoiler.description>
+  <!--Power Mode-->
+  <GasBoiler.comps.CompBoiler.GizmoLabel>Power Mode</GasBoiler.comps.CompBoiler.GizmoLabel>
+  <!--electric boiler-->
+  <ElectricBoiler.label>electric boiler</ElectricBoiler.label>
+  <!--Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.-->
+  <ElectricBoiler.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler.description>
+  <!--Power Mode-->
+  <ElectricBoiler.comps.CompBoiler.GizmoLabel>Power Mode</ElectricBoiler.comps.CompBoiler.GizmoLabel>
+  <!--solar heater-->
+  <SolarHeater.label>сонячний нагрівач</SolarHeater.label>
+  <!--Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.-->
+  <SolarHeater.description>Використовує сонячне світло для нагрівання води в водонапірних вежах та радіаторах. Нагріває від 0 до 2000 теплових одиниць залежно від рівня освітленості та температури на панелі.</SolarHeater.description>
+  <!--Power Mode-->
+  <SolarHeater.comps.CompBoilerSolar.GizmoLabel>Power Mode</SolarHeater.comps.CompBoilerSolar.GizmoLabel>
+  <!--Geothermal heater-->
+  <GeothermHeater.label>геотермальний нагрівач</GeothermHeater.label>
+  <!--Uses geothermal heat to heat hot water tanks and radiators. 3700 units of heating.-->
+  <GeothermHeater.description>Використоває геотермальні викиди для нагрівання води в водонапірних вежах та раіаторах. Нагріває на 3700 теплових одиниць.</GeothermHeater.description>
+  <!--Power Mode-->
+  <GeothermHeater.comps.CompGeoBoiler.GizmoLabel>Режим Потужності</GeothermHeater.comps.CompGeoBoiler.GizmoLabel>
+  <!--hot water tank-->
+  <HotWaterTank.label>термо-водонапірна вежа</HotWaterTank.label>
+  <!--Stores hot running water for showers and baths. Connect to any boiler to heat.-->
+  <HotWaterTank.description>Зберігає гарячу воду для душу та ванни.</HotWaterTank.description>
+  <!--radiator-->
+  <RadiatorStuffed.label>радіатор</RadiatorStuffed.label>
+  <!--Heats rooms using hot water from boilers. Requires 100 heating units.-->
+  <RadiatorStuffed.description>Обігріває кімнату використовуючи гарячу воду з бойлера. Споживає 100 теплових одиниць.</RadiatorStuffed.description>
+  <!--large radiator-->
+  <RadiatorLarge.label>великий радіатор</RadiatorLarge.label>
+  <!--Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.-->
+  <RadiatorLarge.description>Втричі більша потужність, за стандартний радіатора. Корисний для великих приміщень. Споживає 300 одиниць опалення.</RadiatorLarge.description>
+  <!--Towel Rail-->
+  <RadiatorTowelRail.label>Вішалка для рушників</RadiatorTowelRail.label>
+  <!--Impressive bathroom towel rail.-->
+  <RadiatorTowelRail.description>Чудова вішалка для рушників у ванну кімнату.</RadiatorTowelRail.description>
+  <!--ceiling fan 2x2-->
+  <CeilingFan.label>стельовий вентилятор 2x2</CeilingFan.label>
+  <!--Cools a room by circulating air. Includes a built-in lamp.-->
+  <CeilingFan.description>Охолоджує приміщення за рахунок циркуляції повітря. Має вбудовану лампу.</CeilingFan.description>
+  <!--ceiling fan 1x1-->
+  <CeilingFanS.label>стельовий вентилятор 1x1</CeilingFanS.label>
+  <!--Cools a room by circulating air. Includes a built-in lamp.-->
+  <CeilingFanS.description>Охолоджує приміщення за рахунок циркуляції повітря. Має вбудовану лампу..</CeilingFanS.description>
+  <!--air-con outdoor unit-->
+  <AirConOutdoorUnit.label>зовнішній блок мульти-кондиціонування</AirConOutdoorUnit.label>
+  <!--Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.-->
+  <AirConOutdoorUnit.description>Розміщується зовні будівлі і приєднується до кондиціонерів або морозильних камер всередині. Має режими потужності між 100-1000 одиниць охолодження.</AirConOutdoorUnit.description>
+  <!--air-con indoor unit-->
+  <AirconIndoorUnit.label>внутрішній блок кондиціонера</AirconIndoorUnit.label>
+  <!--Indoor air-con unit for rooms. Connect to outdoor air-con units. Requires 100 cooling units.-->
+  <AirconIndoorUnit.description>Внутрішній блок кондиціонера для приміщень. Підєднується до зовнішнього блоку. Потребує 100 одиниць охолодження.</AirconIndoorUnit.description>
+  <!--walk-in freezer unit-->
+  <FreezerUnit.label>блок морозильної камери</FreezerUnit.label>
+  <!--Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.-->
+  <FreezerUnit.description>Охолоджувач для створення морозильної камери. Підключається до зовнішнього блоку кондиціонера. Потрібно 300 холодильних агрегатів.</FreezerUnit.description>
+  <!--irrigation sprinkler-->
+  <IrrigationSprinkler.label>обприскувач</IrrigationSprinkler.label>
+  <!--Waters the surrounding area once every morning to improve the fertility of the soil through the day. Uses 1000L each morning at max radius.-->
+  <IrrigationSprinkler.description>Щоранку поливає територію, для покращення родючості ґрунту протягом дня. Використовує 1000 л щоранку в максимальному радіусі.</IrrigationSprinkler.description>
+  <!--fire sprinkler-->
+  <FireSprinkler.label>автоматичний вогнегасник</FireSprinkler.label>
+  <!--Triggered by fire or high temperature. Douses flames with a spray of water.-->
+  <FireSprinkler.description>Спрацьовує від вогню, гасячи полум'я. Має бути приєднано до сховища з водою.</FireSprinkler.description>
+  <!--Trigger fire sprinkler-->
+  <FireSprinkler.comps.CompUsable.useLabel>Trigger fire sprinkler</FireSprinkler.comps.CompUsable.useLabel>
+  <!--biosolids composter-->
+  <BiosolidsComposter.label>компостер</BiosolidsComposter.label>
+  <!--A composter for turning sewage into fertilizer for increasing the fertility of diggable terrain.-->
+  <BiosolidsComposter.description>Компостер для перетворення нечистот на добриво для ваших помідор чері.</BiosolidsComposter.description>
+  <!--bed pan-->
+  <BedPan.label>ліжковий горщик</BedPan.label>
+  <!--A receptacle used by a bedridden patient for urine and faeces.-->
+  <BedPan.description>Посудина для туалету прикутих до ліжка пацієнтів. Хто небуть, приберіть це з ніг того бідолаги.</BedPan.description>
+  <!--biosolids-->
+  <Biosolids.label>біодобриво</Biosolids.label>
+  <!--When properly treated and processed, sewage sludge becomes biosolids that offer a small boost to terrain fertility. Useful for harsh environments with limited space to grow. Biosolids also produce a large boost to the fertility of sand which can make it fertile when combined with irrigation.-->
+  <Biosolids.description>Добриво виготовлене з осаду нечистот, яке підвищує родючість ґрунту, а в поєднання з обприскувачем робить пісок придатним місцем для вирощування.</Biosolids.description>
+  <!--fecal sludge-->
+  <FecalSludge.label>нечистоти</FecalSludge.label>
+  <!--A barrel filled with fecal sludge. Can be dumped, burned, or composted into biosolids.-->
+  <FecalSludge.description>Бочка заповнена нечистотами. Можна позбутися виливши на землю, спаливши в ямі, компостувавши в біодобриво, або відправивши капсулою ворогам.</FecalSludge.description>
+  <!--urine-->
+  <FilthUrine.label>сеча</FilthUrine.label>
+  <!--Urine on the ground.-->
+  <FilthUrine.description>Смердить сечою, навіть якщо на вид апельсиновий сік.</FilthUrine.description>
+  <!--faeces-->
+  <FilthFaeces.label>лайно</FilthFaeces.label>
+  <!--raw sewage-->
+  <RawSewage.label>неочищені нечистоти</RawSewage.label>
+</LanguageData>

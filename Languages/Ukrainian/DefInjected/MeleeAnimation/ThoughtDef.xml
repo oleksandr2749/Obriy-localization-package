@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--won friendly duel-->
+  <AM_FriendlyDuel_Win.stages.won_friendly_duel.label>переміг в дружньому поєдинку</AM_FriendlyDuel_Win.stages.won_friendly_duel.label>
+  <!--I won a friendly duel against {OTHERPAWN}!\nIt was a relaxed bout but it still feels good to be victorious.-->
+  <AM_FriendlyDuel_Win.stages.won_friendly_duel.description>Я переміг в дружньому поєдинку проти {OTHERPAWN}!\nПеремога приємна, а досвід корисний.</AM_FriendlyDuel_Win.stages.won_friendly_duel.description>
+  <!--lost friendly duel-->
+  <AM_FriendlyDuel_Lose.stages.lost_friendly_duel.label>програв в дружньому поєдинку</AM_FriendlyDuel_Lose.stages.lost_friendly_duel.label>
+  <!--I lost in a friendly duel against {OTHERPAWN}.\nLosing is disappointing but it was still good practice. I'll get em' next time!-->
+  <AM_FriendlyDuel_Lose.stages.lost_friendly_duel.description>Я програв в дружньому поєдинку проти {OTHERPAWN}.\nПрограш розчаровує, але це все одно був хороший досвід.</AM_FriendlyDuel_Lose.stages.lost_friendly_duel.description>
+</LanguageData>

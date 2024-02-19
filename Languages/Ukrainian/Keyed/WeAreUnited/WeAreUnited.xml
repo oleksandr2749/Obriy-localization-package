@@ -1,0 +1,10 @@
+﻿<LanguageData>
+	<WeAreUnited_FloatMenu>Попросити возз'єднатися</WeAreUnited_FloatMenu>
+	<WeAreUnited_FloatMenu_NotRelated>Попросити приєднатися</WeAreUnited_FloatMenu_NotRelated>
+	<WeAreUnited_TooRecently>Спробував нещодавно</WeAreUnited_TooRecently>
+	<WeAreUnited_Verb>запитати</WeAreUnited_Verb>
+	<WeAreUnited_FailedMessage>{0} відмовився об'єднуватися.</WeAreUnited_FailedMessage>
+	<WeAreUnited_FailedMote>Непереконливий\n{0} шанс</WeAreUnited_FailedMote>
+	<WeAreUnited_SucceededMessage>{0} {0_gender ? переконаний: переконана}.</WeAreUnited_SucceededMessage>
+	<WeAreUnited_SucceededMote>Переконливий\n{0} шанс</WeAreUnited_SucceededMote>
+</LanguageData>

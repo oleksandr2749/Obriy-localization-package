@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Execution animations cannot be cancelled after they have started, but if either pawn is downed or killed, the animation is cancelled.-->
+  <AM_Tips.tips.0>Execution animations cannot be cancelled after they have started, but if either pawn is downed or killed, the animation is cancelled.</AM_Tips.tips.0>
+  <!--The lethality of execution animations can be adjusted in the mod settings.-->
+  <AM_Tips.tips.1>The lethality of execution animations can be adjusted in the mod settings.</AM_Tips.tips.1>
+  <!--Lasso cooldown is affected by the type of lasso, the pawn's melee skill, and the pawn's manipulation.-->
+  <AM_Tips.tips.2>Lasso cooldown is affected by the type of lasso, the pawn's melee skill, and the pawn's manipulation.</AM_Tips.tips.2>
+</LanguageData>

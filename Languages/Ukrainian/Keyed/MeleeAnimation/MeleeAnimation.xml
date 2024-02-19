@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Epicguru's Melee Animation-->
+  <AM.ModTitle>Epicguru's Анімації ближнього бою</AM.ModTitle>
+  <!--Animation-->
+  <AM.Animation>Анімація</AM.Animation>
+  <!--Cannot execute: {0}-->
+  <AM.Error.Exec.FloatMenu>Неможливо добити: {0}</AM.Error.Exec.FloatMenu>
+  <!--Execute {0}-->
+  <AM.Exec.FloatMenu>Добивання {0}</AM.Exec.FloatMenu>
+  <!--Perform an execution animation on {1}.\nPossible outcomes based on weapon, melee skill, armor, mod settings etc:\n{2}-->
+  <AM.Exec.FloatMenu.Tip>Виконати анімацію добивання на {1}.\nМожливі результати на основі зброї, навичок ближнього бою, броні, налаштувань моду тощо:\n{2}</AM.Exec.FloatMenu.Tip>
+  <!-- (walk to target)-->
+  <AM.Exec.FloatMenu.Walk> (йти до цілі)</AM.Exec.FloatMenu.Walk>
+  <!--Int.Error: {Error}-->
+  <AM.Error.Grapple.Internal>Int.Error: {Error}</AM.Error.Grapple.Internal>
+  <!--Int.Error: {Error}-->
+  <AM.Error.Exec.Internal>Int.Error: {Error}</AM.Error.Exec.Internal>
+  <!--{Target} is already in melee range-->
+  <AM.Error.Grapple.AlreadyAtTarget>{Target} is already in melee range</AM.Error.Grapple.AlreadyAtTarget>
+  <!--Kill-->
+  <AM.ProbReport.Kill>Вбити</AM.ProbReport.Kill>
+  <!--Down-->
+  <AM.ProbReport.Down>Повалити</AM.ProbReport.Down>
+  <!--Injure-->
+  <AM.ProbReport.Injure>Поранити</AM.ProbReport.Injure>
+  <!--Int.Error: {Error}-->
+  <AM.Error.Duel.Internal>Int.Error: {Error}</AM.Error.Duel.Internal>
+  <!--{Pawn} is dead-->
+  <AM.Error.Duel.Dead>{Pawn} помер</AM.Error.Duel.Dead>
+  <!--{Pawn} is downed-->
+  <AM.Error.Duel.Down>{Pawn} повалено</AM.Error.Duel.Down>
+  <!--{Pawn} cannot be dueled right now-->
+  <AM.Error.Duel.NotSpawned>{Pawn} зараз не можна викликати на дуель</AM.Error.Duel.NotSpawned>
+  <!--{Pawn} is not available-->
+  <AM.Error.Duel.NotSpawned.Short>{Pawn} не доступний</AM.Error.Duel.NotSpawned.Short>
+  <!--{Pawn} does not have a valid melee weapon-->
+  <AM.Error.Duel.MissingWeapon>{Pawn} не має придатної зброї ближнього бою</AM.Error.Duel.MissingWeapon>
+  <!--The weapon(s) these pawns are carrying cannot be used to duel with.-->
+  <AM.Error.Duel.NoAnim>Зброя, яку мають ці персонажі, не може бути використана для дуелі.</AM.Error.Duel.NoAnim>
+  <!--These melee weapons cannot be used to duel-->
+  <AM.Error.Duel.NoAnim.Short>Ця зброя ближнього бою не може бути використана для дуелі</AM.Error.Duel.NoAnim.Short>
+  <!--{0} cannot reach {1} to start a duel-->
+  <AM.Error.Duel.NoPath>{0} не може дістатися до {1}, щоб розпочати дуель</AM.Error.Duel.NoPath>
+  <!--{0}'s duel is on cooldown-->
+  <AM.Error.Duel.OnCooldown>{0} відновлює дуель</AM.Error.Duel.OnCooldown>
+  <!--{0} got tired of waiting for {1} to arrive to their duel, and called it off.-->
+  <AM.Error.Duel.WaitedTooLong>{0} втомився чекати, поки {1} прийде на дуель, тому відмінив її.</AM.Error.Duel.WaitedTooLong>
+  <!--Start duel-->
+  <AM.Gizmos.DuelSpot.StartDuel.Label>Почати дуель</AM.Gizmos.DuelSpot.StartDuel.Label>
+  <!--Manually start a duel between two friendly pawns with valid weapons. Prisoners cannot participate.\n\nThis is a friendly duel, nobody will be hurt.-->
+  <AM.Gizmos.DuelSpot.StartDuel.Desc>Вручну розпочніть дуель між двома дружніми пішаками з дозволеною зброєю. В'язні не можуть брати участь.\n\nЦе дружня дуель, ніхто не постраждає.</AM.Gizmos.DuelSpot.StartDuel.Desc>
+  <!--The duel spot is currently in use-->
+  <AM.Gizmos.DuelSpot.StartDuel.InUse>Місце для дуелі наразі зайняте</AM.Gizmos.DuelSpot.StartDuel.InUse>
+  <!--The duel spot is forbidden-->
+  <AM.Gizmos.DuelSpot.StartDuel.Forbidden>Місце проведення дуелі заборонене</AM.Gizmos.DuelSpot.StartDuel.Forbidden>
+  <!--{0} does not have a valid melee weapon (must be long weapon, not short)-->
+  <AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>{0} не має придатної зброї ближнього бою (це має бути довга зброя, а не коротка)</AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>
+  <!--{0}'s weapon cannot be used to duel {1}, their weapons are incompatible (must be long weapons, not short)-->
+  <AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>{0} зброя не може бути використана на дуелі {1}, їхня зброя несумісна (має бути довга зброя, а не коротка)</AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>
+  <!--{0}'s current job cannot be interrupted-->
+  <AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>{0} поточне завдання не може бути перерване</AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>
+  <!--{0} cannot reach the duel spot-->
+  <AM.Gizmos.DuelSpot.StartDuel.NoPath>{0} не може дістатися до місця дуелі</AM.Gizmos.DuelSpot.StartDuel.NoPath>
+  <!--{0} cannot do a friendly duel for another {2} seconds-->
+  <AM.Gizmos.DuelSpot.StartDuel.OnCooldown>{0} не може брати участь в дружній дуелі ще {2} секунд</AM.Gizmos.DuelSpot.StartDuel.OnCooldown>
+  <!--Select a pawn to duel-->
+  <AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>Виберіть персонажа для дуелі</AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>
+  <!--An unexpected error caused the duel to not be able to be started. Please send logs to the mod author.-->
+  <AM.Gizmos.DuelSpot.StartDuel.FailedToStart>Несподівана помилка призвела до того, що дуель не вдалося розпочати. Будь ласка, надішліть логи автору модифікації.</AM.Gizmos.DuelSpot.StartDuel.FailedToStart>
+  <!--Toggle visibility-->
+  <AM.Gizmos.DuelSpot.ToggleVisibility>Перемикання видимості</AM.Gizmos.DuelSpot.ToggleVisibility>
+  <!--Makes this duel spot invisible, or shows it again.\nWarning: it really is invisible! Don't forget where you put it down or you may struggle to find it again...-->
+  <AM.Gizmos.DuelSpot.ToggleVisibility.Desc>Робить місце дуелі невидимим або видимим.\nПопередження: воно дійсно невидиме! Не забудьте, де ви його поклали, інакше вам буде важко знайти його знову...</AM.Gizmos.DuelSpot.ToggleVisibility.Desc>
+  <!--{Grappler} is dead-->
+  <AM.Error.Grapple.Dead>{Grappler} помер</AM.Error.Grapple.Dead>
+  <!--{Exec} is dead-->
+  <AM.Error.Exec.Dead>{Exec} помер</AM.Error.Exec.Dead>
+  <!--{Target} cannot be reached-->
+  <AM.Error.Exec.NoWalk.Short>{Target} недосяжна</AM.Error.Exec.NoWalk.Short>
+  <!--{Target} is dead-->
+  <AM.Error.Grapple.DeadTarget>{Target} помер</AM.Error.Grapple.DeadTarget>
+  <!--{Target} is dead-->
+  <AM.Error.Exec.DeadTarget>{Target} помер</AM.Error.Exec.DeadTarget>
+  <!--{Grappler} is downed-->
+  <AM.Error.Grapple.Downed>{Grappler} повалений</AM.Error.Grapple.Downed>
+  <!--{Exec} is downed-->
+  <AM.Error.Exec.Downed>{Exec} повалена</AM.Error.Exec.Downed>
+  <!--{Target} is downed. Downed pawns cannot be executed.-->
+  <AM.Error.Exec.DownedTarget>{Target} повалений. Повалені персоанжі не можуть бути добиті.</AM.Error.Exec.DownedTarget>
+  <!--{Target} is downed-->
+  <AM.Error.Exec.DownedTarget.Short>{Target} повелений</AM.Error.Exec.DownedTarget.Short>
+  <!--{Target} is already being lassoed-->
+  <AM.Error.Grapple.AlreadyTarget>{Target} is already being lassoed</AM.Error.Grapple.AlreadyTarget>
+  <!--Already being lassoed-->
+  <AM.Error.Grapple.AlreadyTarget.Short>Already being lassoed</AM.Error.Grapple.AlreadyTarget.Short>
+  <!--No line of sight-->
+  <AM.Error.Grapple.MissingLOS>No line of sight</AM.Error.Grapple.MissingLOS>
+  <!--{Target} is out of reach of {Grappler}'s lasso-->
+  <AM.Error.Grapple.TooFar>{Target} is out of reach of {Grappler}'s lasso</AM.Error.Grapple.TooFar>
+  <!--Too far away-->
+  <AM.Error.Grapple.TooFar.Short>Too far away</AM.Error.Grapple.TooFar.Short>
+  <!--{Target} cannot be lassoed right now-->
+  <AM.Error.Grapple.InAnimation>{Target} cannot be lassoed right now</AM.Error.Grapple.InAnimation>
+  <!--{Grappler} cannot lasso right now-->
+  <AM.Error.Grapple.SelfInAnimation>{Grappler} cannot lasso right now</AM.Error.Grapple.SelfInAnimation>
+  <!--{Grappler} cannot execute anyone right now-->
+  <AM.Error.Exec.SelfInAnimation>{Grappler} cannot execute anyone right now</AM.Error.Exec.SelfInAnimation>
+  <!--{Target} cannot be executed right now-->
+  <AM.Error.Exec.InAnimation>{Target} cannot be executed right now</AM.Error.Exec.InAnimation>
+  <!--{Target} is too heavy for {Grappler} to lasso-->
+  <AM.Error.Grapple.Mass>{Target} is too heavy for {Grappler} to lasso</AM.Error.Grapple.Mass>
+  <!--{Target} is too heavy-->
+  <AM.Error.Grapple.Mass.Short>{Target} is too heavy</AM.Error.Grapple.Mass.Short>
+  <!--{Target} is too large for {Grappler} to lasso-->
+  <AM.Error.Grapple.Size>{Target} is too large for {Grappler} to lasso</AM.Error.Grapple.Size>
+  <!--{Target} is too large-->
+  <AM.Error.Grapple.Size.Short>{Target} is too large</AM.Error.Grapple.Size.Short>
+  <!--{Grappler}'s lasso is on cooldown-->
+  <AM.Error.Grapple.Cooldown>{Grappler}'s lasso is on cooldown</AM.Error.Grapple.Cooldown>
+  <!--Lasso on cooldown-->
+  <AM.Error.Grapple.Cooldown.Short>Lasso on cooldown</AM.Error.Grapple.Cooldown.Short>
+  <!--{Grappler} does not have the required melee skill ({MeleeSkill}) to use their lasso-->
+  <AM.Error.Grapple.SkillIssue>{Grappler} does not have the required melee skill ({MeleeSkill}) to use their lasso</AM.Error.Grapple.SkillIssue>
+  <!--Not enough melee skill-->
+  <AM.Error.Grapple.SkillIssue.Short>Not enough melee skill</AM.Error.Grapple.SkillIssue.Short>
+  <!--{Grappler} does not have the required manipulation to use their lasso-->
+  <AM.Error.Grapple.Manipulation>{Grappler} does not have the required manipulation to use their lasso</AM.Error.Grapple.Manipulation>
+  <!--Not enough manipulation-->
+  <AM.Error.Grapple.Manipulation.Short>Not enough manipulation</AM.Error.Grapple.Manipulation.Short>
+  <!--There is no free spot around {Grappler} to drag {Target} to-->
+  <AM.Error.Grapple.NoDest>There is no free spot around {Grappler} to drag {Target} to</AM.Error.Grapple.NoDest>
+  <!--No free spot around {Grappler}-->
+  <AM.Error.Grapple.NoDest.Short>No free spot around {Grappler}</AM.Error.Grapple.NoDest.Short>
+  <!--{Exec} is not wielding a valid melee weapon-->
+  <AM.Error.Exec.NoWeapon>{Exec} is not wielding a valid melee weapon</AM.Error.Exec.NoWeapon>
+  <!--No melee weapon-->
+  <AM.Error.Exec.NoWeapon.Short>No melee weapon</AM.Error.Exec.NoWeapon.Short>
+  <!--{Exec}'s execution is on cooldown-->
+  <AM.Error.Exec.Cooldown>{Exec}'s execution is on cooldown</AM.Error.Exec.Cooldown>
+  <!--Execution on cooldown-->
+  <AM.Error.Exec.Cooldown.Short>Execution on cooldown</AM.Error.Exec.Cooldown.Short>
+  <!--{Exec} cannot perform any execution animations using their {Weapon}.\nThis is probably due to a lack of melee skill or because all animations are disabled in the mod settings.-->
+  <AM.Error.Exec.NoAnims>{Exec} cannot perform any execution animations using their {Weapon}.\nThis is probably due to a lack of melee skill or because all animations are disabled in the mod settings.</AM.Error.Exec.NoAnims>
+  <!--No animations available-->
+  <AM.Error.Exec.NoAnims.Short>No animations available</AM.Error.Exec.NoAnims.Short>
+  <!--There is not enough space to perform any execution animation here-->
+  <AM.Error.Exec.NoSpace>There is not enough space to perform any execution animation here</AM.Error.Exec.NoSpace>
+  <!--Not enough space-->
+  <AM.Error.Exec.NoSpace.Short>Not enough space</AM.Error.Exec.NoSpace.Short>
+  <!--{Exec} cannot reach {Target} by walking, and their lasso is unavailable or unusable.-->
+  <AM.Error.Exec.NoPath>{Exec} cannot reach {Target} by walking, and their lasso is unavailable or unusable.</AM.Error.Exec.NoPath>
+  <!--No path to target-->
+  <AM.Error.Exec.NoPath.Short>No path to target</AM.Error.Exec.NoPath.Short>
+  <!--Base Value: {0}-->
+  <AM.Stats.BaseValue>Base Value: {0}</AM.Stats.BaseValue>
+  <!--Melee Skill ({0}) Effect: {1}-->
+  <AM.Stats.MeleeSkillOffset>Melee Skill ({0}) Effect: {1}</AM.Stats.MeleeSkillOffset>
+  <!--Consciousness ({0}) Effect: {1}-->
+  <AM.Stats.ConsciousnessOffset>Consciousness ({0}) Effect: {1}</AM.Stats.ConsciousnessOffset>
+  <!--Manipulation ({0}) Effect: {1}-->
+  <AM.Stats.ManipulationOffset>Manipulation ({0}) Effect: {1}</AM.Stats.ManipulationOffset>
+  <!--Weapon Damage Type ({0}) Effect: {1}-->
+  <AM.Stats.WeaponDamageTypeOffset>Weapon Damage Type ({0}) Effect: {1}</AM.Stats.WeaponDamageTypeOffset>
+  <!--Weapon DPS ({0}) Effect: {1}-->
+  <AM.Stats.WeaponDPSCoef>Weapon DPS ({0}) Effect: {1}</AM.Stats.WeaponDPSCoef>
+  <!--No Melee Weapon Equipped: {0}-->
+  <AM.Stats.NoWeapon>No Melee Weapon Equipped: {0}</AM.Stats.NoWeapon>
+  <!--Global {0} Multiplier (from mod settings): {1}-->
+  <AM.Stats.GlobalCoef>Global {0} Multiplier (from mod settings): {1}</AM.Stats.GlobalCoef>
+  <!--Friendly Pawn Multiplier (from mod settings): x{0}-->
+  <AM.Stats.FriendlyCoef>Friendly Pawn Multiplier (from mod settings): x{0}</AM.Stats.FriendlyCoef>
+  <!--Melee Skill Multiplier: x{0}-->
+  <AM.Stats.SkillCoef>Melee Skill Multiplier: x{0}</AM.Stats.SkillCoef>
+  <!--Hostile Pawn Multiplier (from mod settings): x{0}-->
+  <AM.Stats.EnemyCoef>Hostile Pawn Multiplier (from mod settings): x{0}</AM.Stats.EnemyCoef>
+  <!--lethality-->
+  <AM.Stats.Lethality>lethality</AM.Stats.Lethality>
+  <!--duel ability-->
+  <AM.Stats.DuelAbility>duel ability</AM.Stats.DuelAbility>
+  <!--Friendly Pawn Bonus (from mod settings): {0}-->
+  <AM.Stats.FriendlyPawnBonus>Friendly Pawn Bonus (from mod settings): {0}</AM.Stats.FriendlyPawnBonus>
+  <!--Cast unique skill '{0}' on {1}-->
+  <AM.Skill.Cast>Cast unique skill '{0}' on {1}</AM.Skill.Cast>
+  <!--Can't cast {0}: {1}-->
+  <AM.Skill.CantCast>Can't cast {0}: {1}</AM.Skill.CantCast>
+  <!--Can't cast {0} on {1} right now.-->
+  <AM.Skill.CantCastGeneric>Can't cast {0} on {1} right now.</AM.Skill.CantCastGeneric>
+  <!--Target invalid state.-->
+  <AM.Skill.BadTargetState>Target invalid state.</AM.Skill.BadTargetState>
+  <!--The skill is already active.-->
+  <AM.Skill.AlreadyActive>The skill is already active.</AM.Skill.AlreadyActive>
+  <!--On cooldown for {0} seconds.-->
+  <AM.Skill.OnCooldown>On cooldown for {0} seconds.</AM.Skill.OnCooldown>
+  <!--On cooldown for {0} seconds (because of recent execution).-->
+  <AM.Skill.OnCooldownExec>On cooldown for {0} seconds (because of recent execution).</AM.Skill.OnCooldownExec>
+  <!--Missing required weapon.-->
+  <AM.Skill.BadWeapon>Відсутня необхідна зброя.</AM.Skill.BadWeapon>
+  <!--Psylink level {0} is below required level {1}.-->
+  <AM.Skill.Gilgamesh.LowPsy>Рівень пси-зв'язку {0} нижче необхідного рівня {1}.</AM.Skill.Gilgamesh.LowPsy>
+  <!--Melee level {0} is below required level {1}.-->
+  <AM.Skill.Gilgamesh.LowMelee>Навички ближнього бою {0} нижче необхідних {1}.</AM.Skill.Gilgamesh.LowMelee>
+  <!--The invisibilty optimization has been disabled by the Melee Animation mod due to visual bugs.-->
+  <AM.Patch.OptDisabled>Оптимізація невидимості була відключена в моді Melee Animation через візуальні помилки.</AM.Patch.OptDisabled>
+</LanguageData>
