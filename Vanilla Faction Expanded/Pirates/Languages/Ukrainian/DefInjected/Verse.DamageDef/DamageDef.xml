@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--gravity hammer attack-->
-  <VFEP_GravityHammerAttack.label>гравітаційний удар молотом</VFEP_GravityHammerAttack.label>
-  <!--{0} has been smashed to death.-->
-  <VFEP_GravityHammerAttack.deathMessage>{0} {0_gender ? був: була} розчавлена насмерть.</VFEP_GravityHammerAttack.deathMessage>
-</LanguageData>

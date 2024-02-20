@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--firing frenzy-->
-  <VFEP_FiringFrenzy.label>вогневе шаленство</VFEP_FiringFrenzy.label>
-  <!--Inspire everyone nearby to increase their firing rate and withstand greater amounts of pain. The effect remains attached to the caster for 24 hours.-->
-  <VFEP_FiringFrenzy.description>Надихає всіх союзників, хто знаходиться поруч, пришвидчуючи стрільбу і збільшуючи витривалість до болю. Ефект діятиме навколо викликача протягом 24 годин.</VFEP_FiringFrenzy.description>
-</LanguageData>

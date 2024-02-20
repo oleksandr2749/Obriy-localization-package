@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--welding at warcasket foundry-->
-  <VFEP_DoWelding.label>зварювання на ливарні бойової оболонки </VFEP_DoWelding.label>
-  <!--welding at-->
-  <VFEP_DoWelding.gerund>зварювання на</VFEP_DoWelding.gerund>
-  <!--weld at-->
-  <VFEP_DoWelding.verb>зварити на</VFEP_DoWelding.verb>
-</LanguageData>

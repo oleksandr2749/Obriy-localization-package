@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--chanter-->
-  <VFEP_SingingShantiesBehaviour.roles.0.label>співаr</VFEP_SingingShantiesBehaviour.roles.0.label>
-  <!--participate-->
-  <VFEP_SingingShantiesBehaviour.spectatorGerund>учасник</VFEP_SingingShantiesBehaviour.spectatorGerund>
-  <!--Participants-->
-  <VFEP_SingingShantiesBehaviour.spectatorsLabel>Учасники</VFEP_SingingShantiesBehaviour.spectatorsLabel>
-</LanguageData>
