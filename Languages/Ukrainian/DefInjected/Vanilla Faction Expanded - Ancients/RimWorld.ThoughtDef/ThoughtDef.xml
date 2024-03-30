@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--outside of home area-->
+  <VFEA_OutsideHomeArea.stages.outside_of_home_area.label>outside of home area</VFEA_OutsideHomeArea.stages.outside_of_home_area.label>
+  <!--I'm outside of my home area. Enemies are everywhere, I want to go back.-->
+  <VFEA_OutsideHomeArea.stages.outside_of_home_area.description>I'm outside of my home area. Enemies are everywhere, I want to go back.</VFEA_OutsideHomeArea.stages.outside_of_home_area.description>
+  <!--empathy-->
+  <VFEA_EmpathyCast.stages.empathy.label>empathy</VFEA_EmpathyCast.stages.empathy.label>
+  <!--I feel good despite all the bad things.-->
+  <VFEA_EmpathyCast.stages.empathy.description>I feel good despite all the bad things.</VFEA_EmpathyCast.stages.empathy.description>
+</LanguageData>

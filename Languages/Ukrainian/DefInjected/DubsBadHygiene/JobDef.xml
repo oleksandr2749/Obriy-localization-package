@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--activating TargetA-->
+  <TriggerFireSprinkler.reportString>активує TargetA</TriggerFireSprinkler.reportString>
+  <!--emptying TargetA-->
+  <emptySeptictank.reportString>випорожняє TargetA</emptySeptictank.reportString>
+  <!--emptying TargetA-->
+  <emptyLatrine.reportString>випорожняє TargetA</emptyLatrine.reportString>
+  <!--loading TargetA-->
+  <LoadWashing.reportString>завантажує TargetA</LoadWashing.reportString>
+  <!--unloading TargetA-->
+  <UnloadWashing.reportString>розвантажує TargetA</UnloadWashing.reportString>
+  <!--filling TargetA-->
+  <LoadComposter.reportString>наповнює TargetA</LoadComposter.reportString>
+  <!--taking compost out of TargetA-->
+  <UnloadComposter.reportString>виймає компост з TargetA</UnloadComposter.reportString>
+  <!--removing sewage-->
+  <RemoveSewage.reportString>видаляє нечистоти</RemoveSewage.reportString>
+  <!--watching the spin cycle-->
+  <WatchWashingMachine.reportString>спостерігає за циклом відтискання</WatchWashingMachine.reportString>
+  <!--tipping TargetA-->
+  <TipOverSewage.reportString>tipping TargetA</TipOverSewage.reportString>
+  <!--draining TargetA-->
+  <DrainWaterTankJob.reportString>зливає TargetA</DrainWaterTankJob.reportString>
+  <!--fertilizing soil-->
+  <PlaceFertilizer.reportString>удобрює soil</PlaceFertilizer.reportString>
+  <!--using the TargetA-->
+  <UseToilet.reportString>використовує TargetA</UseToilet.reportString>
+  <!--defecating in the open-->
+  <haveWildPoo.reportString>випорожняється</haveWildPoo.reportString>
+  <!--washing with TargetA-->
+  <useWashBucket.reportString>миє з TargetA</useWashBucket.reportString>
+  <!--washing-->
+  <washAtCell.reportString>миє</washAtCell.reportString>
+  <!--showering with TargetA-->
+  <takeShower.reportString>миється з TargetA</takeShower.reportString>
+  <!--having a bath-->
+  <takeBath.reportString>приймає ванну</takeBath.reportString>
+  <!--washing hands-->
+  <washHands.reportString>миє руки</washHands.reportString>
+  <!--washing TargetA-->
+  <washPatient.reportString>миє TargetA</washPatient.reportString>
+  <!--refilling wash tub-->
+  <RefillTub.reportString>наповнює ванночку</RefillTub.reportString>
+  <!--refilling water-->
+  <RefillWater.reportString>доливає воду</RefillWater.reportString>
+  <!--cleaning up bed pan-->
+  <cleanBedpan.reportString>очищує горщик</cleanBedpan.reportString>
+  <!--unclogging the blocked TargetA-->
+  <clearBlockage.reportString>розблоковує заблокований TargetA</clearBlockage.reportString>
+  <!--swimming-->
+  <DBHGoSwimming.reportString>плаває</DBHGoSwimming.reportString>
+  <!--relaxing-->
+  <UseHotTub.reportString>розслабляється</UseHotTub.reportString>
+  <!--using sauna-->
+  <DBHUseSauna.reportString>лежить в сауні</DBHUseSauna.reportString>
+</LanguageData>

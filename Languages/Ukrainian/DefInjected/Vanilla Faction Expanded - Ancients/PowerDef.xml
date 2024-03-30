@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--super jump-->
+  <SuperJump.label>супер стрибок</SuperJump.label>
+  <!--The muscles in this subject’s legs have been enhanced with spindles of dense fibre and their skeleton is more resistant to impact. This allows them to leap dozens of meters and land without injury.-->
+  <SuperJump.description>М'язи ніг суб'єкта були посилені ущильненими волоконами а кістки та суглоби, завдяки спеціальному хімічному розчину, стали більш пружними. Це дозволяє без жодних трайм виконувати стрибок в десятки разів потужніший за звичайний.</SuperJump.description>
+  <!--telepathy-->
+  <Telepathy.label>телепатія</Telepathy.label>
+  <!--The subject is capable of mentally overwhelming a target’s mind.-->
+  <Telepathy.description>Суб'єкт здатний ментально вплинути на свідомість цілі.</Telepathy.description>
+  <!--psychic shock-->
+  <PsychicShock.label>психічний шок</PsychicShock.label>
+  <!--The subject is capable of shocking a target’s mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock.-->
+  <PsychicShock.description>Су'бєкт здатен шокувати ціль хаотичнами образами, розриваючи зв'язок її свідомості з реальністю.</PsychicShock.description>
+  <!--invisibility-->
+  <Invisibility.label>невидимість</Invisibility.label>
+  <!--The subject is capable of generating a psychic field around their body that prevents others from seeing them or even acknowledging their existence for a brief time.-->
+  <Invisibility.description>Суб'єкт здатний генерувати навколо тіла психічне поле, на короткий час приховуючи себе від інших.</Invisibility.description>
+  <!--self-control-->
+  <SelfControl.label>самоконтроль</SelfControl.label>
+  <!--The subject has achieved a mastery of self control, capable of actively deciding on stopping any mental breaks by psychically forcing themself to relive a cherished memory that snaps them back to reality. Afterwards, they will need 2 days to settle on a different memory.-->
+  <SelfControl.description>Реструктурована свідомість суб'єкта дає йому змогу миттєво припинити свій психічний зрив. Може бути використано раз в 2 дні.</SelfControl.description>
+  <!--overshield-->
+  <Overshield.label>overshield</Overshield.label>
+  <!--The subject is capable of projecting a localised, unidirectional skipshield for 30 seconds, sending all incoming ground-level projectiles far away. The process is extremely draining for the user and will take 3 minutes before being able to project again.-->
+  <Overshield.description>The subject is capable of projecting a localised, unidirectional skipshield for 30 seconds, sending all incoming ground-level projectiles far away. The process is extremely draining for the user and will take 3 minutes before being able to project again.</Overshield.description>
+  <!--summon lightning-->
+  <SummonLightning.label>summon lightning</SummonLightning.label>
+  <!--The subject is capable of generating differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The psychically-connected organ is located at the base of the skull and can only be used once every 2 minutes.-->
+  <SummonLightning.description>The subject is capable of generating differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The psychically-connected organ is located at the base of the skull and can only be used once every 2 minutes.</SummonLightning.description>
+  <!--animal speech-->
+  <AnimalSpeech.label>animal speech</AnimalSpeech.label>
+  <!--The subject is capable of psychically overloading an animal's hormone production once per day, convincing them that they are a member of their species. This either snaps the animal out of a manhunting state or convinces them to join the colony.-->
+  <AnimalSpeech.description>The subject is capable of psychically overloading an animal's hormone production once per day, convincing them that they are a member of their species. This either snaps the animal out of a manhunting state or convinces them to join the colony.</AnimalSpeech.description>
+  <!--empathy-->
+  <Empathy.label>empathy</Empathy.label>
+  <!--The subject can cause a friendly target’s body to produce a massive amount of endorphins through the emission of hormones. The surge lasts for an entire day and can be done once a day.-->
+  <Empathy.description>The subject can cause a friendly target’s body to produce a massive amount of endorphins through the emission of hormones. The surge lasts for an entire day and can be done once a day.</Empathy.description>
+  <!--heal others-->
+  <HealOthers.label>heal others</HealOthers.label>
+  <!--The subject can cause a friendly target’s body to rapidly regenerate from any wounds through the emission of hormones and a nutrient-rich mist.-->
+  <HealOthers.description>The subject can cause a friendly target’s body to rapidly regenerate from any wounds through the emission of hormones and a nutrient-rich mist.</HealOthers.description>
+  <!--glory kill-->
+  <GloryKill.label>glory kill</GloryKill.label>
+  <!--The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland. This surge in strength allows them to randomly attack a nearby enemy and tear them to pieces, however it is so exhausting the user needs to spend 5 days recovering.-->
+  <GloryKill.description>The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland. This surge in strength allows them to randomly attack a nearby enemy and tear them to pieces, however it is so exhausting the user needs to spend 5 days recovering.</GloryKill.description>
+  <!--electro-magnetic pulse-->
+  <ElectromagneticPulse.label>electro-magnetic pulse</ElectromagneticPulse.label>
+  <!--The subject has developed a gland that is capable of absorbing surrounding energy and storing it. It also has a nodule protrusion that can be rapidly irritated to generate a burst of electromagnetic radiation.-->
+  <ElectromagneticPulse.description>The subject has developed a gland that is capable of absorbing surrounding energy and storing it. It also has a nodule protrusion that can be rapidly irritated to generate a burst of electromagnetic radiation.</ElectromagneticPulse.description>
+  <!--fire breath-->
+  <FireBreath.label>fire breath</FireBreath.label>
+  <!--The subject has developed a mucus gland in the back of their throat and sacs of chemfuel in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of flame that sets everything in its path alight.-->
+  <FireBreath.description>The subject has developed a mucus gland in the back of their throat and sacs of chemfuel in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of flame that sets everything in its path alight.</FireBreath.description>
+  <!--ice breath-->
+  <IceBreath.label>ice breath</IceBreath.label>
+  <!--The subject has developed a mucus gland in the back of their throat and sacs of neutroamine in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of liquid that rapidly evaporates, slowing targets and inducing hypothermia.-->
+  <IceBreath.description>The subject has developed a mucus gland in the back of their throat and sacs of neutroamine in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of liquid that rapidly evaporates, slowing targets and inducing hypothermia.</IceBreath.description>
+  <!--laser eyes-->
+  <LaserEyes.label>laser eyes</LaserEyes.label>
+  <!--The subject is capable of psychically generating two temporary, microscopic skipgates linked to the core of a nearby neutron star. This energy is directed by whatever the subject is looking at, generating a powerful blast of energy over a medium distance.-->
+  <LaserEyes.description>The subject is capable of psychically generating two temporary, microscopic skipgates linked to the core of a nearby neutron star. This energy is directed by whatever the subject is looking at, generating a powerful blast of energy over a medium distance.</LaserEyes.description>
+  <!--matter phasing-->
+  <MatterPhasing.label>matter phasing</MatterPhasing.label>
+  <!--The subject is capable of psychically convincing their body that they are able to exist in the same space-time position as another object, specifically they can walk through walls. This can be extremely distressing on the body and can only be done for bursts of 10 seconds with a 60 second intermission.-->
+  <MatterPhasing.description>The subject is capable of psychically convincing their body that they are able to exist in the same space-time position as another object, specifically they can walk through walls. This can be extremely distressing on the body and can only be done for bursts of 10 seconds with a 60 second intermission.</MatterPhasing.description>
+  <!--electricity blast-->
+  <ElectricityBlast.label>electricity blast</ElectricityBlast.label>
+  <!--The subject is capable of producing a massive electrical current in a chain of targets by psychically stripping their bodies of electrons and then directing a focused lightning strike using their own body as a conductor. Very effective against robotic enemies but needs 60 seconds to recharge.-->
+  <ElectricityBlast.description>The subject is capable of producing a massive electrical current in a chain of targets by psychically stripping their bodies of electrons and then directing a focused lightning strike using their own body as a conductor. Very effective against robotic enemies but needs 60 seconds to recharge.</ElectricityBlast.description>
+  <!--speed burst-->
+  <SpeedBurst.label>speed burst</SpeedBurst.label>
+  <!--The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland.  This in turn allows them to strike twice as fast in melee combat, as well as quadruples their movement speed.-->
+  <SpeedBurst.description>The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland.  This in turn allows them to strike twice as fast in melee combat, as well as quadruples their movement speed.</SpeedBurst.description>
+  <!--acid spitting-->
+  <AcidSpitting.label>acid spitting</AcidSpitting.label>
+  <!--The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.-->
+  <AcidSpitting.description>The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.</AcidSpitting.description>
+  <!--fireball-->
+  <Fireball.label>fireball</Fireball.label>
+  <!--The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.-->
+  <Fireball.description>The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.</Fireball.description>
+  <!--metamorphosis-->
+  <Metamorphosis.label>metamorphosis</Metamorphosis.label>
+  <!--The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be.-->
+  <Metamorphosis.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be.</Metamorphosis.description>
+  <!--plasteel claws-->
+  <PlasteelClaws.label>plasteel claws</PlasteelClaws.label>
+  <!--The subject has developed bone claws sheathed in Plasteel within their hands, which can be extended through vertical slits between the fingers. They serve as fast, reactive and deadly melee weapons.-->
+  <PlasteelClaws.description>The subject has developed bone claws sheathed in Plasteel within their hands, which can be extended through vertical slits between the fingers. They serve as fast, reactive and deadly melee weapons.</PlasteelClaws.description>
+  <!--Powerful, retractable claws. Deal high damage in melee combat.-->
+  <PlasteelClaws.effectDescription>Powerful, retractable claws. Deal high damage in melee combat.</PlasteelClaws.effectDescription>
+  <!--unstoppable-->
+  <Unstoppable.label>unstoppable</Unstoppable.label>
+  <!--The subject’s brain is no longer able to process the sensation of pain. This allows them to accomplish more but stops their body from being able to shut down from suffering excessive damage until it is destroyed.-->
+  <Unstoppable.description>The subject’s brain is no longer able to process the sensation of pain. This allows them to accomplish more but stops their body from being able to shut down from suffering excessive damage until it is destroyed.</Unstoppable.description>
+  <!--100% Pain resistance.-->
+  <Unstoppable.effectDescription>100% Pain resistance.</Unstoppable.effectDescription>
+  <!--eagle eye-->
+  <EagleEye.label>eagle eye</EagleEye.label>
+  <!--The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible.-->
+  <EagleEye.description>The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible.</EagleEye.description>
+  <!--Ranged weapon range doubled.-->
+  <EagleEye.effectDescription>Ranged weapon range doubled.</EagleEye.effectDescription>
+  <!--marksmanship-->
+  <Marksmanship.label>marksmanship</Marksmanship.label>
+  <!--The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons.-->
+  <Marksmanship.description>The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons.</Marksmanship.description>
+  <!--assassin-->
+  <Assassin.label>assassin</Assassin.label>
+  <!--The subject has become capable of landing very precise hits even in frantic melee or from very long range, knowing exactly where to aim in order to target the brain or the heart.-->
+  <Assassin.description>The subject has become capable of landing very precise hits even in frantic melee or from very long range, knowing exactly where to aim in order to target the brain or the heart.</Assassin.description>
+  <!--All attacks hit vital organs (brain and heart).-->
+  <Assassin.effectDescription>All attacks hit vital organs (brain and heart).</Assassin.effectDescription>
+  <!--super strength-->
+  <SuperStrength.label>super strength</SuperStrength.label>
+  <!--The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity.-->
+  <SuperStrength.description>The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity.</SuperStrength.description>
+  <!--Doubled melee damage. Doubled Caravan inventory size. Doubled local map inventory size.-->
+  <SuperStrength.effectDescription>Doubled melee damage. Doubled Caravan inventory size. Doubled local map inventory size.</SuperStrength.effectDescription>
+  <!--martial artist-->
+  <MartialArtist.label>martial artist</MartialArtist.label>
+  <!--The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements.-->
+  <MartialArtist.description>The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements.</MartialArtist.description>
+  <!--Never misses melee attacks. Always dodges melee attacks.-->
+  <MartialArtist.effectDescription>Never misses melee attacks. Always dodges melee attacks.</MartialArtist.effectDescription>
+  <!--bulletproof skin-->
+  <BulletproofSkin.label>bulletproof skin</BulletproofSkin.label>
+  <!--The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking.-->
+  <BulletproofSkin.description>The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking.</BulletproofSkin.description>
+  <!--All sharp damage dealt to this pawn changes into blunt damage.-->
+  <BulletproofSkin.effectDescription>All sharp damage dealt to this pawn changes into blunt damage.</BulletproofSkin.effectDescription>
+  <!--plasteel skeleton-->
+  <PlasteelSkeleton.label>plasteel skeleton</PlasteelSkeleton.label>
+  <!--The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken.-->
+  <PlasteelSkeleton.description>The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken.</PlasteelSkeleton.description>
+  <!--Immune to cracks and broken bones.-->
+  <PlasteelSkeleton.effectDescription>Immune to cracks and broken bones.</PlasteelSkeleton.effectDescription>
+  <!--self resurrection-->
+  <SelfResurrection.label>self resurrection</SelfResurrection.label>
+  <!--The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining.-->
+  <SelfResurrection.description>The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining.</SelfResurrection.description>
+  <!--This pawn cannot die, and as long as the body exists, a few moments after dying, the pawn will spring back to live with no wounds at all.-->
+  <SelfResurrection.effectDescription>This pawn cannot die, and as long as the body exists, a few moments after dying, the pawn will spring back to live with no wounds at all.</SelfResurrection.effectDescription>
+  <!--redundant stomach-->
+  <RedundantStomach.label>redundant stomach</RedundantStomach.label>
+  <!--The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation.-->
+  <RedundantStomach.description>The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation.</RedundantStomach.description>
+  <!--Regenerate hunger passively, removing the need to eat completely.-->
+  <RedundantStomach.effectDescription>Regenerate hunger passively, removing the need to eat completely.</RedundantStomach.effectDescription>
+  <!--darkvision-->
+  <Darkvision.label>darkvision</Darkvision.label>
+  <!--The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight.-->
+  <Darkvision.description>The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight.</Darkvision.description>
+  <!--No darkness penalty or mood debuff.-->
+  <Darkvision.effectDescription>No darkness penalty or mood debuff.</Darkvision.effectDescription>
+  <!--regenerating limbs-->
+  <RegeneratingLimbs.label>regenerating limbs</RegeneratingLimbs.label>
+  <!--The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing.-->
+  <RegeneratingLimbs.description>The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing.</RegeneratingLimbs.description>
+  <!--Missing limbs and organs will grow back after some time has passed.-->
+  <RegeneratingLimbs.effectDescription>Missing limbs and organs will grow back after some time has passed.</RegeneratingLimbs.effectDescription>
+  <!--efficient builder-->
+  <EfficientBuilder.label>efficient builder</EfficientBuilder.label>
+  <!--The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity.-->
+  <EfficientBuilder.description>The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity.</EfficientBuilder.description>
+  <!--50% chance that building something will refund 25% resources used to build it.-->
+  <EfficientBuilder.effectDescription>50% chance that building something will refund 25% resources used to build it.</EfficientBuilder.effectDescription>
+  <!--masterful craft-->
+  <MasterfulCraft.label>masterful craft</MasterfulCraft.label>
+  <!--The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers.-->
+  <MasterfulCraft.description>The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers.</MasterfulCraft.description>
+  <!--Items crafted are always 2 quality levels higher, capped at Legendary.-->
+  <MasterfulCraft.effectDescription>Items crafted are always 2 quality levels higher, capped at Legendary.</MasterfulCraft.effectDescription>
+  <!--cold resistance-->
+  <ColdResistance.label>cold resistance</ColdResistance.label>
+  <!--The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep.-->
+  <ColdResistance.description>The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep.</ColdResistance.description>
+  <!--Will never suffer hypothermia. Does not suffer Slept in Cold debuff.-->
+  <ColdResistance.effectDescription>Will never suffer hypothermia. Does not suffer Slept in Cold debuff.</ColdResistance.effectDescription>
+  <!--heat resistance-->
+  <HeatResistance.label>heat resistance</HeatResistance.label>
+  <!--The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty.-->
+  <HeatResistance.description>The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty.</HeatResistance.description>
+  <!--Will never suffer heat stroke. Does not suffer Sweaty debuff. Cannot be set on fire.-->
+  <HeatResistance.effectDescription>Will never suffer heat stroke. Does not suffer Sweaty debuff. Cannot be set on fire.</HeatResistance.effectDescription>
+  <!--celebrity-->
+  <Celebrity.label>celebrity</Celebrity.label>
+  <!--The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are.-->
+  <Celebrity.description>The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are.</Celebrity.description>
+  <!--All social interactions are Kind Words. People tend to like Celebrity pawn 2x as much.-->
+  <Celebrity.effectDescription>All social interactions are Kind Words. People tend to like Celebrity pawn 2x as much.</Celebrity.effectDescription>
+  <!--master hacker-->
+  <MasterHacker.label>master hacker</MasterHacker.label>
+  <!--The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously.-->
+  <MasterHacker.description>The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously.</MasterHacker.description>
+  <!--All hacking operations initiated by this pawn are instant.-->
+  <MasterHacker.effectDescription>All hacking operations initiated by this pawn are instant.</MasterHacker.effectDescription>
+  <!--loner-->
+  <Loner.label>loner</Loner.label>
+  <!--The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude.-->
+  <Loner.description>The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude.</Loner.description>
+  <!--Recreation replenishes if alone in the room.-->
+  <Loner.effectDescription>Recreation replenishes if alone in the room.</Loner.effectDescription>
+  <!--blast resistance-->
+  <BlastResistance.label>blast resistance</BlastResistance.label>
+  <!--The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel.-->
+  <BlastResistance.description>The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel.</BlastResistance.description>
+  <!--Takes no damage from explosions.-->
+  <BlastResistance.effectDescription>Takes no damage from explosions.</BlastResistance.effectDescription>
+  <!--promising candidate-->
+  <PromisingCandidate.label>promising candidate</PromisingCandidate.label>
+  <!--For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure.-->
+  <PromisingCandidate.description>For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure.</PromisingCandidate.description>
+  <!--Chances of Experiment failed are always reduced to 0%.-->
+  <PromisingCandidate.effectDescription>Chances of Experiment failed are always reduced to 0%.</PromisingCandidate.effectDescription>
+  <!--super learning-->
+  <SuperLearning.label>super learning</SuperLearning.label>
+  <!--The subject’s brain has become hyper elastic, allowing them to rapidly learn new skills with almost no effort.-->
+  <SuperLearning.description>The subject’s brain has become hyper elastic, allowing them to rapidly learn new skills with almost no effort.</SuperLearning.description>
+  <!--toxic resistance-->
+  <ToxicResistance.label>toxic resistance</ToxicResistance.label>
+  <!--The subject has become a bastion against chemical effects. Any toxins that are absorbed are immediately processed by their liver, rendering them harmless and thus full immunity to toxic effects.-->
+  <ToxicResistance.description>The subject has become a bastion against chemical effects. Any toxins that are absorbed are immediately processed by their liver, rendering them harmless and thus full immunity to toxic effects.</ToxicResistance.description>
+  <!--psychic resistance-->
+  <PsychicResistance.label>psychic resistance</PsychicResistance.label>
+  <!--The subject has become a fortress against psychic attacks. Any psychic effects are blocked due to organic webbing that surrounds and isolates their brain.-->
+  <PsychicResistance.description>The subject has become a fortress against psychic attacks. Any psychic effects are blocked due to organic webbing that surrounds and isolates their brain.</PsychicResistance.description>
+  <!--regeneration-->
+  <Regeneration.label>regeneration</Regeneration.label>
+  <!--The cellular regeneration rate in this subject has been greatly improved, allowing them to heal from almost any trauma as long as the limbs are still present.-->
+  <Regeneration.description>The cellular regeneration rate in this subject has been greatly improved, allowing them to heal from almost any trauma as long as the limbs are still present.</Regeneration.description>
+  <!--All wounds heal themselves quite quickly. Cannot regrow limbs.-->
+  <Regeneration.effectDescription>All wounds heal themselves quite quickly. Cannot regrow limbs.</Regeneration.effectDescription>
+  <!--super speed-->
+  <SuperSpeed.label>super speed</SuperSpeed.label>
+  <!--The muscles and reaction speed in this subject has been improved, allowing them to move 50% faster and be able to use this increase in speed without crashing into things.-->
+  <SuperSpeed.description>The muscles and reaction speed in this subject has been improved, allowing them to move 50% faster and be able to use this increase in speed without crashing into things.</SuperSpeed.description>
+  <!--genius intellect-->
+  <GeniusIntellect.label>genius intellect</GeniusIntellect.label>
+  <!--The subject’s mental processing speed has been vastly improved, resulting in excellent deductive and analytical abilities. This allows them to research new or existing ideas at triple the speed compared to before.-->
+  <GeniusIntellect.description>The subject’s mental processing speed has been vastly improved, resulting in excellent deductive and analytical abilities. This allows them to research new or existing ideas at triple the speed compared to before.</GeniusIntellect.description>
+  <!--weapons expert-->
+  <WeaponExpert.label>weapons expert</WeaponExpert.label>
+  <!--The reaction speed in this subject has been improved alongside their hand-eye coordination, halving their weapon warmup and cooldown.-->
+  <WeaponExpert.description>The reaction speed in this subject has been improved alongside their hand-eye coordination, halving their weapon warmup and cooldown.</WeaponExpert.description>
+  <!--blind-->
+  <Blind.label>blind</Blind.label>
+  <!--The center in the subject’s brain that is responsible for processing optical data has been stunted, causing them to be fully blind despite having functional eyesight.-->
+  <Blind.description>The center in the subject’s brain that is responsible for processing optical data has been stunted, causing them to be fully blind despite having functional eyesight.</Blind.description>
+  <!--Sight capped at 0%.-->
+  <Blind.effectDescription>Sight capped at 0%.</Blind.effectDescription>
+  <!--deaf-->
+  <Deaf.label>deaf</Deaf.label>
+  <!--The center in the subject’s brain that is responsible for processing auditory data has been stunted, causing them to be fully deaf despite having functional inner ear canals.-->
+  <Deaf.description>The center in the subject’s brain that is responsible for processing auditory data has been stunted, causing them to be fully deaf despite having functional inner ear canals.</Deaf.description>
+  <!--Hearing capped at 0%.-->
+  <Deaf.effectDescription>Hearing capped at 0%.</Deaf.effectDescription>
+  <!--mute-->
+  <Mute.label>mute</Mute.label>
+  <!--The subject has developed a mental block and can no longer create sounds with their mouth or vocal chords, eliminating all forms of speech.-->
+  <Mute.description>The subject has developed a mental block and can no longer create sounds with their mouth or vocal chords, eliminating all forms of speech.</Mute.description>
+  <!--Talking capped at 0%.-->
+  <Mute.effectDescription>Talking capped at 0%.</Mute.effectDescription>
+  <!--psychological paralysis-->
+  <PsychologicalParalysis.label>psychological paralysis</PsychologicalParalysis.label>
+  <!--The center of the subject’s brain responsible for motor control in the legs has become stunted, effectively rendering them a paraplegic.-->
+  <PsychologicalParalysis.description>The center of the subject’s brain responsible for motor control in the legs has become stunted, effectively rendering them a paraplegic.</PsychologicalParalysis.description>
+  <!--Pawn cannot walk.-->
+  <PsychologicalParalysis.effectDescription>Pawn cannot walk.</PsychologicalParalysis.effectDescription>
+  <!--pain hypersensitivity-->
+  <PainHypersensitivity.label>pain hypersensitivity</PainHypersensitivity.label>
+  <!--The center in the subject’s brain that is responsible for pain sensation has been overdeveloped, causing even a papercut to feel like their finger is being chewed on by a wild animal.-->
+  <PainHypersensitivity.description>The center in the subject’s brain that is responsible for pain sensation has been overdeveloped, causing even a papercut to feel like their finger is being chewed on by a wild animal.</PainHypersensitivity.description>
+  <!--Pain multiplied by 300%.-->
+  <PainHypersensitivity.effectDescription>Pain multiplied by 300%.</PainHypersensitivity.effectDescription>
+  <!--hypermetabolism-->
+  <Hypermetabolism.label>hypermetabolism</Hypermetabolism.label>
+  <!--The subject’s metabolism has gone into overdrive, requiring them to eat twice as much food as they did before even if they don’t need that much extra energy.-->
+  <Hypermetabolism.description>The subject’s metabolism has gone into overdrive, requiring them to eat twice as much food as they did before even if they don’t need that much extra energy.</Hypermetabolism.description>
+  <!--Hunger rate multiplied by 200%-->
+  <Hypermetabolism.effectDescription>Hunger rate multiplied by 200%</Hypermetabolism.effectDescription>
+  <!--prideful-->
+  <Prideful.label>prideful</Prideful.label>
+  <!--The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take rejection well, sometimes violently so. Being rejected can cause a murderer mental state against the love interest.-->
+  <Prideful.description>The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take rejection well, sometimes violently so. Being rejected can cause a murderer mental state against the love interest.</Prideful.description>
+  <!--When rebuffed, has a 10% chance to go into murderer mental state against the person who rebuffed them.-->
+  <Prideful.effectDescription>When rebuffed, has a 10% chance to go into murderer mental state against the person who rebuffed them.</Prideful.effectDescription>
+  <!--bloodlust-->
+  <Bloodlust.label>bloodlust</Bloodlust.label>
+  <!--The subject’s hormone glands have become hypersensitive, and causing the death of someone causes a massive spike in dopamine and feels incredibly pleasurable, effectively becoming an addict to murder. This in turn can lead to one kill becoming a long chain of berserk rage-induced slaughter.-->
+  <Bloodlust.description>The subject’s hormone glands have become hypersensitive, and causing the death of someone causes a massive spike in dopamine and feels incredibly pleasurable, effectively becoming an addict to murder. This in turn can lead to one kill becoming a long chain of berserk rage-induced slaughter.</Bloodlust.description>
+  <!--Upon killing, might enter a berserk mental state (50% chance).-->
+  <Bloodlust.effectDescription>Upon killing, might enter a berserk mental state (50% chance).</Bloodlust.effectDescription>
+  <!--paranoid-->
+  <Paranoid.label>paranoid</Paranoid.label>
+  <!--The subject has developed a massive case of homesickness, and only ever feels safe whenever they’re inside what they consider home.-->
+  <Paranoid.description>The subject has developed a massive case of homesickness, and only ever feels safe whenever they’re inside what they consider home.</Paranoid.description>
+  <!--If outside of the Home area, pawn suffers a mood debuff.-->
+  <Paranoid.effectDescription>If outside of the Home area, pawn suffers a mood debuff.</Paranoid.effectDescription>
+  <!--audacious-->
+  <Audacious.label>audacious</Audacious.label>
+  <!--The subject has developed a complete disregard for any authority except their own and will only do whatever they want to.-->
+  <Audacious.description>The subject has developed a complete disregard for any authority except their own and will only do whatever they want to.</Audacious.description>
+  <!--Pawn cannot be TOLD to do something (right clicking and forcing tasks disabled).-->
+  <Audacious.effectDescription>Pawn cannot be TOLD to do something (right clicking and forcing tasks disabled).</Audacious.effectDescription>
+  <!--callous-->
+  <Callous.label>callous</Callous.label>
+  <!--The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care.-->
+  <Callous.description>The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care.</Callous.description>
+  <!--Mood not affected by sight of death, unburied colonists, prisoners sold into slavery, organ harvesting, butchering of humans or friendly chats. Essentially a vanilla psychopath.-->
+  <Callous.effectDescription>Mood not affected by sight of death, unburied colonists, prisoners sold into slavery, organ harvesting, butchering of humans or friendly chats. Essentially a vanilla psychopath.</Callous.effectDescription>
+  <!--immature-->
+  <Immature.label>immature</Immature.label>
+  <!--The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums.-->
+  <Immature.description>The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums.</Immature.description>
+  <!--Majority of mental breaks are Tantrums.-->
+  <Immature.effectDescription>Majority of mental breaks are Tantrums.</Immature.effectDescription>
+  <!--easily bored-->
+  <EasilyBored.label>easily bored</EasilyBored.label>
+  <!--The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom.-->
+  <EasilyBored.description>The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom.</EasilyBored.description>
+  <!--Pawn Recreation drops at 2x the speed.-->
+  <EasilyBored.effectDescription>Pawn Recreation drops at 2x the speed.</EasilyBored.effectDescription>
+  <!--easily enraged-->
+  <EasilyEnraged.label>easily enraged</EasilyEnraged.label>
+  <!--The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted.-->
+  <EasilyEnraged.description>The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted.</EasilyEnraged.description>
+  <!--Pawn will initiate social fights every time they’re slighted.-->
+  <EasilyEnraged.effectDescription>Pawn will initiate social fights every time they’re slighted.</EasilyEnraged.effectDescription>
+  <!--sickly-->
+  <Sickly.label>sickly</Sickly.label>
+  <!--The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one.-->
+  <Sickly.description>The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one.</Sickly.description>
+  <!--Becomes ill very often.-->
+  <Sickly.effectDescription>Becomes ill very often.</Sickly.effectDescription>
+  <!--zealot-->
+  <Zealot.label>zealot</Zealot.label>
+  <!--The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live.-->
+  <Zealot.description>The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live.</Zealot.description>
+  <!--Will instantly kill all prisoners.-->
+  <Zealot.effectDescription>Will instantly kill all prisoners.</Zealot.effectDescription>
+  <!--lustful-->
+  <Lustful.label>lustful</Lustful.label>
+  <!--The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues.-->
+  <Lustful.description>The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues.</Lustful.description>
+  <!--Constantly flirts with others, but Flirts are always rejected. This drops relations with the flirt subjects.-->
+  <Lustful.effectDescription>Constantly flirts with others, but Flirts are always rejected. This drops relations with the flirt subjects.</Lustful.effectDescription>
+  <!--hallucinations-->
+  <Hallucinations.label>hallucinations</Hallucinations.label>
+  <!--The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them.-->
+  <Hallucinations.description>The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them.</Hallucinations.description>
+  <!--Casually enters a silent mental break called ‘Seeing things’, where they will walk around aimlessly, potentially pulling out a weapon and firing once or twice. Such a mental break only lasts a short while and will NOT produce a letter announcing it.-->
+  <Hallucinations.effectDescription>Casually enters a silent mental break called ‘Seeing things’, where they will walk around aimlessly, potentially pulling out a weapon and firing once or twice. Such a mental break only lasts a short while and will NOT produce a letter announcing it.</Hallucinations.effectDescription>
+  <!--unstable-->
+  <Unstable.label>unstable</Unstable.label>
+  <!--The subject’s brain has become highly tuned to psychic wavelengths, making them vulnerable to Mechanoid psychic attacks but also a far more capable psycaster.-->
+  <Unstable.description>The subject’s brain has become highly tuned to psychic wavelengths, making them vulnerable to Mechanoid psychic attacks but also a far more capable psycaster.</Unstable.description>
+  <!--extremely flammable-->
+  <ExtremelyFlammable.label>extremely flammable</ExtremelyFlammable.label>
+  <!--The subject’s entire body has become highly flammable, with the slightest spark being able to send them bursting into flames.-->
+  <ExtremelyFlammable.description>The subject’s entire body has become highly flammable, with the slightest spark being able to send them bursting into flames.</ExtremelyFlammable.description>
+  <!--toxin intolerance-->
+  <ToxinIntolerance.label>toxin intolerance</ToxinIntolerance.label>
+  <!--The subject’s organs are constantly lacking certain minerals (e.g. Iodine) and freely absorb them from the air, even if they're irradiated or bound to toxic chemicals.-->
+  <ToxinIntolerance.description>The subject’s organs are constantly lacking certain minerals (e.g. Iodine) and freely absorb them from the air, even if they're irradiated or bound to toxic chemicals.</ToxinIntolerance.description>
+  <!--heat intolerance-->
+  <HeatIntolerance.label>heat intolerance</HeatIntolerance.label>
+  <!--The subject can no longer sweat properly, meaning they overheat very easily as their body can no longer cool itself. This lowers their maximum comfortable temperature by 10 degrees.-->
+  <HeatIntolerance.description>The subject can no longer sweat properly, meaning they overheat very easily as their body can no longer cool itself. This lowers their maximum comfortable temperature by 10 degrees.</HeatIntolerance.description>
+  <!--cold intolerance-->
+  <ColdIntolerance.label>cold intolerance</ColdIntolerance.label>
+  <!--The subject’s muscles no longer shiver involuntarily, meaning they can no longer warm themselves when exposed to cold temperatures. This raises their minimum comfortable temperature by 10 degrees.-->
+  <ColdIntolerance.description>The subject’s muscles no longer shiver involuntarily, meaning they can no longer warm themselves when exposed to cold temperatures. This raises their minimum comfortable temperature by 10 degrees.</ColdIntolerance.description>
+  <!--immunological disorder-->
+  <ImmunologicalDisorder.label>immunological disorder</ImmunologicalDisorder.label>
+  <!--The subject’s immune system has been ruined, requiring them to take frequent medicine and receive constant medical care, as even the sniffles could kill them.-->
+  <ImmunologicalDisorder.description>The subject’s immune system has been ruined, requiring them to take frequent medicine and receive constant medical care, as even the sniffles could kill them.</ImmunologicalDisorder.description>
+  <!--finicky-->
+  <Finicky.label>finicky</Finicky.label>
+  <!--The subject has become incredibly fussy, demanding they pay extraneous attention to the most inconsequential of tasks and taking three times longer than usual.-->
+  <Finicky.description>The subject has become incredibly fussy, demanding they pay extraneous attention to the most inconsequential of tasks and taking three times longer than usual.</Finicky.description>
+  <!--unsure-->
+  <Unsure.label>unsure</Unsure.label>
+  <!--The subject has become incredibly doubtful and suffers frequent dizzy spells, taking twice as long to acquire targets with their weapons as they re-check that they’re ready to fire.-->
+  <Unsure.description>The subject has become incredibly doubtful and suffers frequent dizzy spells, taking twice as long to acquire targets with their weapons as they re-check that they’re ready to fire.</Unsure.description>
+  <!--always knows better-->
+  <AlwaysKnowsBetter.label>always knows better</AlwaysKnowsBetter.label>
+  <!--The subject has developed a somewhat misplaced sense of pride due to their gene therapy and refuses to learn anything new, stating that they know better than everyone and no one can improve perfection.-->
+  <AlwaysKnowsBetter.description>The subject has developed a somewhat misplaced sense of pride due to their gene therapy and refuses to learn anything new, stating that they know better than everyone and no one can improve perfection.</AlwaysKnowsBetter.description>
+  <!--bigot-->
+  <Bigot.label>bigot</Bigot.label>
+  <!--The subject has become bigotted, believing the rule of their community is absolute and refuses to deal with prisoners unless they’re at the end of a knife or gun.-->
+  <Bigot.description>The subject has become bigotted, believing the rule of their community is absolute and refuses to deal with prisoners unless they’re at the end of a knife or gun.</Bigot.description>
+  <!--conscientious objector-->
+  <ConscientiousObjector.label>conscientious objector</ConscientiousObjector.label>
+  <!--The subject has become incredibly conscientious and refuses to use weapons or even defend themselves in the face of violence.-->
+  <ConscientiousObjector.description>The subject has become incredibly conscientious and refuses to use weapons or even defend themselves in the face of violence.</ConscientiousObjector.description>
+  <!--egotistical-->
+  <Egotistical.label>egotistical</Egotistical.label>
+  <!--The subject has developed a massive ego and refuses to do any and all work, viewing it as beneath them.-->
+  <Egotistical.description>The subject has developed a massive ego and refuses to do any and all work, viewing it as beneath them.</Egotistical.description>
+</LanguageData>

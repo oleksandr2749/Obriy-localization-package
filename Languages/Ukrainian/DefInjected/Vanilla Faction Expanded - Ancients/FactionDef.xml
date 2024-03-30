@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--ancient super-soldiers-->
+  <VFEA_AncientSoldiers.label>стародавні суперсолдати</VFEA_AncientSoldiers.label>
+  <!--Ancient soldiers-->
+  <VFEA_AncientSoldiers.fixedName>Стародавні солдати</VFEA_AncientSoldiers.fixedName>
+  <!--leader-->
+  <VFEA_AncientSoldiers.leaderTitle>лідер</VFEA_AncientSoldiers.leaderTitle>
+  <!--ancient super-soldier-->
+  <VFEA_AncientSoldiers.pawnSingular>стародавні суперсолдати</VFEA_AncientSoldiers.pawnSingular>
+  <!--ancient super-soldiers-->
+  <VFEA_AncientSoldiers.pawnsPlural>стародавні суперсолдати</VFEA_AncientSoldiers.pawnsPlural>
+  <!--New Vault-->
+  <VFEA_NewVault.label>Нове Сховище</VFEA_NewVault.label>
+  <!--A vault of ancient soldiers.-->
+  <VFEA_NewVault.description>Сховище стародавніх суперсолдат.</VFEA_NewVault.description>
+  <!--leader-->
+  <VFEA_NewVault.leaderTitle>лідер</VFEA_NewVault.leaderTitle>
+  <!--ancient soldier-->
+  <VFEA_NewVault.pawnSingular>стародавній суперсолдат</VFEA_NewVault.pawnSingular>
+  <!--ancient soldiers-->
+  <VFEA_NewVault.pawnsPlural>стародавні суперсолдати</VFEA_NewVault.pawnsPlural>
+</LanguageData>

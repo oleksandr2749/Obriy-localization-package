@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--refreshed-->
+  <DrankCleanWater.stages.refreshed.label>refreshed</DrankCleanWater.stages.refreshed.label>
+  <!--Drank refreshing clean water.-->
+  <DrankCleanWater.stages.refreshed.description>Drank refreshing clean water.</DrankCleanWater.stages.refreshed.description>
+  <!--drank filthy water-->
+  <DrankDirtyWater.stages.drank_filthy_water.label>drank filthy water</DrankDirtyWater.stages.drank_filthy_water.label>
+  <!--Drank a bottle of contaminated water.-->
+  <DrankDirtyWater.stages.drank_filthy_water.description>Drank a bottle of contaminated water.</DrankDirtyWater.stages.drank_filthy_water.description>
+  <!--drank urine-->
+  <DrankUrine.stages.drank_urine.label>drank urine</DrankUrine.stages.drank_urine.label>
+  <!--I drank my own urine.-->
+  <DrankUrine.stages.drank_urine.description>I drank my own urine.</DrankUrine.stages.drank_urine.description>
+  <!--embarrassed-->
+  <WashPrivacy.stages.embarrassed.label>embarrassed</WashPrivacy.stages.embarrassed.label>
+  <!--Someone saw me bathing and it made me uncomfortable.-->
+  <WashPrivacy.stages.embarrassed.description>Someone saw me bathing and it made me uncomfortable.</WashPrivacy.stages.embarrassed.description>
+  <!--embarrassed-->
+  <ToiletPrivacy.stages.embarrassed.label>embarrassed</ToiletPrivacy.stages.embarrassed.label>
+  <!--Someone walked in on me while I was using the toilet.-->
+  <ToiletPrivacy.stages.embarrassed.description>Someone walked in on me while I was using the toilet.</ToiletPrivacy.stages.embarrassed.description>
+  <!--soiled myself-->
+  <SoiledSelf.stages.soiled_myself.label>soiled myself</SoiledSelf.stages.soiled_myself.label>
+  <!--I couldn't hold it in any longer and soiled myself.-->
+  <SoiledSelf.stages.soiled_myself.description>I couldn't hold it in any longer and soiled myself.</SoiledSelf.stages.soiled_myself.description>
+  <!--hot shower-->
+  <HotShower.stages.hot_shower.label>hot shower</HotShower.stages.hot_shower.label>
+  <!--I had a nice hot shower.-->
+  <HotShower.stages.hot_shower.description>I had a nice hot shower.</HotShower.stages.hot_shower.description>
+  <!--heated pool-->
+  <HeatedPool.stages.heated_pool.label>heated pool</HeatedPool.stages.heated_pool.label>
+  <!--The heated pool was very relaxing.-->
+  <HeatedPool.stages.heated_pool.description>The heated pool was very relaxing.</HeatedPool.stages.heated_pool.description>
+  <!--hot bath-->
+  <HotBath.stages.hot_bath.label>hot bath</HotBath.stages.hot_bath.label>
+  <!--I had a nice hot bath.-->
+  <HotBath.stages.hot_bath.description>I had a nice hot bath.</HotBath.stages.hot_bath.description>
+  <!--cold bath-->
+  <ColdBath.stages.cold_bath.label>cold bath</ColdBath.stages.cold_bath.label>
+  <!--I had a nice refreshing cold bath.-->
+  <ColdBath.stages.cold_bath.description>I had a nice refreshing cold bath.</ColdBath.stages.cold_bath.description>
+  <!--cold shower-->
+  <ColdShower.stages.cold_shower.label>cold shower</ColdShower.stages.cold_shower.label>
+  <!--I had a nice refreshing cold shower.-->
+  <ColdShower.stages.cold_shower.description>I had a nice refreshing cold shower.</ColdShower.stages.cold_shower.description>
+  <!--cold water-->
+  <ColdWater.stages.cold_water.label>cold water</ColdWater.stages.cold_water.label>
+  <!--There was no hot water!-->
+  <ColdWater.stages.cold_water.description>There was no hot water!</ColdWater.stages.cold_water.description>
+  <!--relieved myself-->
+  <tookDump.stages.relieved_myself.label>relieved myself</tookDump.stages.relieved_myself.label>
+  <!--Aaaah much better.-->
+  <tookDump.stages.relieved_myself.description>Aaaah much better.</tookDump.stages.relieved_myself.description>
+  <!--open defecation-->
+  <openDefecation.stages.open_defecation.label>open defecation</openDefecation.stages.open_defecation.label>
+  <!--I had to relieve myself outside in the open.-->
+  <openDefecation.stages.open_defecation.description>I had to relieve myself outside in the open.</openDefecation.stages.open_defecation.description>
+  <!--awful bathroom-->
+  <UsedPrivateBathroom.stages.awful_bathroom.label>awful bathroom</UsedPrivateBathroom.stages.awful_bathroom.label>
+  <!--My bathroom is an awful place.-->
+  <UsedPrivateBathroom.stages.awful_bathroom.description>My bathroom is an awful place.</UsedPrivateBathroom.stages.awful_bathroom.description>
+  <!--decent bathroom-->
+  <UsedPrivateBathroom.stages.decent_bathroom.label>decent bathroom</UsedPrivateBathroom.stages.decent_bathroom.label>
+  <!--My bathroom is very interesting. I like it.-->
+  <UsedPrivateBathroom.stages.decent_bathroom.description>My bathroom is very interesting. I like it.</UsedPrivateBathroom.stages.decent_bathroom.description>
+  <!--slightly impressive bathroom-->
+  <UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>slightly impressive bathroom</UsedPrivateBathroom.stages.slightly_impressive_bathroom.label>
+  <!--My bathroom is actually slightly impressive. I like it.-->
+  <UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>My bathroom is actually slightly impressive. I like it.</UsedPrivateBathroom.stages.slightly_impressive_bathroom.description>
+  <!--impressive bathroom-->
+  <UsedPrivateBathroom.stages.impressive_bathroom.label>impressive bathroom</UsedPrivateBathroom.stages.impressive_bathroom.label>
+  <!--My bathroom is impressive. I love it!-->
+  <UsedPrivateBathroom.stages.impressive_bathroom.description>My bathroom is impressive. I love it!</UsedPrivateBathroom.stages.impressive_bathroom.description>
+  <!--very impressive bathroom-->
+  <UsedPrivateBathroom.stages.very_impressive_bathroom.label>very impressive bathroom</UsedPrivateBathroom.stages.very_impressive_bathroom.label>
+  <!--My bathroom is very impressive. This is the best place ever!-->
+  <UsedPrivateBathroom.stages.very_impressive_bathroom.description>My bathroom is very impressive. This is the best place ever!</UsedPrivateBathroom.stages.very_impressive_bathroom.description>
+  <!--extremely impressive bathroom-->
+  <UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>extremely impressive bathroom</UsedPrivateBathroom.stages.extremely_impressive_bathroom.label>
+  <!--My bathroom is extremely impressive. This is the best place ever!-->
+  <UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>My bathroom is extremely impressive. This is the best place ever!</UsedPrivateBathroom.stages.extremely_impressive_bathroom.description>
+  <!--unbelievably impressive bathroom-->
+  <UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>unbelievably impressive bathroom</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.label>
+  <!--My bathroom is unbelievably impressive. This is the best place ever!-->
+  <UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>My bathroom is unbelievably impressive. This is the best place ever!</UsedPrivateBathroom.stages.unbelievably_impressive_bathroom.description>
+  <!--wondrously impressive bathroom-->
+  <UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>wondrously impressive bathroom</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.label>
+  <!--My bathroom is the best place one can ever imagine. It's wonderful.-->
+  <UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>My bathroom is the best place one can ever imagine. It's wonderful.</UsedPrivateBathroom.stages.wondrously_impressive_bathroom.description>
+  <!--filthy-->
+  <HygieneLevel.stages.filthy.label>filthy</HygieneLevel.stages.filthy.label>
+  <!--I smell like I have been swimming in sewage.-->
+  <HygieneLevel.stages.filthy.description>I smell like I have been swimming in sewage.</HygieneLevel.stages.filthy.description>
+  <!--grimy-->
+  <HygieneLevel.stages.grimy.label>grimy</HygieneLevel.stages.grimy.label>
+  <!--I feel a little grimy.-->
+  <HygieneLevel.stages.grimy.description>I feel a little grimy.</HygieneLevel.stages.grimy.description>
+  <!--clean-->
+  <HygieneLevel.stages.clean.label>clean</HygieneLevel.stages.clean.label>
+  <!--I feel fresh and clean.-->
+  <HygieneLevel.stages.clean.description>I feel fresh and clean.</HygieneLevel.stages.clean.description>
+  <!--squeaky clean-->
+  <HygieneLevel.stages.squeaky_clean.label>squeaky clean</HygieneLevel.stages.squeaky_clean.label>
+  <!--I'm squeaky clean!-->
+  <HygieneLevel.stages.squeaky_clean.description>I'm squeaky clean!</HygieneLevel.stages.squeaky_clean.description>
+  <!--bursting-->
+  <BowelLevel.stages.bursting.label>bursting</BowelLevel.stages.bursting.label>
+  <!--I need to go so bad I'm about to burst!-->
+  <BowelLevel.stages.bursting.description>I need to go so bad I'm about to burst!</BowelLevel.stages.bursting.description>
+  <!--need the bathroom-->
+  <BowelLevel.stages.need_the_bathroom.label>need the bathroom</BowelLevel.stages.need_the_bathroom.label>
+  <!--I need to go to the bathroom.-->
+  <BowelLevel.stages.need_the_bathroom.description>I need to go to the bathroom.</BowelLevel.stages.need_the_bathroom.description>
+</LanguageData>

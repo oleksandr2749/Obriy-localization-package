@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--ranged cooldown-->
+  <VFEAncients_RangedCooldownFactor.label>ranged cooldown</VFEAncients_RangedCooldownFactor.label>
+  <!--The cooldown on ranged weapons for this pawn is multiplied by this value.-->
+  <VFEAncients_RangedCooldownFactor.description>The cooldown on ranged weapons for this pawn is multiplied by this value.</VFEAncients_RangedCooldownFactor.description>
+  <!--melee cooldown-->
+  <VFEAncients_MeleeCooldownFactor.label>melee cooldown</VFEAncients_MeleeCooldownFactor.label>
+  <!--The cooldown on melee weapons for this pawn is multiplied by this value.-->
+  <VFEAncients_MeleeCooldownFactor.description>The cooldown on melee weapons for this pawn is multiplied by this value.</VFEAncients_MeleeCooldownFactor.description>
+  <!--fail chance-->
+  <VFEA_FailChance.label>fail chance</VFEA_FailChance.label>
+  <!--The chance that a nanite injecting operation will fail.-->
+  <VFEA_FailChance.description>The chance that a nanite injecting operation will fail.</VFEA_FailChance.description>
+  <!--injecting time factor-->
+  <VFEA_InjectingTimeFactor.label>injecting time factor</VFEA_InjectingTimeFactor.label>
+  <!--A multiplier on the speed of a gene-tailoring pod. It can be lowered by finding and installing super-nanite injector pumps.-->
+  <VFEA_InjectingTimeFactor.description>A multiplier on the speed of a gene-tailoring pod. It can be lowered by finding and installing super-nanite injector pumps.</VFEA_InjectingTimeFactor.description>
+</LanguageData>

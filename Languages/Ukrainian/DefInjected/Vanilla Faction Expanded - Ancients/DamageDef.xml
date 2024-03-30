@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--acid breath-->
+  <VFEA_AcidBreath.label>кислотний подих</VFEA_AcidBreath.label>
+  <!--{0} has been dissolved to nothing.-->
+  <VFEA_AcidBreath.deathMessage>{0} {0_gender ? розчинився: розчинилася} в кислоті.</VFEA_AcidBreath.deathMessage>
+</LanguageData>

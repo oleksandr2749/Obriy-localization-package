@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--super jump-->
+  <VFEA_SuperJump.label>супер стрибок</VFEA_SuperJump.label>
+  <!--Jump over a short distance (10 cells) within line of sight to close the distance to the enemy.-->
+  <VFEA_SuperJump.description>Стрибнути на відстань до 10 клітин в межах прямої видимості.</VFEA_SuperJump.description>
+  <!--Using ability: {0}-->
+  <VFEA_SuperJump.jobReportString>Використовує здібність: {0}</VFEA_SuperJump.jobReportString>
+  <!--super jump-->
+  <VFEA_SuperJump.verbProperties.label>супер стрибок</VFEA_SuperJump.verbProperties.label>
+  <!--berserk (telepathy)-->
+  <VFEA_Berserk.label>берсерк (телепатія)</VFEA_Berserk.label>
+  <!--Cast on an enemy to turn them on their allies.-->
+  <VFEA_Berserk.description>Занурити ворожу ціль в лють змушуючи її атакувати всіх навколо.</VFEA_Berserk.description>
+  <!--Using ability: {0}-->
+  <VFEA_Berserk.jobReportString>Використовує здібність: {0}</VFEA_Berserk.jobReportString>
+  <!--berserk (telepathy)-->
+  <VFEA_Berserk.verbProperties.label>берсерк (телепатія)</VFEA_Berserk.verbProperties.label>
+  <!--calm (telepathy)-->
+  <VFEA_Calm.label>заспокоєння (телепатія)</VFEA_Calm.label>
+  <!--Cast on a friend to instantly snap them out of a mental break.-->
+  <VFEA_Calm.description>Миттєво приводить до тями дружню ціль з психічним зривом.</VFEA_Calm.description>
+  <!--Using ability: {0}-->
+  <VFEA_Calm.jobReportString>Використовує здібність: {0}</VFEA_Calm.jobReportString>
+  <!--calm (telepathy)-->
+  <VFEA_Calm.verbProperties.label>заспокоєння (телепатія)</VFEA_Calm.verbProperties.label>
+  <!--psychic shock-->
+  <VFEA_PsychicShock.label>психічний шок</VFEA_PsychicShock.label>
+  <!--Fire a psychic shock on the enemy, rendering them unconscious.-->
+  <VFEA_PsychicShock.description>Завдати руйнівний вплив на свідомість ворожої цілі, заруючи її в непросвітну пітьму психічного шоку.</VFEA_PsychicShock.description>
+  <!--Using ability: {0}-->
+  <VFEA_PsychicShock.jobReportString>Використовує здібність: {0}</VFEA_PsychicShock.jobReportString>
+  <!--psychic shock-->
+  <VFEA_PsychicShock.verbProperties.label>психічний шок</VFEA_PsychicShock.verbProperties.label>
+  <!--invisibility-->
+  <VFEA_Invisibility.label>невидимість</VFEA_Invisibility.label>
+  <!--Turns invisible for 60 seconds.-->
+  <VFEA_Invisibility.description>Прийняти невидиму форму на 60 секунд.</VFEA_Invisibility.description>
+  <!--Using ability: {0}-->
+  <VFEA_Invisibility.jobReportString>Використовує здібність: {0}</VFEA_Invisibility.jobReportString>
+  <!--invisibility-->
+  <VFEA_Invisibility.verbProperties.label>невидимість</VFEA_Invisibility.verbProperties.label>
+  <!--self-control-->
+  <VFEA_SelfControl.label>самоконтроль</VFEA_SelfControl.label>
+  <!--When activated, immediately stop any mental breaks this pawn is under effect of.-->
+  <VFEA_SelfControl.description>Миттєво відновити зв'язок між своєю свідомістю та реальністю, виводячи себе з стану психічного шоку.</VFEA_SelfControl.description>
+  <!--Using ability: {0}-->
+  <VFEA_SelfControl.jobReportString>Використовує здібність: {0}</VFEA_SelfControl.jobReportString>
+  <!--self-control-->
+  <VFEA_SelfControl.verbProperties.label>самоконтроль</VFEA_SelfControl.verbProperties.label>
+  <!--overshield-->
+  <VFEA_Overshield.label>психічний щит</VFEA_Overshield.label>
+  <!--Generate an impenetrable shield around yourself that lasts 30 seconds.-->
+  <VFEA_Overshield.description>Утворити навколо себе психічний щит тривалістю 30 секунд.</VFEA_Overshield.description>
+  <!--Using ability: {0}-->
+  <VFEA_Overshield.jobReportString>Використовує здібність: {0}</VFEA_Overshield.jobReportString>
+  <!--overshield-->
+  <VFEA_Overshield.verbProperties.label>психічний щит</VFEA_Overshield.verbProperties.label>
+  <!--summon lightning-->
+  <VFEA_SummonLightning.label>блискавиця</VFEA_SummonLightning.label>
+  <!--Designate an area that will be blasted by lightning bolts.-->
+  <VFEA_SummonLightning.description>Завдайте швидкий та руйнівний удар блискавкою.</VFEA_SummonLightning.description>
+  <!--Using ability: {0}-->
+  <VFEA_SummonLightning.jobReportString>Використовує здібність: {0}</VFEA_SummonLightning.jobReportString>
+  <!--summon lightning-->
+  <VFEA_SummonLightning.verbProperties.label>блискавиця</VFEA_SummonLightning.verbProperties.label>
+  <!--animal speech-->
+  <VFEA_AnimalSpeech.label>тваринний заклик</VFEA_AnimalSpeech.label>
+  <!--When cast on a man hunting animal, calms it. When cast on a wild animal, tame it.-->
+  <VFEA_AnimalSpeech.description>When cast on a man hunting animal, calms it. When cast on a wild animal, tame it.</VFEA_AnimalSpeech.description>
+  <!--Using ability: {0}-->
+  <VFEA_AnimalSpeech.jobReportString>Використовує здібність: {0}</VFEA_AnimalSpeech.jobReportString>
+  <!--animal speech-->
+  <VFEA_AnimalSpeech.verbProperties.label>тваринний заклик</VFEA_AnimalSpeech.verbProperties.label>
+  <!--empathy-->
+  <VFEA_Empathy.label>емпатія</VFEA_Empathy.label>
+  <!--Cast on an ally to give them a strong mood buff lasting 24 hours.-->
+  <VFEA_Empathy.description>Cast on an ally to give them a strong mood buff lasting 24 hours.</VFEA_Empathy.description>
+  <!--Using ability: {0}-->
+  <VFEA_Empathy.jobReportString>Використовує здібність: {0}</VFEA_Empathy.jobReportString>
+  <!--empathy-->
+  <VFEA_Empathy.verbProperties.label>емпатія</VFEA_Empathy.verbProperties.label>
+  <!--heal others-->
+  <VFEA_Heal.label>зцілення іншого</VFEA_Heal.label>
+  <!--Cast on an ally to cure them of all their wounds.-->
+  <VFEA_Heal.description>Зцілити союзника від більшості ран.</VFEA_Heal.description>
+  <!--Using ability: {0}-->
+  <VFEA_Heal.jobReportString>Використовує здібність: {0}</VFEA_Heal.jobReportString>
+  <!--heal others-->
+  <VFEA_Heal.verbProperties.label>зцілення іншого</VFEA_Heal.verbProperties.label>
+  <!--glory kill-->
+  <VFEA_GloryKill.label>glory kill</VFEA_GloryKill.label>
+  <!--Kill a random enemy in 1 cell radius, spawning large amount of blood everywhere, and removing a random amount of their limbs.-->
+  <VFEA_GloryKill.description>Kill a random enemy in 1 cell radius, spawning large amount of blood everywhere, and removing a random amount of their limbs.</VFEA_GloryKill.description>
+  <!--Using ability: {0}-->
+  <VFEA_GloryKill.jobReportString>Використовує здібність: {0}</VFEA_GloryKill.jobReportString>
+  <!--glory kill-->
+  <VFEA_GloryKill.verbProperties.label>glory kill</VFEA_GloryKill.verbProperties.label>
+  <!--electro-magnetic pulse-->
+  <VFEA_ElectromagneticPulse.label>електромагнітний імпульс</VFEA_ElectromagneticPulse.label>
+  <!--Generate a large EMP explosion around yourself, disabling all electronics in radius.-->
+  <VFEA_ElectromagneticPulse.description>Згенерувати навколо себе потужний ЕМІ, який виведе з ладу всю електроніку в радіусі імпульсу.</VFEA_ElectromagneticPulse.description>
+  <!--Using ability: {0}-->
+  <VFEA_ElectromagneticPulse.jobReportString>Використовує здібність: {0}</VFEA_ElectromagneticPulse.jobReportString>
+  <!--electro-magnetic pulse-->
+  <VFEA_ElectromagneticPulse.verbProperties.label>електромагнітний імпульс</VFEA_ElectromagneticPulse.verbProperties.label>
+  <!--fire breath-->
+  <VFEA_FireBreath.label>вогняний подих</VFEA_FireBreath.label>
+  <!--Spew fire up to 12 cells range in front of you, burning enemies and sending them running.-->
+  <VFEA_FireBreath.description>Видихнути ротом полум'я на відстань до 12 клітин.</VFEA_FireBreath.description>
+  <!--Using ability: {0}-->
+  <VFEA_FireBreath.jobReportString>Використовує здібність: {0}</VFEA_FireBreath.jobReportString>
+  <!--fire breath-->
+  <VFEA_FireBreath.verbProperties.label>вогняний подих</VFEA_FireBreath.verbProperties.label>
+  <!--ice breath-->
+  <VFEA_IceBreath.label>крижаний подих</VFEA_IceBreath.label>
+  <!--Spew ice up to 12 cells range in front of you, slowing enemies and applying high hypothermia.-->
+  <VFEA_IceBreath.description>Видихнути ротом хмару надзвичайно холодного повітря.</VFEA_IceBreath.description>
+  <!--Using ability: {0}-->
+  <VFEA_IceBreath.jobReportString>Використовує здібність: {0}</VFEA_IceBreath.jobReportString>
+  <!--ice breath-->
+  <VFEA_IceBreath.verbProperties.label>крижаний подих</VFEA_IceBreath.verbProperties.label>
+  <!--laser eyes-->
+  <VFEA_LaserEyes.label>лазер з очей</VFEA_LaserEyes.label>
+  <!--Fire an incredibly powerful beam of energy from your eyes. Maximum range is 35.-->
+  <VFEA_LaserEyes.description>Вистрілити з очей неймовірно руйнівним променем концентрованої енергії.</VFEA_LaserEyes.description>
+  <!--Using ability: {0}-->
+  <VFEA_LaserEyes.jobReportString>Використовує здібність: {0}</VFEA_LaserEyes.jobReportString>
+  <!--laser eyes-->
+  <VFEA_LaserEyes.verbProperties.label>лазер з очей</VFEA_LaserEyes.verbProperties.label>
+  <!--matter phasing-->
+  <VFEA_MatterPhasing.label>матеріальне фазування</VFEA_MatterPhasing.label>
+  <!--Turn on to phase through walls for 10 seconds.-->
+  <VFEA_MatterPhasing.description>Прийняти форму в якій можливо проходити крізь всі об'єкти протягом 10 секунд.</VFEA_MatterPhasing.description>
+  <!--Using ability: {0}-->
+  <VFEA_MatterPhasing.jobReportString>Використовує здібність: {0}</VFEA_MatterPhasing.jobReportString>
+  <!--matter phasing-->
+  <VFEA_MatterPhasing.verbProperties.label>матеріальне фазування</VFEA_MatterPhasing.verbProperties.label>
+  <!--electricity blast-->
+  <VFEA_ElectricityBlast.label>блискавиця</VFEA_ElectricityBlast.label>
+  <!--Fire an arc of lightning that bounced between enemies, burning them and disabling any electronics.-->
+  <VFEA_ElectricityBlast.description>Вдарити ціль блискавкою, яка </VFEA_ElectricityBlast.description>
+  <!--Using ability: {0}-->
+  <VFEA_ElectricityBlast.jobReportString>Використовує здібність: {0}</VFEA_ElectricityBlast.jobReportString>
+  <!--electricity blast-->
+  <VFEA_ElectricityBlast.verbProperties.label>electricity blast</VFEA_ElectricityBlast.verbProperties.label>
+  <!--speed burst-->
+  <VFEA_SpeedBurst.label>speed burst</VFEA_SpeedBurst.label>
+  <!--4x Movement speed. Melee cooldown halved. Lasts 30 seconds.-->
+  <VFEA_SpeedBurst.description>4x Movement speed. Melee cooldown halved. Lasts 30 seconds.</VFEA_SpeedBurst.description>
+  <!--Using ability: {0}-->
+  <VFEA_SpeedBurst.jobReportString>Використовує здібність: {0}</VFEA_SpeedBurst.jobReportString>
+  <!--speed burst-->
+  <VFEA_SpeedBurst.verbProperties.label>speed burst</VFEA_SpeedBurst.verbProperties.label>
+  <!--acid spitting-->
+  <VFEA_AcidBreath.label>acid spitting</VFEA_AcidBreath.label>
+  <!--The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.-->
+  <VFEA_AcidBreath.description>The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.</VFEA_AcidBreath.description>
+  <!--Using ability: {0}-->
+  <VFEA_AcidBreath.jobReportString>Використовує здібність: {0}</VFEA_AcidBreath.jobReportString>
+  <!--acid spitting-->
+  <VFEA_AcidBreath.verbProperties.label>acid spitting</VFEA_AcidBreath.verbProperties.label>
+  <!--fireball-->
+  <VFEA_Fireball.label>fireball</VFEA_Fireball.label>
+  <!--The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.-->
+  <VFEA_Fireball.description>The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.</VFEA_Fireball.description>
+  <!--Using ability: {0}-->
+  <VFEA_Fireball.jobReportString>Використовує здібність: {0}</VFEA_Fireball.jobReportString>
+  <!--fireball-->
+  <VFEA_Fireball.verbProperties.label>fireball</VFEA_Fireball.verbProperties.label>
+  <!--metamorphosis (turtle)-->
+  <VFEA_MetamorphosisTurtle.label>metamorphosis (turtle)</VFEA_MetamorphosisTurtle.label>
+  <!--The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a tortoise, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.-->
+  <VFEA_MetamorphosisTurtle.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a tortoise, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.</VFEA_MetamorphosisTurtle.description>
+  <!--Using ability: {0}-->
+  <VFEA_MetamorphosisTurtle.jobReportString>Використовує здібність: {0}</VFEA_MetamorphosisTurtle.jobReportString>
+  <!--metamorphosis (turtle)-->
+  <VFEA_MetamorphosisTurtle.verbProperties.label>metamorphosis (turtle)</VFEA_MetamorphosisTurtle.verbProperties.label>
+  <!--metamorphosis (warg)-->
+  <VFEA_MetamorphosisWarg.label>metamorphosis (warg)</VFEA_MetamorphosisWarg.label>
+  <!--The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a warg, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.-->
+  <VFEA_MetamorphosisWarg.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a warg, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.</VFEA_MetamorphosisWarg.description>
+  <!--Using ability: {0}-->
+  <VFEA_MetamorphosisWarg.jobReportString>Використовує здібність: {0}</VFEA_MetamorphosisWarg.jobReportString>
+  <!--metamorphosis (warg)-->
+  <VFEA_MetamorphosisWarg.verbProperties.label>metamorphosis (warg)</VFEA_MetamorphosisWarg.verbProperties.label>
+</LanguageData>

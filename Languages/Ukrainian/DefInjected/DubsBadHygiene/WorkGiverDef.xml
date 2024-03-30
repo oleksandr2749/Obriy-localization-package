@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--fertilize-->
+  <PlaceFertilizer.label>fertilize</PlaceFertilizer.label>
+  <!--fertilizing-->
+  <PlaceFertilizer.gerund>fertilizing</PlaceFertilizer.gerund>
+  <!--fertilize-->
+  <PlaceFertilizer.verb>fertilize</PlaceFertilizer.verb>
+  <!--tip sewage-->
+  <TipSewage.label>tip sewage</TipSewage.label>
+  <!--tipping over-->
+  <TipSewage.gerund>tipping over</TipSewage.gerund>
+  <!--tip Sewage-->
+  <TipSewage.verb>tip Sewage</TipSewage.verb>
+  <!--drain water-->
+  <DrainWaterTank.label>drain water</DrainWaterTank.label>
+  <!--draining-->
+  <DrainWaterTank.gerund>draining</DrainWaterTank.gerund>
+  <!--drain-->
+  <DrainWaterTank.verb>drain</DrainWaterTank.verb>
+  <!--clear blockage-->
+  <ClearBlockage.label>clear blockage</ClearBlockage.label>
+  <!--clearing blockage-->
+  <ClearBlockage.gerund>clearing blockage</ClearBlockage.gerund>
+  <!--clear blockage-->
+  <ClearBlockage.verb>clear blockage</ClearBlockage.verb>
+  <!--wash patient-->
+  <washPatient.label>wash patient</washPatient.label>
+  <!--washing-->
+  <washPatient.gerund>washing</washPatient.gerund>
+  <!--wash-->
+  <washPatient.verb>wash</washPatient.verb>
+  <!--wash child-->
+  <washChild.label>wash child</washChild.label>
+  <!--washing-->
+  <washChild.gerund>washing</washChild.gerund>
+  <!--wash-->
+  <washChild.verb>wash</washChild.verb>
+  <!--clean bed pan-->
+  <DocCleanBedpan.label>clean bed pan</DocCleanBedpan.label>
+  <!--cleaning-->
+  <DocCleanBedpan.gerund>cleaning</DocCleanBedpan.gerund>
+  <!--clean-->
+  <DocCleanBedpan.verb>clean</DocCleanBedpan.verb>
+  <!--clean bed pan-->
+  <cleanBedpan.label>clean bed pan</cleanBedpan.label>
+  <!--cleaning-->
+  <cleanBedpan.gerund>cleaning</cleanBedpan.gerund>
+  <!--clean-->
+  <cleanBedpan.verb>clean</cleanBedpan.verb>
+  <!--do burn pit bills-->
+  <DoBillsBurnPit.label>do burn pit bills</DoBillsBurnPit.label>
+  <!--burning at-->
+  <DoBillsBurnPit.gerund>burning at</DoBillsBurnPit.gerund>
+  <!--burn-->
+  <DoBillsBurnPit.verb>burn</DoBillsBurnPit.verb>
+  <!--shovel sewage into barrels-->
+  <RemoveSewage.label>shovel sewage into barrels</RemoveSewage.label>
+  <!--removing sewage-->
+  <RemoveSewage.gerund>removing sewage</RemoveSewage.gerund>
+  <!--remove sewage-->
+  <RemoveSewage.verb>remove sewage</RemoveSewage.verb>
+  <!--unload washing-->
+  <UnloadWashing.label>unload washing</UnloadWashing.label>
+  <!--unloading washing-->
+  <UnloadWashing.gerund>unloading washing</UnloadWashing.gerund>
+  <!--unload washing-->
+  <UnloadWashing.verb>unload washing</UnloadWashing.verb>
+  <!--load washing-->
+  <LoadWashing.label>load washing</LoadWashing.label>
+  <!--loading washing-->
+  <LoadWashing.gerund>loading washing</LoadWashing.gerund>
+  <!--load washing-->
+  <LoadWashing.verb>load washing</LoadWashing.verb>
+  <!--take compost out of composter-->
+  <UnloadComposter.label>take compost out of composter</UnloadComposter.label>
+  <!--taking compost from-->
+  <UnloadComposter.gerund>taking compost from</UnloadComposter.gerund>
+  <!--take compost-->
+  <UnloadComposter.verb>take compost</UnloadComposter.verb>
+  <!--fill composter-->
+  <FillComposter.label>fill composter</FillComposter.label>
+  <!--filling-->
+  <FillComposter.gerund>filling</FillComposter.gerund>
+  <!--fill-->
+  <FillComposter.verb>fill</FillComposter.verb>
+  <!--empty septic tank-->
+  <emptySepticTank.label>empty septic tank</emptySepticTank.label>
+  <!--emptying-->
+  <emptySepticTank.gerund>emptying</emptySepticTank.gerund>
+  <!--empty-->
+  <emptySepticTank.verb>empty</emptySepticTank.verb>
+  <!--empty septic tank-->
+  <WardenEmptySepticTank.label>empty septic tank</WardenEmptySepticTank.label>
+  <!--emptying-->
+  <WardenEmptySepticTank.gerund>emptying</WardenEmptySepticTank.gerund>
+  <!--empty-->
+  <WardenEmptySepticTank.verb>empty</WardenEmptySepticTank.verb>
+  <!--refill water-->
+  <RefillWater.label>refill water</RefillWater.label>
+  <!--refilling-->
+  <RefillWater.gerund>refilling</RefillWater.gerund>
+  <!--refill-->
+  <RefillWater.verb>refill</RefillWater.verb>
+  <!--refill water-->
+  <WardenRefillWater.label>refill water</WardenRefillWater.label>
+  <!--refilling-->
+  <WardenRefillWater.gerund>refilling</WardenRefillWater.gerund>
+  <!--refill-->
+  <WardenRefillWater.verb>refill</WardenRefillWater.verb>
+  <!--clean filth indoors-->
+  <CleanFilthIndoors.label>clean filth indoors</CleanFilthIndoors.label>
+  <!--cleaning-->
+  <CleanFilthIndoors.gerund>cleaning</CleanFilthIndoors.gerund>
+  <!--clean-->
+  <CleanFilthIndoors.verb>clean</CleanFilthIndoors.verb>
+</LanguageData>

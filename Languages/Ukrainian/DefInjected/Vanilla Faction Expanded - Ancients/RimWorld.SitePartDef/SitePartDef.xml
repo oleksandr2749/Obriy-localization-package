@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--looted vault-->
+  <VFEA_LootedVault.label>looted vault</VFEA_LootedVault.label>
+  <!--A recently-discovered looted vault.-->
+  <VFEA_LootedVault.description>A recently-discovered looted vault.</VFEA_LootedVault.description>
+  <!--sealed vault-->
+  <VFEA_SealedVault.label>sealed vault</VFEA_SealedVault.label>
+  <!--A recently-discovered sealed vault.-->
+  <VFEA_SealedVault.description>A recently-discovered sealed vault.</VFEA_SealedVault.description>
+  <!--enemy presence-->
+  <VFEA_AncientSoldierHostile.label>enemy presence</VFEA_AncientSoldierHostile.label>
+  <!--Ennemies are present in this place.-->
+  <VFEA_AncientSoldierHostile.description>Ennemies are present in this place.</VFEA_AncientSoldierHostile.description>
+</LanguageData>
