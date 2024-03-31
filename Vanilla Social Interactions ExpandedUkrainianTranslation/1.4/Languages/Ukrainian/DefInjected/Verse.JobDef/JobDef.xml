@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--venting to TargetA.-->
+  <VSIE_VentToFriend.reportString>venting to TargetA.</VSIE_VentToFriend.reportString>
+  <!--hearing venting from TargetA.-->
+  <VSIE_StandAndHearVenting.reportString>hearing venting from TargetA.</VSIE_StandAndHearVenting.reportString>
+  <!--taking TargetA.-->
+  <VSIE_TakingBeer.reportString>taking TargetA.</VSIE_TakingBeer.reportString>
+  <!--talking to TargetA.-->
+  <VSIE_TalkToSecondPawn.reportString>talking to TargetA.</VSIE_TalkToSecondPawn.reportString>
+  <!--honoring TargetA.-->
+  <VSIE_HonorPawn.reportString>honoring TargetA.</VSIE_HonorPawn.reportString>
+  <!--skygazing with TargetB.-->
+  <VSIE_Skygaze.reportString>skygazing with TargetB.</VSIE_Skygaze.reportString>
+  <!--viewing art with TargetB.-->
+  <VSIE_ViewArtTogether.reportString>viewing art with TargetB.</VSIE_ViewArtTogether.reportString>
+  <!--building snowman with TargetB.-->
+  <VSIE_BuildSnowmanTogether.reportString>building snowman with TargetB.</VSIE_BuildSnowmanTogether.reportString>
+  <!--walking with TargetB.-->
+  <VSIE_GotoWith.reportString>walking with TargetB.</VSIE_GotoWith.reportString>
+  <!--talking to Target.-->
+  <VSIE_GotoTalkToSecondPawn.reportString>talking to Target.</VSIE_GotoTalkToSecondPawn.reportString>
+  <!--walking with TargetA.-->
+  <VSIE_Follow.reportString>walking with TargetA.</VSIE_Follow.reportString>
+  <!--lovin'.-->
+  <VSIE_OneStandLovin.reportString>lovin'.</VSIE_OneStandLovin.reportString>
+  <!--watching television.-->
+  <VSIE_WatchTelevisionTogether.reportString>watching television.</VSIE_WatchTelevisionTogether.reportString>
+  <!--dating.-->
+  <VSIE_HaveMealTogether.reportString>dating.</VSIE_HaveMealTogether.reportString>
+</LanguageData>

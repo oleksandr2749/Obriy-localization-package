@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--gather animal resource-->
+  <VEF_AnimalResource.label>gather animal resource</VEF_AnimalResource.label>
+  <!--gathering animal resource from-->
+  <VEF_AnimalResource.gerund>gathering animal resource from</VEF_AnimalResource.gerund>
+  <!--gather animal resource from-->
+  <VEF_AnimalResource.verb>gather animal resource from</VEF_AnimalResource.verb>
+  <!--destroy items-->
+  <VEF_DestroyItems.label>destroy items</VEF_DestroyItems.label>
+  <!--destroying items-->
+  <VEF_DestroyItems.gerund>destroying items</VEF_DestroyItems.gerund>
+  <!--destroy items-->
+  <VEF_DestroyItems.verb>destroy items</VEF_DestroyItems.verb>
+  <!--construct placed frames-->
+  <VEF_Art_ConstructFinishFrames.label>construct placed frames</VEF_Art_ConstructFinishFrames.label>
+  <!--working on-->
+  <VEF_Art_ConstructFinishFrames.gerund>working on</VEF_Art_ConstructFinishFrames.gerund>
+  <!--work on-->
+  <VEF_Art_ConstructFinishFrames.verb>work on</VEF_Art_ConstructFinishFrames.verb>
+  <!--deliver resources to frames-->
+  <VEF_Art_ConstructDeliverResourcesToFrames.label>deliver resources to frames</VEF_Art_ConstructDeliverResourcesToFrames.label>
+  <!--working on-->
+  <VEF_Art_ConstructDeliverResourcesToFrames.gerund>working on</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+  <!--work on-->
+  <VEF_Art_ConstructDeliverResourcesToFrames.verb>work on</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+  <!--deliver resources to blueprints-->
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+  <!--working on-->
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>working on</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+  <!--work on-->
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.verb>work on</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+  <!--bringing ingredient-->
+  <IP_InsertFirstIngredient.label>bringing ingredient</IP_InsertFirstIngredient.label>
+  <!--bringing ingredient to-->
+  <IP_InsertFirstIngredient.gerund>bringing ingredient to</IP_InsertFirstIngredient.gerund>
+  <!--bring ingredient to-->
+  <IP_InsertFirstIngredient.verb>bring ingredient to</IP_InsertFirstIngredient.verb>
+  <!--bringing ingredient-->
+  <IP_InsertSecondIngredient.label>bringing ingredient</IP_InsertSecondIngredient.label>
+  <!--bringing ingredient to-->
+  <IP_InsertSecondIngredient.gerund>bringing ingredient to</IP_InsertSecondIngredient.gerund>
+  <!--bring ingredient to-->
+  <IP_InsertSecondIngredient.verb>bring ingredient to</IP_InsertSecondIngredient.verb>
+  <!--bringing ingredient-->
+  <IP_InsertThirdIngredient.label>bringing ingredient</IP_InsertThirdIngredient.label>
+  <!--bringing ingredient to-->
+  <IP_InsertThirdIngredient.gerund>bringing ingredient to</IP_InsertThirdIngredient.gerund>
+  <!--bring ingredient to-->
+  <IP_InsertThirdIngredient.verb>bring ingredient to</IP_InsertThirdIngredient.verb>
+  <!--removing finished product-->
+  <IP_RemoveProduct.label>removing finished product</IP_RemoveProduct.label>
+  <!--removing finished product from-->
+  <IP_RemoveProduct.gerund>removing finished product from</IP_RemoveProduct.gerund>
+  <!--remove finished product from-->
+  <IP_RemoveProduct.verb>remove finished product from</IP_RemoveProduct.verb>
+  <!--drain out of storage-->
+  <PS_DrainOutOfStorage.label>drain out of storage</PS_DrainOutOfStorage.label>
+  <!--draining out of storage-->
+  <PS_DrainOutOfStorage.gerund>draining out of storage</PS_DrainOutOfStorage.gerund>
+  <!--drain out of storage-->
+  <PS_DrainOutOfStorage.verb>drain out of storage</PS_DrainOutOfStorage.verb>
+  <!--fill storage-->
+  <PS_FillStorage.label>fill storage</PS_FillStorage.label>
+  <!--filling storage-->
+  <PS_FillStorage.gerund>filling storage</PS_FillStorage.gerund>
+  <!--fill storage-->
+  <PS_FillStorage.verb>fill storage</PS_FillStorage.verb>
+  <!--pick up result from processor-->
+  <PS_PickUpProcessor.label>pick up result from processor</PS_PickUpProcessor.label>
+  <!--picking up result-->
+  <PS_PickUpProcessor.gerund>picking up result</PS_PickUpProcessor.gerund>
+  <!--pick up result-->
+  <PS_PickUpProcessor.verb>pick up result</PS_PickUpProcessor.verb>
+  <!--bring ingredient to processor-->
+  <PS_BringToProcessor.label>bring ingredient to processor</PS_BringToProcessor.label>
+  <!--bringing ingredient-->
+  <PS_BringToProcessor.gerund>bringing ingredient</PS_BringToProcessor.gerund>
+  <!--bring ingredient-->
+  <PS_BringToProcessor.verb>bring ingredient</PS_BringToProcessor.verb>
+</LanguageData>

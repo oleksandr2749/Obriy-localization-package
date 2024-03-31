@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--enemies present-->
+  <KCSG_EnnemiesPresence.label>enemies present</KCSG_EnnemiesPresence.label>
+  <!--Enemies are present in this place.-->
+  <KCSG_EnnemiesPresence.description>Enemies are present in this place.</KCSG_EnnemiesPresence.description>
+</LanguageData>

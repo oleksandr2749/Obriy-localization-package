@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--meal together-->
+  <VSIE_MealTogether.label>meal together</VSIE_MealTogether.label>
+  <!--The date has been called off.-->
+  <VSIE_MealTogether.calledOffMessage>The date has been called off.</VSIE_MealTogether.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_MealTogether.finishedMessage>The date has finished.</VSIE_MealTogether.finishedMessage>
+  <!--{ORGANIZER_labelShort} having a romantic meal with {COMPANION_labelShort}.-->
+  <VSIE_MealTogether.letterText>{ORGANIZER_labelShort} having a romantic meal with {COMPANION_labelShort}.</VSIE_MealTogether.letterText>
+  <!--Meal together-->
+  <VSIE_MealTogether.letterTitle>Meal together</VSIE_MealTogether.letterTitle>
+  <!--movie night-->
+  <VSIE_MovieNight.label>movie night</VSIE_MovieNight.label>
+  <!--The date has been called off.-->
+  <VSIE_MovieNight.calledOffMessage>The date has been called off.</VSIE_MovieNight.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_MovieNight.finishedMessage>The date has finished.</VSIE_MovieNight.finishedMessage>
+  <!--{ORGANIZER_labelShort} is having a movie night with {COMPANION_labelShort}.-->
+  <VSIE_MovieNight.letterText>{ORGANIZER_labelShort} is having a movie night with {COMPANION_labelShort}.</VSIE_MovieNight.letterText>
+  <!--Movie night-->
+  <VSIE_MovieNight.letterTitle>Movie night</VSIE_MovieNight.letterTitle>
+  <!--building snowmen-->
+  <VSIE_BuildingSnowmen.label>building snowmen</VSIE_BuildingSnowmen.label>
+  <!--The date has been called off.-->
+  <VSIE_BuildingSnowmen.calledOffMessage>The date has been called off.</VSIE_BuildingSnowmen.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_BuildingSnowmen.finishedMessage>The date has finished.</VSIE_BuildingSnowmen.finishedMessage>
+  <!--{ORGANIZER_labelShort} is building snowmen with {COMPANION_labelShort}.-->
+  <VSIE_BuildingSnowmen.letterText>{ORGANIZER_labelShort} is building snowmen with {COMPANION_labelShort}.</VSIE_BuildingSnowmen.letterText>
+  <!--Building snowmen-->
+  <VSIE_BuildingSnowmen.letterTitle>Building snowmen</VSIE_BuildingSnowmen.letterTitle>
+  <!--viewing art together-->
+  <VSIE_ViewingArtTogether.label>viewing art together</VSIE_ViewingArtTogether.label>
+  <!--The date has been called off.-->
+  <VSIE_ViewingArtTogether.calledOffMessage>The date has been called off.</VSIE_ViewingArtTogether.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_ViewingArtTogether.finishedMessage>The date has finished.</VSIE_ViewingArtTogether.finishedMessage>
+  <!--{ORGANIZER_labelShort} is viewing art with {COMPANION_labelShort}.-->
+  <VSIE_ViewingArtTogether.letterText>{ORGANIZER_labelShort} is viewing art with {COMPANION_labelShort}.</VSIE_ViewingArtTogether.letterText>
+  <!--Viewing art-->
+  <VSIE_ViewingArtTogether.letterTitle>Viewing art</VSIE_ViewingArtTogether.letterTitle>
+  <!--skygazing-->
+  <VSIE_Skygazing.label>skygazing</VSIE_Skygazing.label>
+  <!--The date has been called off.-->
+  <VSIE_Skygazing.calledOffMessage>The date has been called off.</VSIE_Skygazing.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_Skygazing.finishedMessage>The date has finished.</VSIE_Skygazing.finishedMessage>
+  <!--{ORGANIZER_labelShort} is skygazing with {COMPANION_labelShort}.-->
+  <VSIE_Skygazing.letterText>{ORGANIZER_labelShort} is skygazing with {COMPANION_labelShort}.</VSIE_Skygazing.letterText>
+  <!--Skygazing-->
+  <VSIE_Skygazing.letterTitle>Skygazing</VSIE_Skygazing.letterTitle>
+  <!--going for a walk-->
+  <VSIE_GoingForAWalk.label>going for a walk</VSIE_GoingForAWalk.label>
+  <!--The date has been called off.-->
+  <VSIE_GoingForAWalk.calledOffMessage>The date has been called off.</VSIE_GoingForAWalk.calledOffMessage>
+  <!--The date has finished.-->
+  <VSIE_GoingForAWalk.finishedMessage>The date has finished.</VSIE_GoingForAWalk.finishedMessage>
+  <!--{ORGANIZER_labelShort} is going for a walk with {COMPANION_labelShort}.-->
+  <VSIE_GoingForAWalk.letterText>{ORGANIZER_labelShort} is going for a walk with {COMPANION_labelShort}.</VSIE_GoingForAWalk.letterText>
+  <!--Going for a walk-->
+  <VSIE_GoingForAWalk.letterTitle>Going for a walk</VSIE_GoingForAWalk.letterTitle>
+  <!--grabbing beer-->
+  <VSIE_GrabbingBeer.label>grabbing beer</VSIE_GrabbingBeer.label>
+  <!--The beer party has been called off.-->
+  <VSIE_GrabbingBeer.calledOffMessage>The beer party has been called off.</VSIE_GrabbingBeer.calledOffMessage>
+  <!--The beer party has finished.-->
+  <VSIE_GrabbingBeer.finishedMessage>The beer party has finished.</VSIE_GrabbingBeer.finishedMessage>
+  <!--{ORGANIZER_labelShort} is grabbing a beer with {COMPANION_labelShort}.-->
+  <VSIE_GrabbingBeer.letterText>{ORGANIZER_labelShort} is grabbing a beer with {COMPANION_labelShort}.</VSIE_GrabbingBeer.letterText>
+  <!--Beer party-->
+  <VSIE_GrabbingBeer.letterTitle>Beer party</VSIE_GrabbingBeer.letterTitle>
+  <!--binge party-->
+  <VSIE_BingeParty.label>binge party</VSIE_BingeParty.label>
+  <!--The feast has been called off.-->
+  <VSIE_BingeParty.calledOffMessage>The feast has been called off.</VSIE_BingeParty.calledOffMessage>
+  <!--The feast has finished.-->
+  <VSIE_BingeParty.finishedMessage>The feast has finished.</VSIE_BingeParty.finishedMessage>
+  <!--{ORGANIZER_labelShort} suggests doing a little binge party. Be warned - Binge parties can last up to a few hours. Colonists will binge on food and drugs until it is over. Simply draft your colonists to stop them taking part in the binge party.-->
+  <VSIE_BingeParty.letterText>{ORGANIZER_labelShort} suggests doing a little binge party. Be warned - Binge parties can last up to a few hours. Colonists will binge on food and drugs until it is over. Simply draft your colonists to stop them taking part in the binge party.</VSIE_BingeParty.letterText>
+  <!--Binge party-->
+  <VSIE_BingeParty.letterTitle>Binge party</VSIE_BingeParty.letterTitle>
+  <!--outdoor party-->
+  <VSIE_OutdoorParty.label>outdoor party</VSIE_OutdoorParty.label>
+  <!--The outdoor party has been called off.-->
+  <VSIE_OutdoorParty.calledOffMessage>The outdoor party has been called off.</VSIE_OutdoorParty.calledOffMessage>
+  <!--The outdoor party has finished.-->
+  <VSIE_OutdoorParty.finishedMessage>The outdoor party has finished.</VSIE_OutdoorParty.finishedMessage>
+  <!--{ORGANIZER_labelShort} suggests having an outdoors party. Colonists will go outdoors and have a campfire, and then sit around it and talk.-->
+  <VSIE_OutdoorParty.letterText>{ORGANIZER_labelShort} suggests having an outdoors party. Colonists will go outdoors and have a campfire, and then sit around it and talk.</VSIE_OutdoorParty.letterText>
+  <!--Outdoor party-->
+  <VSIE_OutdoorParty.letterTitle>Outdoor party</VSIE_OutdoorParty.letterTitle>
+  <!--funeral-->
+  <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+  <!--The funeral has been called off.-->
+  <VSIE_Funeral.calledOffMessage>The funeral has been called off.</VSIE_Funeral.calledOffMessage>
+  <!--The funeral has finished.-->
+  <VSIE_Funeral.finishedMessage>The funeral has finished.</VSIE_Funeral.finishedMessage>
+  <!--Colonists gather over the {DEADPAWN_labelShort}'s grave to honor {DEADPAWN_possessive} memory.-->
+  <VSIE_Funeral.letterText>Colonists gather over the {DEADPAWN_labelShort}'s grave to honor {DEADPAWN_possessive} memory.</VSIE_Funeral.letterText>
+  <!--Funeral-->
+  <VSIE_Funeral.letterTitle>Funeral</VSIE_Funeral.letterTitle>
+  <!--birthday-->
+  <VSIE_BirthdayParty.label>birthday</VSIE_BirthdayParty.label>
+  <!--The birthday party has been called off.-->
+  <VSIE_BirthdayParty.calledOffMessage>The birthday party has been called off.</VSIE_BirthdayParty.calledOffMessage>
+  <!--The birthday party has finished.-->
+  <VSIE_BirthdayParty.finishedMessage>The birthday party has finished.</VSIE_BirthdayParty.finishedMessage>
+  <!--{ORGANIZER_labelShort} is throwing a birthday party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.-->
+  <VSIE_BirthdayParty.letterText>{ORGANIZER_labelShort} is throwing a birthday party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost.</VSIE_BirthdayParty.letterText>
+  <!--Birthday party-->
+  <VSIE_BirthdayParty.letterTitle>Birthday party</VSIE_BirthdayParty.letterTitle>
+</LanguageData>

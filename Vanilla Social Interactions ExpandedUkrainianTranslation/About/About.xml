@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Social Interactions ExpandedUkrainianTranslation</name>
+  <author>T80</author>
+  <packageId>t80.vanillaexpanded.vanillasocialinteractionsexpandedukrainian</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <description>Vanilla Social Interactions Expanded Translation</description>
+  <modDependencies>
+    <li>
+      <packageId>vanillaexpanded.vanillasocialinteractionsexpanded</packageId>
+      <displayName>Vanilla Social Interactions Expanded</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+  </loadAfter>
+</ModMetaData>

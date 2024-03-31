@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--inspired planting-->
+  <VSIE_Inspired_Planting.label>inspired planting</VSIE_Inspired_Planting.label>
+  <!--Inspired: Inspired planting-->
+  <VSIE_Inspired_Planting.baseInspectLine>Inspired: Inspired planting</VSIE_Inspired_Planting.baseInspectLine>
+  <!--[PAWN_pronoun] will be able to sow any plants regardless of their Plants skill level for the next 8 days.\n\n[PAWN_pronoun] would like to sow at least 50 plants.-->
+  <VSIE_Inspired_Planting.beginLetter>[PAWN_pronoun] will be able to sow any plants regardless of their Plants skill level for the next 8 days.\n\n[PAWN_pronoun] would like to sow at least 50 plants.</VSIE_Inspired_Planting.beginLetter>
+  <!--{0} is no longer inspired (inspired planting).-->
+  <VSIE_Inspired_Planting.endMessage>{0} is no longer inspired (inspired planting).</VSIE_Inspired_Planting.endMessage>
+  <!--party frenzy-->
+  <VSIE_Party_Frenzy.label>party frenzy</VSIE_Party_Frenzy.label>
+  <!--Inspired: Party frenzy-->
+  <VSIE_Party_Frenzy.baseInspectLine>Inspired: Party frenzy</VSIE_Party_Frenzy.baseInspectLine>
+  <!--[PAWN_pronoun] will gain recreation twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to attend a party.-->
+  <VSIE_Party_Frenzy.beginLetter>[PAWN_pronoun] will gain recreation twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to attend a party.</VSIE_Party_Frenzy.beginLetter>
+  <!--{0} is no longer inspired (work frenzy).-->
+  <VSIE_Party_Frenzy.endMessage>{0} is no longer inspired (work frenzy).</VSIE_Party_Frenzy.endMessage>
+  <!--inspired research-->
+  <VSIE_Inspired_Research.label>inspired research</VSIE_Inspired_Research.label>
+  <!--Inspired: Inspired research-->
+  <VSIE_Inspired_Research.baseInspectLine>Inspired: Inspired research</VSIE_Inspired_Research.baseInspectLine>
+  <!--[PAWN_pronoun] will conduct research 5x as fast for the next 8 days or when the research project is completed.\n\n[PAWN_pronoun] would like to complete a research project.-->
+  <VSIE_Inspired_Research.beginLetter>[PAWN_pronoun] will conduct research 5x as fast for the next 8 days or when the research project is completed.\n\n[PAWN_pronoun] would like to complete a research project.</VSIE_Inspired_Research.beginLetter>
+  <!--{0} is no longer inspired (inspired research).-->
+  <VSIE_Inspired_Research.endMessage>{0} is no longer inspired (inspired research).</VSIE_Inspired_Research.endMessage>
+  <!--inspired mining-->
+  <VSIE_Inspired_Mining.label>inspired mining</VSIE_Inspired_Mining.label>
+  <!--Inspired: Inspired mining-->
+  <VSIE_Inspired_Mining.baseInspectLine>Inspired: Inspired mining</VSIE_Inspired_Mining.baseInspectLine>
+  <!--[PAWN_pronoun] will gain twice the yield of any rocks or ore mined for the next 8 days.\n\n[PAWN_pronoun] would like to mine at least 50 rocks.-->
+  <VSIE_Inspired_Mining.beginLetter>[PAWN_pronoun] will gain twice the yield of any rocks or ore mined for the next 8 days.\n\n[PAWN_pronoun] would like to mine at least 50 rocks.</VSIE_Inspired_Mining.beginLetter>
+  <!--{0} is no longer inspired (inspired mining).-->
+  <VSIE_Inspired_Mining.endMessage>{0} is no longer inspired (inspired mining).</VSIE_Inspired_Mining.endMessage>
+  <!--learning frenzy-->
+  <VSIE_Learning_Frenzy.label>learning frenzy</VSIE_Learning_Frenzy.label>
+  <!--Inspired: Learning frenzy-->
+  <VSIE_Learning_Frenzy.baseInspectLine>Inspired: Learning frenzy</VSIE_Learning_Frenzy.baseInspectLine>
+  <!--[PAWN_pronoun] will gain experience in skill at twice the normal rate for the next 8 days.\n\n[PAWN_pronoun] would like to level up any skill to level 10.-->
+  <VSIE_Learning_Frenzy.beginLetter>[PAWN_pronoun] will gain experience in skill at twice the normal rate for the next 8 days.\n\n[PAWN_pronoun] would like to level up any skill to level 10.</VSIE_Learning_Frenzy.beginLetter>
+  <!--{0} is no longer inspired (learning frenzy).-->
+  <VSIE_Learning_Frenzy.endMessage>{0} is no longer inspired (learning frenzy).</VSIE_Learning_Frenzy.endMessage>
+  <!--inspired cooking-->
+  <VSIE_Inspired_Cooking.label>inspired cooking</VSIE_Inspired_Cooking.label>
+  <!--Inspired: Inspired cooking-->
+  <VSIE_Inspired_Cooking.baseInspectLine>Inspired: Inspired cooking</VSIE_Inspired_Cooking.baseInspectLine>
+  <!--[PAWN_pronoun] will cook twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to cook at least 50 meals.-->
+  <VSIE_Inspired_Cooking.beginLetter>[PAWN_pronoun] will cook twice as fast for the next 8 days.\n\n[PAWN_pronoun] would like to cook at least 50 meals.</VSIE_Inspired_Cooking.beginLetter>
+  <!--{0} is no longer inspired (inspired cooking).-->
+  <VSIE_Inspired_Cooking.endMessage>{0} is no longer inspired (inspired cooking).</VSIE_Inspired_Cooking.endMessage>
+  <!--flirting frenzy-->
+  <VSIE_Flirting_Frenzy.label>flirting frenzy</VSIE_Flirting_Frenzy.label>
+  <!--Inspired: Flirting frenzy-->
+  <VSIE_Flirting_Frenzy.baseInspectLine>Inspired: Flirting frenzy</VSIE_Flirting_Frenzy.baseInspectLine>
+  <!--[PAWN_pronoun] will be much nicer to others in social interactions, as well as much more sophisticated in romantic interactions, resulting in lower chances of being rebuffed for the next 8 days.\n\n[PAWN_pronoun] would like to engage in some lovin’.-->
+  <VSIE_Flirting_Frenzy.beginLetter>[PAWN_pronoun] will be much nicer to others in social interactions, as well as much more sophisticated in romantic interactions, resulting in lower chances of being rebuffed for the next 8 days.\n\n[PAWN_pronoun] would like to engage in some lovin’.</VSIE_Flirting_Frenzy.beginLetter>
+  <!--{0} is no longer inspired (flirting frenzy).-->
+  <VSIE_Flirting_Frenzy.endMessage>{0} is no longer inspired (flirting frenzy).</VSIE_Flirting_Frenzy.endMessage>
+  <!--melee frenzy-->
+  <VSIE_Melee_Frenzy.label>melee frenzy</VSIE_Melee_Frenzy.label>
+  <!--Inspired: Melee frenzy-->
+  <VSIE_Melee_Frenzy.baseInspectLine>Inspired: Melee frenzy</VSIE_Melee_Frenzy.baseInspectLine>
+  <!--[PAWN_pronoun] will land all their melee hits for the next 8 days.\n\n[PAWN_pronoun] would like to go defeat an enemy in melee combat.-->
+  <VSIE_Melee_Frenzy.beginLetter>[PAWN_pronoun] will land all their melee hits for the next 8 days.\n\n[PAWN_pronoun] would like to go defeat an enemy in melee combat.</VSIE_Melee_Frenzy.beginLetter>
+  <!--{0} is no longer inspired (melee frenzy).-->
+  <VSIE_Melee_Frenzy.endMessage>{0} is no longer inspired (melee frenzy).</VSIE_Melee_Frenzy.endMessage>
+</LanguageData>

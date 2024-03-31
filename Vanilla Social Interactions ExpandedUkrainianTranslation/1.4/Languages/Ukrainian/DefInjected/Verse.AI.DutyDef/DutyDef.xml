@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--meal together-->
+  <VSIE_MealTogether.label>meal together</VSIE_MealTogether.label>
+  <!--movie night-->
+  <VSIE_MovieNight.label>movie night</VSIE_MovieNight.label>
+  <!--building snowmen-->
+  <VSIE_BuildingSnowmen.label>building snowmen</VSIE_BuildingSnowmen.label>
+  <!--viewing art together-->
+  <VSIE_ViewingArtTogether.label>viewing art together</VSIE_ViewingArtTogether.label>
+  <!--skygazing-->
+  <VSIE_Skygazing.label>skygazing</VSIE_Skygazing.label>
+  <!--going for a walk-->
+  <VSIE_GoingForAWalk.label>going for a walk</VSIE_GoingForAWalk.label>
+  <!--grabbing beer-->
+  <VSIE_GrabbingBeer.label>grabbing beer</VSIE_GrabbingBeer.label>
+  <!--funeral-->
+  <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+  <!--outdoor party-->
+  <VSIE_OutdoorParty.label>outdoor party</VSIE_OutdoorParty.label>
+  <!--binge party-->
+  <VSIE_BingeParty.label>binge party</VSIE_BingeParty.label>
+</LanguageData>
