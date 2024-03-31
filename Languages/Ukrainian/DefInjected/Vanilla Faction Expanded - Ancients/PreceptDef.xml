@@ -3,9 +3,9 @@
   <!--forbidden-->
   <VFEA_Recruiting_Forbidden.label>forbidden</VFEA_Recruiting_Forbidden.label>
   <!--We do not need anyone’s help, and will not accept any outsiders into our ranks.-->
-  <VFEA_Recruiting_Forbidden.description>We do not need anyone’s help, and will not accept any outsiders into our ranks.</VFEA_Recruiting_Forbidden.description>
+  <VFEA_Recruiting_Forbidden.description>Ми не потребуємо нічиєї допомоги і не приймемо до себе чужаків.</VFEA_Recruiting_Forbidden.description>
   <!--forbidden-->
   <VFEA_BeingRecruited_Forbidden.label>forbidden</VFEA_BeingRecruited_Forbidden.label>
   <!--We are a proud nation and will not join anyone, as it brings us great shame.-->
-  <VFEA_BeingRecruited_Forbidden.description>We are a proud nation and will not join anyone, as it brings us great shame.</VFEA_BeingRecruited_Forbidden.description>
+  <VFEA_BeingRecruited_Forbidden.description>Ми горда нація і приєднання до будь кого, принесе нам велику ганьбу.</VFEA_BeingRecruited_Forbidden.description>
 </LanguageData>

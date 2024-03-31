@@ -3,7 +3,7 @@
   <!--isolationist-->
   <VFEA_Isolationist.label>ізоляціонізм</VFEA_Isolationist.label>
   <!--Trust is a resource in low supply, as everyone we meet is the enemy.-->
-  <VFEA_Isolationist.description>Довіра - це ресурс дефіцитний, адже кожен, кого ми зустрічаємо, є ворогом.</VFEA_Isolationist.description>
+  <VFEA_Isolationist.description>Довіра - це ресурс дефіцитний, адже кожен, кого ми зустрічаємо - ворог.</VFEA_Isolationist.description>
   <!--creation(tag=meme_Isolationist)        ->The people of the [place_summary] [place_name] squabbled endlessly among themselves, and [deity0_name] became tired of discord and anointed [memberNamePlural] as the only rightful rulers of every living being.-->
   <VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Isolationist)        -&gt;Люди, які живуть у [place_summary] [place_name] нескінченно сварилися між собою, та [deity0_name] втомилися від розбрату і нарікли [memberNamePlural] як єдиних законних володарів кожної живої істоти.</VFEA_Isolationist.descriptionMaker.rules.rulesStrings.0>
   <!--episode(uses=1,tag=meme_Isolationist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, for they are your enemy, and peace with them was never an option"-->

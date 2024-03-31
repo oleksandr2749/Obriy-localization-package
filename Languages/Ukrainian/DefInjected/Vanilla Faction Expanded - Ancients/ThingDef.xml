@@ -17,7 +17,7 @@
   <!--A large Vault door, often found in the entrance room. Due to self-preservation mechanism, the door is permanently locked and requires some degree of hacking to open.-->
   <VFEA_LargeLockedDoor.description>Завдяки механізму самозбереження, двері постійно замкнені і потребують певного рівня злому, щоб їх відчинити.</VFEA_LargeLockedDoor.description>
   <!--ancient supply crate-->
-  <VFEA_AncientSupplyCrate.label>стародавній ящик постачання</VFEA_AncientSupplyCrate.label>
+  <VFEA_AncientSupplyCrate.label>стародавній ящик з припасами</VFEA_AncientSupplyCrate.label>
   <!--An ancient crate with some building resources and components that deployed using a parachute. Hacking it takes a short time and may cause a raid, but it's bound to contain ancient technology.-->
   <VFEA_AncientSupplyCrate.description>Старовинний ящик з деякими будівельними ресурсами та компонентами. Злом займе небагато часу але може привернути  до вас увагу ворогів.</VFEA_AncientSupplyCrate.description>
   <!--ancient bed-->
@@ -31,11 +31,11 @@
   <!--ancient cryptosleep suspender-->
   <VFEA_AncientCryptosleepSuspender.label>старовинне ліжко криптосну</VFEA_AncientCryptosleepSuspender.label>
   <!--An ancient medical pod that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.-->
-  <VFEA_AncientCryptosleepSuspender.description>В давні часи використовувалося в лікарнях. Занурення в частковому криптосон, сповільняє погіршення ран і сприяє зціленню, хоча і з тими ж, більш легкими, побічними ефектами криптосну. Цей пристрій був побудований давно забутою цивілізацією, і технологія більше не може бути відтворена. Він ніколи не вийде з ладу, а сонячні спалахи покращують ефективність..</VFEA_AncientCryptosleepSuspender.description>
+  <VFEA_AncientCryptosleepSuspender.description>В давні часи використовувалося в лікарнях. Занурення в частковому криптосон, сповільняє погіршення ран і сприяє зціленню, хоча і з тими ж, більш легкими, побічними ефектами криптосну. Цей пристрій був побудований давно забутою цивілізацією, і технологія більше не може бути відтворена. Ніколи не вийде з ладу, а сонячні спалахи покращують ефективність.</VFEA_AncientCryptosleepSuspender.description>
   <!--gene-tailoring pod-->
-  <VFEA_GeneTailoringPod.label>капсула генетичної модифікації</VFEA_GeneTailoringPod.label>
+  <VFEA_GeneTailoringPod.label>капсула вживлення генів</VFEA_GeneTailoringPod.label>
   <!--The primary element in the Ancients’ project of developing super soldiers, the Gene-tailoring Pod is the result of many dubious experiments in order to take on the Mechanoids. Soldiers are expected to lie in the pod and are then injected with single-use nanomachines designed to augment their physiology.\n\nThis is the main module responsible for creating super soldiers, but to improve the quality, efficiency and safety of the project, other equipment needs to be placed in the vicinity of the gene-tailoring pod.-->
-  <VFEA_GeneTailoringPod.description>Основний елемент проекту стародавніх по створенню суперсолдатів, капсула генної модифікації, є результатом багатьох сумнівних експериментів, проведених з метою боротьби з механоїдами.\n\nМає багато портів для під'єднання додаткових модулів, а саме така максимальна кількість портів для кожного модулю: 10 помп, 2 діалізатори, 2 центрифуги, 10 симуляційних рушіїв, 2 стабілізатори геному, 1 макротермометр геному, 1 індуктор стабілізуючого слизу.</VFEA_GeneTailoringPod.description>
+  <VFEA_GeneTailoringPod.description>Основний елемент проекту Стародавніх по створенню суперсолдатів, капсула вживлення генів, є результатом багатьох сумнівних експериментів, проведених з метою боротьби з Механоїдами. Очікується, що солдати будуть лежати в капсулі, а потім їм будуть вводити одноразові наномашини, призначені для поліпшення їх фізіології.\n\nЦе основний модуль, відповідальний за створення суперсолдатів, але для поліпшення якості, ефективності та безпеки проекту, поруч з капсулою генної модифікації необхідно розмістити й інше обладнання.</VFEA_GeneTailoringPod.description>
   <!--super-nanite injector pump-->
   <VFEA_SuperNaniteInjectorPump.label>помпа супернанітів</VFEA_SuperNaniteInjectorPump.label>
   <!--A small element that links to the Gene-tailoring Pod that allows it to store and extract a dose of super-nanites, effectively shaving a day off of the process. No more than 10 can be linked as at least 5 days are needed for the patient to process and accept the transition.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut one day from the injection time.-->
@@ -69,7 +69,7 @@
   <!--Whilst regular Gene Tailoring works by altering the genes as a whole, some scientists managed to create a work-around by instead creating small, isolated environments within which the alterations can occur independently. Thus, this machine is designed to insert partitions in the form of stabilised mucus that is completely non-reactive and doesn’t cause rejection in the patient’s body, becoming a permanent part of their genomes.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow unlocking an additional ability over the limit of 3.-->
   <VFEA_StabilisedMucusInducer.description>Модуль КГМ, призначений збільшити ліміт модифікацій організма, утворюючи середовища зі спеціального шару слизу, що ізолюює модифіковані гени від інших модифікованих генів.</VFEA_StabilisedMucusInducer.description>
   <!--nanotech retractor-->
-  <VFEA_NanotechRetractor.label>КГМ ретрактор</VFEA_NanotechRetractor.label>
+  <VFEA_NanotechRetractor.label>ретрактор нанітів</VFEA_NanotechRetractor.label>
   <!--A specialized device that allows genetic remodelling in a patient to try and remove a negative effect generated by the gene therapy. The process is similar and requires another dose of super-nanites, however in this case they are used in an attempt to undo very specific effects whilst leaving the benefits untouched. In the case of multiple downsides, the results of the transition process is purely up to chance.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow to perform a new 'Remove Weakness' operation.-->
   <VFEA_NanotechRetractor.description>Модуль КГМ, призначений для проведення операції з ремоделювання геному. Це дозволяє позбутися негативних мутацій генів, спричинених генетичними модифікаціями, при цьому залишаючи позитивні гені.</VFEA_NanotechRetractor.description>
   <!--nanite sampler-->
@@ -205,7 +205,6 @@
   <!--Barrel durability-->
   <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>Barrel durability</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelGizmoLabel>
   <!--Shots until barrel change-->
-  <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>Shots until barrel change</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.fuelLabel>
   <!--Cannot shoot: Needs new barrel-->
   <VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>Cannot shoot: Needs new barrel</VFEA_Turret_AncientPointDefense.comps.CompRefuelable.outOfFuelMessage>
   <!--ancient point defense turret bullet-->
@@ -233,9 +232,9 @@
   <!--An ancient air-cooling machine. Cool air comes out one side, while the hot air gets funneled through a series of pipes deep into the ground. Can be used to cool down rooms during summer, or to create a walk-in freezer.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.-->
   <VFEA_AncientCooler.description>An ancient air-cooling machine. Cool air comes out one side, while the hot air gets funneled through a series of pipes deep into the ground. Can be used to cool down rooms during summer, or to create a walk-in freezer.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCooler.description>
   <!--super-nanites-->
-  <VFEA_SuperNanites.label>банка супернанітів</VFEA_SuperNanites.label>
+  <VFEA_SuperNanites.label>супернаніти</VFEA_SuperNanites.label>
   <!--A container with extremely volatile ancient supernanites. Whilst a large percentage of these nano-robots are faulty, dead or corrupted, a small amount is known to be fully operational, enhancing the person injected with them with unique powers. Super-nanites were used by the long forgotten governments to create supersoldiers, now outlawed by the galactic law.-->
-  <VFEA_SuperNanites.description>Давно забуті держави використовували супернанітів для створення армій суперсолдатів, солдатів, що пройшли генетичну модифікацію супернанітами та отримали унікальні здібності. З тих часів, великий відсоток нано-роботів несправні, мертвій або зіпсовані. Зберігання в звичайних умовах призводить до ш  зберігання та розповсюдження супернанітів заборонено галактичним законом.</VFEA_SuperNanites.description>
+  <VFEA_SuperNanites.description>Банка з надзвичайно нестабільними стародавніми супернанітами. Великий відсоток цих нано-роботів, що містяться в банці, зіпсові або повністю несправні, лише мала частина досі придатна до застосування. Введення супернанітів !!! . наділяючи унікальною здібностю. Супернаніти використовувалися давно забутими урядами для створення суперсолдатів, які зараз заборонені галактичним законодавством.</VFEA_SuperNanites.description>
   <!--lightning spot-->
   <VFEA_LightningSpot.label>lightning spot</VFEA_LightningSpot.label>
   <!--laser beam-->

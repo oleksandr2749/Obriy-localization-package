@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--reconnect all power buildings in the starting map-->
+  <VFEC_ReconnectAllPowerBuildings.label>перепідʼєднати всі енергетичні структури на початковій мапі</VFEC_ReconnectAllPowerBuildings.label>
+</LanguageData>

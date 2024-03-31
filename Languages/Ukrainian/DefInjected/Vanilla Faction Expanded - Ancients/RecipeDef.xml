@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--mend weapon-->
+  <VFEA_MendWeapon.label>ремонт зброї</VFEA_MendWeapon.label>
+  <!--Repair a weapon, using some materials-->
+  <VFEA_MendWeapon.description>Ремонт зброї використовуючи деякі матеріали.</VFEA_MendWeapon.description>
+  <!--Mending weapon.-->
+  <VFEA_MendWeapon.jobString>Ремонтування зброї.</VFEA_MendWeapon.jobString>
+  <!--mend apparel-->
+  <VFEA_MendApparel.label>зашивання одягу</VFEA_MendApparel.label>
+  <!--Repair clothing using some materials-->
+  <VFEA_MendApparel.description>Зашивання одяг використовуючи деякі матеріали.</VFEA_MendApparel.description>
+  <!--Mending apparel.-->
+  <VFEA_MendApparel.jobString>Зашивання одягу.</VFEA_MendApparel.jobString>
+  <!--mend armor-->
+  <VFEA_MendArmor.label>ремонт броні</VFEA_MendArmor.label>
+  <!--Repair armor using some materials-->
+  <VFEA_MendArmor.description>Ремонт броні використовуючи деякі матеріали</VFEA_MendArmor.description>
+  <!--Mending armor.-->
+  <VFEA_MendArmor.jobString>Ремонтування броні.</VFEA_MendArmor.jobString>
+</LanguageData>

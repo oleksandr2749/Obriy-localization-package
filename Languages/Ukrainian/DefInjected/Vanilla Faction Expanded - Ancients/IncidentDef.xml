@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--supply drop-->
+  <VFEA_SupplyDrop.label>скид припасів</VFEA_SupplyDrop.label>
+  <!--Supply Drop Incoming-->
+  <VFEA_SupplyDrop.letterLabel>Наближення скинутих припасів</VFEA_SupplyDrop.letterLabel>
+  <!--A supply crate bound for an uknown location has accidentally landed here. You can hack it to open it, but this may trigger an enemy raid.\n\nGuaranteed to contain resources, medicine or food, fuel and tons of ancient technology, these crates were often sent inbetween ancient complexes generations ago.-->
+  <VFEA_SupplyDrop.letterText>Поряд випадково приземлився ящик з припасами. Ви можете зламати його замок, щоб відкрити, але це може спровокувати набіг.</VFEA_SupplyDrop.letterText>
+</LanguageData>
