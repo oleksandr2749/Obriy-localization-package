@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--Make Neutroamine-->
+  <MakeNeutroamine.label>Синтезувати нейтроамін</MakeNeutroamine.label>
+  <!--Makes neutroamine, a base ingredient for other drugs.-->
+  <MakeNeutroamine.description>Синтезувати нейтроамін - синтетичний прекурсор необхідний для виробництва різних препаратів.</MakeNeutroamine.description>
+  <!--Making Neutroamine.-->
+  <MakeNeutroamine.jobString>Синтезує нейтроамін.</MakeNeutroamine.jobString>
+  <!--Make 5 Neutroamine-->
+  <MakeNeutroaminex5.label>Синтезувати нейтроамін х5</MakeNeutroaminex5.label>
+  <!--Makes 5 neutroamine, a base ingredient for other drugs.-->
+  <MakeNeutroaminex5.description>Синтезувати п'ять баночок нейтроаміну - синтетичний прекурсор необхідний для виробництва різних препаратів.</MakeNeutroaminex5.description>
+  <!--Making Neutroamine.-->
+  <MakeNeutroaminex5.jobString>Синтезує нейтроамін.</MakeNeutroaminex5.jobString>
+  <!--Make 10 Neutroamine-->
+  <MakeNeutroaminex10.label>Синтезувати нейтроамін х10</MakeNeutroaminex10.label>
+  <!--Makes 10 neutroamine, a base ingredient for other drugs.-->
+  <MakeNeutroaminex10.description>Синтезувати десять баночок нейтроаміну - синтетичний прекурсор необхідний для виробництва різних препаратів.</MakeNeutroaminex10.description>
+  <!--Making Neutroamine.-->
+  <MakeNeutroaminex10.jobString>Синтезує нейтроамін.</MakeNeutroaminex10.jobString>
+</LanguageData>

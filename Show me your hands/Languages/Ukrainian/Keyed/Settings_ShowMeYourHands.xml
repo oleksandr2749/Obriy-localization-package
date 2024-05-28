@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SMYH.settings>Налаштування</SMYH.settings>
+  <SMYH.summary>Підсумок</SMYH.summary>
+  <SMYH.summary.tooltip>Натисніть на назву мода, щоб відфільтрувати список та бачити лише зброю з цього мода</SMYH.summary.tooltip>
+  <SMYH.unknown>Невідомо</SMYH.unknown>
+  <SMYH.uiscale.label>Розмір інтерфейсу гри не встановлено на 1.0х. Графічний інтерфейс налаштувань буде виглядати дивно для деяких видів зброї.</SMYH.uiscale.label>
+  <SMYH.uiscale.tooltip>Деяку зброю потрібно повертати, оскільки її текстура не має кута за замовчуванням. Функція обертання має проблеми, коли масштаб інтерфейсу встановлений на значення, відмінне від 1.0x. Це не потрібно змінювати, щоб налаштування діяли.</SMYH.uiscale.tooltip>
+  <SMYH.copy.label>Копіювання ручних значень</SMYH.copy.label>
+  <SMYH.copy.tooltip>Копіює змінені значення в XML-формат, який можна використовувати для створення кращих значень за замовчуванням</SMYH.copy.tooltip>
+  <SMYH.copy.button>Копіювати все</SMYH.copy.button>
+  <SMYH.copyselected.button>Копіювати обране</SMYH.copyselected.button>
+  <SMYH.resetall.label>Скинути ручні налаштування</SMYH.resetall.label>
+  <SMYH.resetall.tooltip>Скинути всі ручні налаштування</SMYH.resetall.tooltip>
+  <SMYH.resetall.button>Скинути все</SMYH.resetall.button>
+  <SMYH.resetselected.button>Скинути обране</SMYH.resetselected.button>
+  <SMYH.logging.label>Увімкнути розширений лог-файл</SMYH.logging.label>
+  <SMYH.logging.tooltip>Показує розширені логи для пошуку помилок</SMYH.logging.tooltip>
+  <SMYH.matchartificiallimb.label>Змінювати руку на штучну</SMYH.matchartificiallimb.label>
+  <SMYH.matchartificiallimb.tooltip>Якщо рука персонажа є штучною, мод намагатиметься замінити текстуру руки подібну до штучну.</SMYH.matchartificiallimb.tooltip>
+  <SMYH.matchhandamounts.label>Не відображати відсутню руку</SMYH.matchhandamounts.label>
+  <SMYH.matchhandamounts.tooltip>Якщо персонаж не має руки, текстура додаткової руки не буде відображатися.</SMYH.matchhandamounts.tooltip>
+  <SMYH.showwhencarry.label>Відображати руки при перенесені речей</SMYH.showwhencarry.label>
+  <SMYH.showwhencarry.tooltip>Відображатиме руки коли персонаж переносить речі</SMYH.showwhencarry.tooltip>
+  <SMYH.showothertimes.label>Завжди відображати руки</SMYH.showothertimes.label>
+  <SMYH.showothertimes.tooltip>Функція експерементальна! Відображати руки по боках персонажа</SMYH.showothertimes.tooltip>
+  <SMYH.matcharmor.label>Відображати колір рук в залежності від броні</SMYH.matcharmor.label>
+  <SMYH.matcharmor.tooltip>Якщо персонаж носить броню, що закривають руки, то колір рук буде намагатися відповідати кольору обладунків</SMYH.matcharmor.tooltip>
+  <SMYH.resizehands.label>Залежніть розмура рук від тілла</SMYH.resizehands.label>
+  <SMYH.resizehands.tooltip>Змінювати розмір рук в залежності від розміра тіла персонажа. Може виглядати неправильно з незвичними розмірами тіла деяких ксенотипів</SMYH.resizehands.tooltip>
+  <SMYH.repositionhands.label>Змінювати положення рук на великогабаритній зброї</SMYH.repositionhands.label>
+  <SMYH.repositionhands.tooltip>Компенсує зброю, що має більший розмір спрайта. Цю опцію можна вимкнути у деяких випадках, коли інший мод перевизначає розмір спрайта, наприклад, анімація у Yayo Combat 3.</SMYH.repositionhands.tooltip>
+  <SMYH.version.label>Встановлена версія мода: {0}</SMYH.version.label>
+  <SMYH.error.weapon>Помилка, не вдалося знайти зброю {0} в базі даних</SMYH.error.weapon>
+  <SMYH.error.hands>Помилка, не вдалося знайти інформацію про {0} в базі даних</SMYH.error.hands>
+  <SMYH.error.texture>Помилка, не вдалося знайти інформацію про текстуру {0} в базі даних</SMYH.error.texture>
+  <SMYH.twohands.label>Друга рука</SMYH.twohands.label>
+  <SMYH.nohands.label>Без рук</SMYH.nohands.label>
+  <SMYH.mainhandhorizontal.label>Головна рука: горизонть</SMYH.mainhandhorizontal.label>
+  <SMYH.mainhandvertical.label>Головна рука: вертикаль</SMYH.mainhandvertical.label>
+  <SMYH.renderbehind.label>Відображати позаду зброї</SMYH.renderbehind.label>
+  <SMYH.offhandhorizontal.label>Друга рука: горизонть</SMYH.offhandhorizontal.label>
+  <SMYH.offhandvertical.label>Друга рука: вертикаль</SMYH.offhandvertical.label>
+  <SMYH.reset.button>Скинути</SMYH.reset.button>
+  <SMYH.undo.button>Відмінити</SMYH.undo.button>
+  <SMYH.save.button>Зберегти</SMYH.save.button>
+  <SMYH.resetsingle.confirm>Це призведе до видалення всіх збережених ручних налаштувань для зброї та встановлення налаштувань за замовчуванням</SMYH.resetsingle.confirm>
+  <SMYH.resetall.confirm>Це призведе до видалення ВСІХ збережених ручних налаштувань для ВСІЄЇ зброї та встановлення налаштувань за замовчуванням</SMYH.resetall.confirm>
+  <SMYH.resetselected.confirm>Це призведе до видалення всіх збережених ручних налаштувань для мода {0}</SMYH.resetselected.confirm>
+  <SMYH.showhidden>Показавати {0} приховану зброю</SMYH.showhidden>
+  <SMYH.weaponrow.red>Має налаштування за замовчуванням</SMYH.weaponrow.red>
+  <SMYH.weaponrow.cyan>Має налаштування встановлені модом</SMYH.weaponrow.cyan>
+  <SMYH.weaponrow.green>Має налаштування гравця</SMYH.weaponrow.green>
+
+</LanguageData>

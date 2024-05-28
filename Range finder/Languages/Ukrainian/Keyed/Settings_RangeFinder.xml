@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ShowWeaponRangeKeyTitle>Гаряча клавіша відображення дальності зброї</ShowWeaponRangeKeyTitle>
+	<ShowWeaponRangeKeyExplained>Щоб показати дальність зброї, виберіть персонажа, а потім натисніть цю клавішу. Якщо ви натиснете клавішу двічі, дальність буде показана доти, доки ви не натиснете знову.</ShowWeaponRangeKeyExplained>
+
+	<ShowRangeAtMouseKeyTitle>Гаряча клавіша дальність від позиції вказівника</ShowRangeAtMouseKeyTitle>
+	<ShowRangeAtMouseKeyExplained>Утримуючи цю клавішу, ви побачите дальність від поточної позиції миші, а не від позиції персонажа.</ShowRangeAtMouseKeyExplained>
+
+	<UseColorCodingTitle>Використовувати кольорове кодування</UseColorCodingTitle>
+	<UseColorCodingExplained>Якщо увімкнено, кожне коло дальності матиме свій колір і позначатиме персонажа тим самим кольором.</UseColorCodingExplained>
+
+	<MaxRangeTitle>Максимальна відстань відображення</MaxRangeTitle>
+	<MaxRangeExplained>Гра має особисту максимальну кількість клітин для відображення дальності. Занадто велике значення цього параметра призводить до помилок.</MaxRangeExplained>
+
+	<ModifierKeyOptionNone>Вимкнено</ModifierKeyOptionNone>
+	<ModifierKeyOptionAlt>Alt</ModifierKeyOptionAlt>
+	<ModifierKeyOptionCtrl>Ctrl</ModifierKeyOptionCtrl>
+	<ModifierKeyOptionShift>Shift</ModifierKeyOptionShift>
+	<ModifierKeyOptionMeta>Win/Cmd</ModifierKeyOptionMeta>
+
+	<BooleanKeyOptionNo>Ні</BooleanKeyOptionNo>
+	<BooleanKeyOptionYes>Так</BooleanKeyOptionYes>
+
+	<CustomColors>Свій колір</CustomColors>
+	<AddColor>Додати колір</AddColor>
+	<AddingCustomColors>Коли ви додаєте свої кольори, вони замінять всі існуючі кольори і будуть призначені в порядку, вказаному тут.</AddingCustomColors>
+
+</LanguageData>

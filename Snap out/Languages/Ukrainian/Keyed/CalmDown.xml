@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FailCalm>{0} не {0_gender ? зміг: змогла} заспокоїти {1}.</FailCalm>
+  <SuccessCalm>{1} був {0_gender ? заспокоєний: заспокоєна} {0}.</SuccessCalm>
+  <AggroFailCalm>{0} {0_gender ? вирішив: вирішила} застосувати сили після невдалої спроби заспокоїти {1}</AggroFailCalm>
+  <SettingsCategoryLabel>Snap Out!</SettingsCategoryLabel>
+  <MessagesEnabledLabel>Повідомлення персонажів</MessagesEnabledLabel>
+  <AggroCalmEnabledLabel>Заспокоювати агресивних персонажів</AggroCalmEnabledLabel>
+  <OpinionOnlyEnabledLabel>Лише відносили мають значення</OpinionOnlyEnabledLabel>
+  <NonFactionEnabledLabel>Заспокоювати в'язнів</NonFactionEnabledLabel>
+  <TraderCalmEnabledLabel>Заспокоювати торговців</TraderCalmEnabledLabel>
+  <AdvancedMenu>Розширені параметри</AdvancedMenu>
+  <SMultLabel>Множник соціальності</SMultLabel>
+  <OMultLabel>Множник відносин</OMultLabel>
+  <CapLabel>Ліміт соціальності</CapLabel>
+  <OOMultLabel>Множник лише відносин</OOMultLabel>
+  <StunWeight>Множник шанс оглушення агресивного персонажа</StunWeight>
+  <CalmDuration>Тривалість заспокоєння</CalmDuration>
+  <DebugChanceSetting>Режим налагодженняя</DebugChanceSetting>
+  <NoCathEnabledLabel>Вимкнути посилення катарсису</NoCathEnabledLabel>
+  <Cooldown>Відновлення після провалу</Cooldown>
+  <LaunchCounterSetting>Лічильник запусків</LaunchCounterSetting>
+  <AlwaysSucceedSetting>Без збоїв (налагодження)</AlwaysSucceedSetting>
+  <DefaultButton>Відновити розширені налаштування за замовчуванням</DefaultButton>
+
+
+  <CM1>Все буде гаразд.</CM1>
+  <CM2>Не хвилюйся, я тебе прикрию.</CM2>
+  <CM3>Просто тримайся зі мною, я буду з тобою до кінця.</CM3>
+  <CM4>Це просто стіл, все буде добре.</CM4>
+  <CM5>Ми будемо з тобтою.</CM5>
+  <CM6>Розкажи мені, що тебе турбує, тобі стане краще.</CM6>
+  <CM7>Ми можемо вирішити це разом.</CM7>
+  <CM8>Глибоко вдихни, ти зможеш. Розслабся...</CM8>
+  <CM9>Я знаю, через що ти проходиш, і дуже хочу допомогти....</CM9>
+  <CM10>Що тебе турбує?</CM10>
+  <CM11>Тільки не починай знову, припини...</CM11>
+  <CM12>Розкажіть мені, що сталося?</CM12>
+  <CM13>Не хвилюйся, це пройде.</CM13>
+  <CM14>Чому б тобі не потрогати травичку?</CM14>
+  <CM15>Давайт вирішимо це разом.</CM15>
+  <CM16>Ти в безпеці, я з тобою.</CM16>
+  <CM17>Мені боляче, що ти через це проходиш.</CM17>
+  <CM18>Те не один, ми всі тут разом.</CM18>
+  <CM19>Це не твоя провина.</CM19>
+  <CM20>Можеш мені виговоритися, я вислухаю.</CM20>
+  <CM21>У нас є чудова кімната відпочинку, як щодо того, щоб зіграти в шахи разом?</CM21>
+  
+</LanguageData>

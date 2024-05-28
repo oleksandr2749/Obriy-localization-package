@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--calm down another pawn-->
+  <SnapOut_CalmPawnDownWorkgiver.label>заспокоїти ще одного пішака</SnapOut_CalmPawnDownWorkgiver.label>
+  <!--calming-->
+  <SnapOut_CalmPawnDownWorkgiver.gerund>заспокоєння</SnapOut_CalmPawnDownWorkgiver.gerund>
+  <!--calm-->
+  <SnapOut_CalmPawnDownWorkgiver.verb>заспокоїти</SnapOut_CalmPawnDownWorkgiver.verb>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <VanillaTexturesExpanded.SettingsCategory>Vanilla Textures Expanded</VanillaTexturesExpanded.SettingsCategory>
+
+    <VanillaTexturesExpanded.MainButtonRenderMode>Режим відображення кнопок меню</VanillaTexturesExpanded.MainButtonRenderMode>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>Піктограми і текст (нове)</VanillaTexturesExpanded.MainButtonRenderMode_IconsAndText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>Піктограми, де це можливо (звичайний)</VanillaTexturesExpanded.MainButtonRenderMode_IconsThenText>
+    <VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>Лише текст (класика)</VanillaTexturesExpanded.MainButtonRenderMode_TextOnly>
+
+</LanguageData>
