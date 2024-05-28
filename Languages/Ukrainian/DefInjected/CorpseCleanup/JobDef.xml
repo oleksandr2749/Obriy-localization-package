@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--butchering TargetA.-->
-  <CorpseCleanup_ButcherCorpse.reportString>потрошити TargetA.</CorpseCleanup_ButcherCorpse.reportString>
-  <!--destroying TargetA.-->
-  <CorpseCleanup_DestroyCorpse.reportString>знищити TargetA.</CorpseCleanup_DestroyCorpse.reportString>
-</LanguageData>

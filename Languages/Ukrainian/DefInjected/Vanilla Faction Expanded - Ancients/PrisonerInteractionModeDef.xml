@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--interrogate-->
-  <VFEA_Interrogate.label>interrogate</VFEA_Interrogate.label>
-  <!--Wardens will use various methods to extract information about nearby locations of interest from the prisoner.-->
-  <VFEA_Interrogate.description>Наглядачі будуть різними методами вибивати з ув'язненого інформацію про відомі йому місця.</VFEA_Interrogate.description>
-</LanguageData>

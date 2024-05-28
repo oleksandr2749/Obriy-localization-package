@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--seeing things-->
-  <VFEA_Hallucinations.label>seeing things</VFEA_Hallucinations.label>
-  <!--Mental state: Seeing things-->
-  <VFEA_Hallucinations.baseInspectLine>Mental state: Seeing things</VFEA_Hallucinations.baseInspectLine>
-  <!--{0} is no longer seeing things.-->
-  <VFEA_Hallucinations.recoveryMessage>{0} is no longer seeing things.</VFEA_Hallucinations.recoveryMessage>
-</LanguageData>
