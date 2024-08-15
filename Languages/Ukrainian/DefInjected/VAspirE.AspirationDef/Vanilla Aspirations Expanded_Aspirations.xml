@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <!--become a parent-->
+  <VAspirE_BecomeParent.label>діти</VAspirE_BecomeParent.label>
+  <!--{0} wants to become a parent and have a child of their own.-->
+  <VAspirE_BecomeParent.description>{0} хоче мати дитину.</VAspirE_BecomeParent.description>
+  <!--become a grandparent-->
+  <VAspirE_BecomeGrandParent.label>внуки</VAspirE_BecomeGrandParent.label>
+  <!--{0} wants to become a grandparent and have a grandchild.-->
+  <VAspirE_BecomeGrandParent.description>{0} хоче мати внука чи внучку.</VAspirE_BecomeGrandParent.description>
+  <!--form a psychic bond-->
+  <VAspirE_FormPsychicBond.label>зформувати психічний зв'язок</VAspirE_FormPsychicBond.label>
+  <!--{0} wants to psychically bond with a perfect partner.-->
+  <VAspirE_FormPsychicBond.description>{0} хоче мати психічний зв'язок з ідеальним партнером.</VAspirE_FormPsychicBond.description>
+  <!--become a sanguophage-->
+  <VAspirE_BecomeSanguophage.label>стати сангвофагом</VAspirE_BecomeSanguophage.label>
+  <!--{0} wants to live forever as a sanguophage.-->
+  <VAspirE_BecomeSanguophage.description>{0} хоче стати сангвофагом та отримати вічне життя.</VAspirE_BecomeSanguophage.description>
+  <!--become a mechanitor-->
+  <VAspirE_BecomeMechanitor.label>стати механітором</VAspirE_BecomeMechanitor.label>
+  <!--{0} wants to control the march of the machines.-->
+  <VAspirE_BecomeMechanitor.description>{0} хоче контролювати механітів.</VAspirE_BecomeMechanitor.description>
+  <!--become a psycaster-->
+  <VAspirE_BecomePsycaster.label>стати псионіком</VAspirE_BecomePsycaster.label>
+  <!--{0} wants to become acquainted with the psychic powers of psycasters.-->
+  <VAspirE_BecomePsycaster.description>{0} хоче мати пси-здібності.</VAspirE_BecomePsycaster.description>
+  <!--link with anima tree-->
+  <VAspirE_AnimaTreeLink.label>зв'язок з аніма-деревом</VAspirE_AnimaTreeLink.label>
+  <!--{0} wants to undergo an anima tree linking ritual with them as the main recipient of the boons.-->
+  <VAspirE_AnimaTreeLink.description>{0} хоче пройти ритуал створення зв'язку з аніма-деревом.</VAspirE_AnimaTreeLink.description>
+  <!--hear anima scream-->
+  <VAspirE_HearAnimaScream.label>почути крик аніма-дерева</VAspirE_HearAnimaScream.label>
+  <!--{0} wants to hear the screams of a dying anima tree.-->
+  <VAspirE_HearAnimaScream.description>{0} хоче почути крик вмираючого аніма-дерева.</VAspirE_HearAnimaScream.description>
+  <!--become noble-->
+  <VAspirE_BecomeNoble.label>стати шляхтичем</VAspirE_BecomeNoble.label>
+  <!--{0} wants to join the imperial great hierarchy.-->
+  <VAspirE_BecomeNoble.description>{0} хоче бути частиною великої ієрархії імперії.</VAspirE_BecomeNoble.description>
+  <!--wield bladelink weapon-->
+  <VAspirE_WieldBladelink.label>володіти персональним клинком</VAspirE_WieldBladelink.label>
+  <!--{0} would like to bond with a bladelink weapon.-->
+  <VAspirE_WieldBladelink.description>{0} хоче встановити зв'язок з персональною ближньою зброєю.</VAspirE_WieldBladelink.description>
+  <!--attend an inspirational throne speech-->
+  <VAspirE_AttendSpeech.label>почути надихаючу промову з трону</VAspirE_AttendSpeech.label>
+  <!--{0} wants to be there when an inspirational speech is given.-->
+  <VAspirE_AttendSpeech.description>{0} хоче почути надихаючу провому з трону.</VAspirE_AttendSpeech.description>
+  <!--become an ideological figure-->
+  <VAspirE_BecomeIdeologicalFigure.label>стати ідеологічною перосною</VAspirE_BecomeIdeologicalFigure.label>
+  <!--{0} wants to become a meaningful figure in their ideology.-->
+  <VAspirE_BecomeIdeologicalFigure.description>{0} хоче стати значущою персоною його ідеології.</VAspirE_BecomeIdeologicalFigure.description>
+  <!--become a leader-->
+  <VAspirE_BecomeLeader.label>стати лідером</VAspirE_BecomeLeader.label>
+  <!--{0} wants to lead their people from a position of power.-->
+  <VAspirE_BecomeLeader.description>{0} хоче керувати своїм народом з позиції сили.</VAspirE_BecomeLeader.description>
+  <!--connect with a gauranlen tree-->
+  <VAspirE_ConnectWithGauranlenTree.label>зв'язк з деревом Гау</VAspirE_ConnectWithGauranlenTree.label>
+  <!--{0} would love to connect with a Gauranlen tree in a tree linking ceremony.-->
+  <VAspirE_ConnectWithGauranlenTree.description>{0} хоче пройти ритуал створення зв'язку з деревом Гау.</VAspirE_ConnectWithGauranlenTree.description>
+  <!--get married-->
+  <VAspirE_GetMarried.label>одружитись</VAspirE_GetMarried.label>
+  <!--{0} would like to get married.-->
+  <VAspirE_GetMarried.description>{0} хоче одружитись.</VAspirE_GetMarried.description>
+  <!--propose-->
+  <VAspirE_Propose.label>зробити пропозицію</VAspirE_Propose.label>
+  <!--{0} would like to propose to somebody.-->
+  <VAspirE_Propose.description>{0} хоче зробити пропозицію партнеру.</VAspirE_Propose.description>
+  <!--get some lovin'-->
+  <VAspirE_GetSomeLovin.label>отримати секс</VAspirE_GetSomeLovin.label>
+  <!--{0} would like to get some lovin’.-->
+  <VAspirE_GetSomeLovin.description>{0} хоче сексу з партнером.</VAspirE_GetSomeLovin.description>
+  <!--consume luciferium-->
+  <VAspirE_ConsumeLuciferium.label>прийняти угоду диявола</VAspirE_ConsumeLuciferium.label>
+  <!--{0} wants to ride the luciferium high.-->
+  <VAspirE_ConsumeLuciferium.description>{0} хоче вжити люциферій.</VAspirE_ConsumeLuciferium.description>
+  <!--consume human meat-->
+  <VAspirE_ConsumeHumanMeat.label>скуштувати людське м'ясо</VAspirE_ConsumeHumanMeat.label>
+  <!--{0} wants to see what long pig tastes like.-->
+  <VAspirE_ConsumeHumanMeat.description>Канібалізм - діло смаку. {0} хоче вжити людського м'яса.</VAspirE_ConsumeHumanMeat.description>
+  <!--overdose-->
+  <VAspirE_Overdose.label>передознутися</VAspirE_Overdose.label>
+  <!--{0} wants to see what it’s like to overdose.-->
+  <VAspirE_Overdose.description>{0} хоче відчути на собі, що таке передозування.</VAspirE_Overdose.description>
+  <!--get blackout drunk-->
+  <VAspirE_GetBlackoutDrunk.label>налигатись до відключки</VAspirE_GetBlackoutDrunk.label>
+  <!--{0} wants to get absolutely shitfaced.-->
+  <VAspirE_GetBlackoutDrunk.description>{0} хоче напитися до втрати свідомості.</VAspirE_GetBlackoutDrunk.description>
+  <!--get a beautiful lover-->
+  <VAspirE_GetBeautifulLover.label>мати вродливого партнера</VAspirE_GetBeautifulLover.label>
+  <!--{0} wants to be told that they are punching above their weight, and become lovers with a beautiful person.-->
+  <VAspirE_GetBeautifulLover.description>{0} хоче мати кохання з вродливим партнером.</VAspirE_GetBeautifulLover.description>
+  <!--grow old-->
+  <VAspirE_GrowOld.label>дожити до старості</VAspirE_GrowOld.label>
+  <!--{0} wants to live long enough to see a different person in the mirror.-->
+  <VAspirE_GrowOld.description>{0} хоче прожити достатньо довго щоб побачити в дзеркалі зовсім іншу людину, ніж колись.</VAspirE_GrowOld.description>
+  <!--get joywired-->
+  <VAspirE_GetJoywired.label>отримати чип радості</VAspirE_GetJoywired.label>
+  <!--{0} would like to feel the effects of joywire.-->
+  <VAspirE_GetJoywired.description>{0} хоче відчути дію радочипу.</VAspirE_GetJoywired.description>
+  <!--get bionic spine-->
+  <VAspirE_GetBionicSpine.label>отримати біонічний хребет</VAspirE_GetBionicSpine.label>
+  <!--{0} would love to have a bionic spine.-->
+  <VAspirE_GetBionicSpine.description>{0} хоче отримати біонічний хребет.</VAspirE_GetBionicSpine.description>
+  <!--get inspiration-->
+  <VAspirE_GetInspiration.label>отримати натхнення</VAspirE_GetInspiration.label>
+  <!--{0} aspires to be inspired.-->
+  <VAspirE_GetInspiration.description>{0} прагне до натхнення.</VAspirE_GetInspiration.description>
+  <!--create a legendary work-->
+  <VAspirE_CreateLegendary.label>створити легендарний виріб</VAspirE_CreateLegendary.label>
+  <!--{0} wants to leave their mark on the world and create a legendary work.-->
+  <VAspirE_CreateLegendary.description>{0} хоче залишити свій слід у світі створивши легендарний виріб.</VAspirE_CreateLegendary.description>
+  <!--obtain legendary gear-->
+  <VAspirE_ObtainLegendaryGear.label>отримати легендарне спорядження</VAspirE_ObtainLegendaryGear.label>
+  <!--{0} wants to feel the work of a legendary master in their grasp.-->
+  <VAspirE_ObtainLegendaryGear.description>{0} хоче відчути роботу легендарного майстра на собі.</VAspirE_ObtainLegendaryGear.description>
+  <!--bond with an animal-->
+  <VAspirE_BondWithAnimal.label>прив'язання до тварини</VAspirE_BondWithAnimal.label>
+  <!--{0} wants to bond with an animal companion.-->
+  <VAspirE_BondWithAnimal.description>{0} хоче отримати прив'язання до тварини.</VAspirE_BondWithAnimal.description>
+  <!--become rich-->
+  <VAspirE_BecomeRich.label>стати багатієм</VAspirE_BecomeRich.label>
+  <!--{0} wants their colony to prosper and become excessively rich.-->
+  <VAspirE_BecomeRich.description>{0} хоче неймовірного багатства свого поселення.</VAspirE_BecomeRich.description>
+  <!--kill someone-->
+  <VAspirE_KillSomeone.label>вбити когось</VAspirE_KillSomeone.label>
+  <!--{0} wants to inflict pain and kill another being.-->
+  <VAspirE_KillSomeone.description>{0} хоче урвати чиєсь життя.</VAspirE_KillSomeone.description>
+  <!--become liked-->
+  <VAspirE_BecomeLiked.label>стати вподобаним</VAspirE_BecomeLiked.label>
+  <!--{0} wants to be liked by many of their peers.-->
+  <VAspirE_BecomeLiked.description>{0} хоче подобатися багатьом своїм знайомим.</VAspirE_BecomeLiked.description>
+  <!--become disliked-->
+  <VAspirE_BecomeDisliked.label>стати ненависним</VAspirE_BecomeDisliked.label>
+  <!--{0} wants to be hated by many of their peers.-->
+  <VAspirE_BecomeDisliked.description>{0} хоче неподобатися багатьом своїм знайомим.</VAspirE_BecomeDisliked.description>
+  <!--feel catharsis-->
+  <VAspirE_FeelCatharsis.label>покаятися</VAspirE_FeelCatharsis.label>
+  <!--{0} wants to unbottle their feelings and feel the serenity afterwards.-->
+  <VAspirE_FeelCatharsis.description>{0} хоче вивільнити свої почуття і відчути спокій після цього.</VAspirE_FeelCatharsis.description>
+  <!--defeat faction leader-->
+  <VAspirE_DefeatFactionLeader.label>перемогти лідера фракції</VAspirE_DefeatFactionLeader.label>
+  <!--{0} wants to be the one to defeat an enemy faction leader.-->
+  <VAspirE_DefeatFactionLeader.description>{0} хоче здобути перемогу над лідером іншої фракції.</VAspirE_DefeatFactionLeader.description>
+  <!--have a wonderful room-->
+  <VAspirE_HaveWonderfulRoom.label>мати чудову кімнату</VAspirE_HaveWonderfulRoom.label>
+  <!--{0} wants to have the most wonderful bedroom.-->
+  <VAspirE_HaveWonderfulRoom.description>{0} хоче отримати найпрекраснішу кімнату.</VAspirE_HaveWonderfulRoom.description>
+  <!--see an aurora-->
+  <VAspirE_SeeAurora.label>побачити полярне сяйво</VAspirE_SeeAurora.label>
+  <!--{0} wants to skygaze during an aurora.-->
+  <VAspirE_SeeAurora.description>{0} хоче побачити полярне сяйво.</VAspirE_SeeAurora.description>
+  <!--complete machine body-->
+  <VAspirE_CompleteMachineBody.label>мати машинне тіло</VAspirE_CompleteMachineBody.label>
+  <!--{0} would like to have 6 different artificial body parts.-->
+  <VAspirE_CompleteMachineBody.description>{0} хоче мати щонайменше 6 штучних частин тіла.</VAspirE_CompleteMachineBody.description>
+  <!--dead rival-->
+  <VAspirE_DeadRival.label>смерть ворога</VAspirE_DeadRival.label>
+  <!--{0} would like to have a rival, and for them to die.-->
+  <VAspirE_DeadRival.description>{0} хоче аби ворога спіткала смерть.</VAspirE_DeadRival.description>
+  <!--gain a level five psycast-->
+  <VAspirE_GainALevel5Psycast.label>отримати пси-зв'язок п'ятий рівент</VAspirE_GainALevel5Psycast.label>
+  <!--{0} would like to gain access to a psycast of the fifth level.-->
+  <VAspirE_GainALevel5Psycast.description>{0} хоче отримати пси-зв'язок п'ятого рівня.</VAspirE_GainALevel5Psycast.description>
+  <!--burn some luciferium-->
+  <VAspirE_BurnSomeLuciferium.label>послати диявола</VAspirE_BurnSomeLuciferium.label>
+  <!--{0} wants to get rid of some disgusting luciferium in a crematorium or fireplace.-->
+  <VAspirE_BurnSomeLuciferium.description>{0} хоче спалити клятий люциферій (багаття або крематорій).</VAspirE_BurnSomeLuciferium.description>
+  <!--experience resurrection-->
+  <VAspirE_ExperienceResurrection.label>повстати з мертвих</VAspirE_ExperienceResurrection.label>
+  <!--{0} wants to experience true death and be resurrected using a mech serum.-->
+  <VAspirE_ExperienceResurrection.description>{0} хоче померти і повернутися до життя за допомогою сиворотки відродження.</VAspirE_ExperienceResurrection.description>
+  <!--get rid of asthma-->
+  <VAspirE_GetRidOfAsthma.label>одужати від астми</VAspirE_GetRidOfAsthma.label>
+  <!--{0} wants to get rid of asthma.-->
+  <VAspirE_GetRidOfAsthma.description>{0} хоче нарешті зробити чистий, немов джерельні води, вдих та спокійний, немов весняний вітерець, видих.</VAspirE_GetRidOfAsthma.description>
+  <!--get rid of cataracts-->
+  <VAspirE_GetRidOfCataracts.label>одужати від катаракти</VAspirE_GetRidOfCataracts.label>
+  <!--{0} wants to get rid of cataracts.-->
+  <VAspirE_GetRidOfCataracts.description>{0} хоче нарешті побачити світ, що не оповитий туманом.</VAspirE_GetRidOfCataracts.description>
+  <!--get rid of hearing loss-->
+  <VAspirE_GetRidOfHearingLoss.label>одужати від глухості</VAspirE_GetRidOfHearingLoss.label>
+  <!--{0} wants to get rid of hearing loss.-->
+  <VAspirE_GetRidOfHearingLoss.description>{0} хоче нарешті почути голоси близьких, спів пташок та шепіт лісу.</VAspirE_GetRidOfHearingLoss.description>
+  <!--get five burn scars-->
+  <VAspirE_GetFiveBurnScars.label>отримати п'ять шравім від опіків</VAspirE_GetFiveBurnScars.label>
+  <!--{0} wants to get five burn scars.-->
+  <VAspirE_GetFiveBurnScars.description>{0} хоче отримати п'ять шрамів від опіків.</VAspirE_GetFiveBurnScars.description>
+  <!--achieve excruciating pain-->
+  <VAspirE_AchieveExcruciatingPain.label>відчути нестерпний біль</VAspirE_AchieveExcruciatingPain.label>
+  <!--{0} wants to achieve an exquisite, excruciating pain.-->
+  <VAspirE_AchieveExcruciatingPain.description>{0} хоче відчути пекучий, пронизливий до кісток біль.</VAspirE_AchieveExcruciatingPain.description>
+  <!--get ultimate revenge on a Centipede-->
+  <VAspirE_GetUltimateRevengeOnCentipede.label>знищити багатоніжку з бластером</VAspirE_GetUltimateRevengeOnCentipede.label>
+  <!--{0} wants to shred a Centipede blaster to show him who's boss now.-->
+  <VAspirE_GetUltimateRevengeOnCentipede.description>{0} хоче розірвати на шматки бластер багатоніжки, щоб показати, хто тут головний.</VAspirE_GetUltimateRevengeOnCentipede.description>
+  <!--witness flesh shaping-->
+  <VAspirE_LearnToShapeFlesh.label>побачити як формують плоть</VAspirE_LearnToShapeFlesh.label>
+  <!--{0} wants to see another person use the flesh shaping ability.-->
+  <VAspirE_LearnToShapeFlesh.description>{0}  хоче побачити, як інша людина використовує здатність формувати плоть.</VAspirE_LearnToShapeFlesh.description>
+  <!--become inhuman-->
+  <VAspirE_BecomeInhuman.label>стати нелюдом</VAspirE_BecomeInhuman.label>
+  <!--{0} wants to be dominated by the psychic patterns of the void and become inhuman.-->
+  <VAspirE_BecomeInhuman.description>{0} хоче перебувати під пануванням психічих патернів порожнечі, і стати нелюдом.</VAspirE_BecomeInhuman.description>
+  <!--get a tentacle-->
+  <VAspirE_BecomeAHentaiCharacter.label>отримати щупальце</VAspirE_BecomeAHentaiCharacter.label>
+  <!--{0} wants to get a warped body.-->
+  <VAspirE_BecomeAHentaiCharacter.description>{0} хоче отримати деформоване тіло.</VAspirE_BecomeAHentaiCharacter.description>
+  <!--get digested-->
+  <VAspirE_GetDigested.label>перетравитись</VAspirE_GetDigested.label>
+  <!--{0} wants to get digested whole. {0} swears this is not a kink thing.-->
+  <VAspirE_GetDigested.description>{0} хоче щоб його повністю перетравили. {0} клянеться, що це не збочення.</VAspirE_GetDigested.description>
+  <!--play with a golden cube-->
+  <VAspirE_PlayWithCube.label>погратися з золотим кубом</VAspirE_PlayWithCube.label>
+  <!--{0} wants to play with a golden cube.-->
+  <VAspirE_PlayWithCube.description>{0} хоче погратися з золотим кубом.</VAspirE_PlayWithCube.description>
+  <!--read a fascinating tome-->
+  <VAspirE_ReadAFascinatingTome.label>прочитати захоплюючий фоліант</VAspirE_ReadAFascinatingTome.label>
+  <!--{0} wants to read a fascinating eldritch tome.-->
+  <VAspirE_ReadAFascinatingTome.description>{0} хоче прочитати захопливий ельдричний фоліант.</VAspirE_ReadAFascinatingTome.description>
+  <!--held a concert-->
+  <VAspirE_HeldConcert.label>провести концерт</VAspirE_HeldConcert.label>
+  <!--{0} would like to hold a concert for other colonists.-->
+  <VAspirE_HeldConcert.description>{0} хоче провести концерт для інших колоністів.</VAspirE_HeldConcert.description>
+  <!--destroy a mech cluster-->
+  <VAspirE_DestroyCluster.label>знищити кластер механоїдів</VAspirE_DestroyCluster.label>
+  <!--{0} wants to completely destroy a mech cluster.-->
+  <VAspirE_DestroyCluster.description>{0} хоче повністю знищити кластер механоїдів.</VAspirE_DestroyCluster.description>
+  <!--destroy an insect hive-->
+  <VAspirE_DestroyInsectHive.label>знищити вулик комах</VAspirE_DestroyInsectHive.label>
+  <!--{0} wants to completely destroy an insect hive.-->
+  <VAspirE_DestroyInsectHive.description>{0} хоче повністю знищити вулик комах.</VAspirE_DestroyInsectHive.description>
+  <!--use a flame weapon-->
+  <VAspirE_UseFireWeapon.label>пальнути з вогнемету</VAspirE_UseFireWeapon.label>
+  <!--{0} wants to use a flame weapon in combat.-->
+  <VAspirE_UseFireWeapon.description>{0} хоче використовувати вогнеметну зброю в бою.</VAspirE_UseFireWeapon.description>
+  <!--read an amazing book-->
+  <VAspirE_ReadAmazingBook.label>прочитати дивовижну книгу</VAspirE_ReadAmazingBook.label>
+  <!--{0} wants to read a book detailing a skill on which they are passionate about.-->
+  <VAspirE_ReadAmazingBook.description>{0} хоче прочитати книгу, яка детально описує навичку, якою він захоплюються.</VAspirE_ReadAmazingBook.description>
+</LanguageData>

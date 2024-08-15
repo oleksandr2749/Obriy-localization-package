@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-  <!--calm down-->
-  <SnapOut_CalmDownInteraction.label>заспокоїти</SnapOut_CalmDownInteraction.label>
-  <!--r_logentry->Tried to calm [RECIPIENT_nameDef] down.-->
-  <SnapOut_CalmDownInteraction.logRulesInitiator.rulesStrings.0>r_logentry-&gt;Намагається заспокоєти [RECIPIENT_nameDef].</SnapOut_CalmDownInteraction.logRulesInitiator.rulesStrings.0>
-  <!--r_logentry->[INITIATOR_nameDef] tried to calm me down.-->
-  <SnapOut_CalmDownInteraction.logRulesRecipient.rulesStrings.0>r_logentry-&gt;[INITIATOR_nameDef] намагається заспокоїти мене</SnapOut_CalmDownInteraction.logRulesRecipient.rulesStrings.0>
-</LanguageData>

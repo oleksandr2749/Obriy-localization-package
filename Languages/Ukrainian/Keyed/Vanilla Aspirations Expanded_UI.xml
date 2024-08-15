@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <!--Completed on: -->
+  <VAspirE.CompletedOn>Завершено на: </VAspirE.CompletedOn>
+  <!--{0} has achieved their {1} aspiration.-->
+  <VAspirE.AspirationComplete>{0} досягає прагнення {1}.</VAspirE.AspirationComplete>
+  <!--{0} aspirations complete: {1}-->
+  <VAspirE.AspirationStat>{0} досягнуті прагнення: {1}</VAspirE.AspirationStat>
+  <!--{0} gains {1}: {2}-->
+  <VAspirE.Gains>{0} здобуває {1}: {2}</VAspirE.Gains>
+  <!--implant-->
+  <VAspirE.Implant>імплант</VAspirE.Implant>
+  <!--thought-->
+  <VAspirE.Thought>думка</VAspirE.Thought>
+  <!--xenotype-->
+  <VAspirE.Xenotype>ксенотип</VAspirE.Xenotype>
+  <!--psycast level-->
+  <VAspirE.AbilityLevel>рівень пси-зв'язку'</VAspirE.AbilityLevel>
+  <!--abilities-->
+  <VAspirE.Abilities>здібності</VAspirE.Abilities>
+  <!--trait-->
+  <VAspirE.Trait>риса</VAspirE.Trait>
+  <!--gene-->
+  <VAspirE.Gene>ген</VAspirE.Gene>
+  <!--{0} completes the recipe {1}-->
+  <VAspirE.Recipe>{0} завершує рецепт {1}</VAspirE.Recipe>
+  <!--{0} gets rid of the health condition {1}-->
+  <VAspirE.HediffRemoval>{0} позбавляє від проблем зі здоров'ям {1}</VAspirE.HediffRemoval>
+  <!--{0} completes the recipe {1}, using at least 1 {2}-->
+  <VAspirE.RecipeProduct>{0} завершує рецепт {1}, використовуючи щонайменше 1 {2}</VAspirE.RecipeProduct>
+  <!--{0} nuzzled by: {1}-->
+  <VAspirE.NuzzledBy>{0} притулившись до: {1}</VAspirE.NuzzledBy>
+  <!--{0} is in a colony with greater than {1} wealth-->
+  <VAspirE.Wealth>{0} перебуває в колонії з більш ніж {1} багатства</VAspirE.Wealth>
+  <!--royal title-->
+  <VAspirE.Title>королівський титул</VAspirE.Title>
+  <!--{0} becomes {1} to another.-->
+  <VAspirE.Becomes>{0} стає {1} для іншого.</VAspirE.Becomes>
+  <!--{0} becomes {1} to one of these: {2}.-->
+  <VAspirE.BecomesList>{0} стає {1} до одного з наступних значень: {2}.</VAspirE.BecomesList>
+  <!--condition-->
+  <VAspirE.Condition>стан</VAspirE.Condition>
+  <!--prosthetic-->
+  <VAspirE.Prosthetic>протезування</VAspirE.Prosthetic>
+  <!--Satisfied when: -->
+  <VAspirE.SatisfiedWhen>Задоволений, коли: </VAspirE.SatisfiedWhen>
+  <!--{0} has achieved their {1} aspiration.-->
+  <VAspireE.AspirationComplete>{0} досягає свого прагнення {1}.</VAspireE.AspirationComplete>
+  <!--Select an aspiration.-->
+  <VAspirE.SelectAspirationSingular>Виберіть прагнення.</VAspirE.SelectAspirationSingular>
+  <!--Select {0} aspirations.-->
+  <VAspirE.SelectAspirationsPlural>Виберіть {0} прагнень.</VAspirE.SelectAspirationsPlural>
+  <!--Choose an aspiration for {0} to gain:-->
+  <VAspirE.BirthdaySelectAspirationSingular>Виберіть прагнення для {0}, щоб отримати:</VAspirE.BirthdaySelectAspirationSingular>
+  <!--Choose aspirations for {0} to gain:-->
+  <VAspirE.BirthdaySelectAspirationsPlural>Виберіть прагнення для {0}, щоб отримати:</VAspirE.BirthdaySelectAspirationsPlural>
+  <!--Aspirations are goals that {0} will want to achieve in their life. Achieving them will increase their mental break threshold, and if all aspirations are fulfilled, {0} will undergo another growth moment.-->
+  <VAspirE.AspirationDesc>Прагнення - це цілі, яких {0} хоче досягти у своєму житті. Досягнення їх знизить поріг психічного зриву, і якщо всі прагнення будуть виконані, {0} пройде ще один момент піднесення.</VAspirE.AspirationDesc>
+  <!--Aspiration {0} was gained.-->
+  <VAspirE.AspirationSelectionArchiveSingular>Було здобуто прагнення {0}.</VAspirE.AspirationSelectionArchiveSingular>
+  <!--Aspirations were gained: {0}.-->
+  <VAspirE.AspirationSelectionArchivePlural>Прагнення були досягнуті: {0}.</VAspirE.AspirationSelectionArchivePlural>
+  <!--{0} has achieved fulfillment from their aspirations and has experienced a growth moment.-->
+  <VAspirE.FullfilledGrowthMoment>{0} досягає реалізації своїх прагнень і проходить момент піднесення.</VAspirE.FullfilledGrowthMoment>
+  <!--{0_nameDef} has demonstrated excellent determination in meeting their lifelong goals and is incredibly content with what they have achieved in their life. {0_nameDef} hopes that they have made a difference in the world.-->
+  <VAspirE.FullfilledGrowthMoment.Desc>{0_nameDef} продемонстрували чудову рішучість у досягненні своїх життєвих цілей і неймовірно задоволені тим, чого вони досягли у своєму житті. {0_nameDef} сподіваються, що вони змінили світ на краще.</VAspirE.FullfilledGrowthMoment.Desc>
+  <!-- scar (permanent)-->
+  <VAspirE.Scar> шрам (постійний)</VAspirE.Scar>
+  <!--Vanilla Aspirations Expanded-->
+  <VAspirE.ModName>Розширення Ванільних Прагнень</VAspirE.ModName>
+  <!--Search-->
+  <VAspirE.Search>Пошук</VAspirE.Search>
+  <!--{0} enabled-->
+  <VAspirE.Enabled>{0} увімкнено</VAspirE.Enabled>
+</LanguageData>
